@@ -8,3 +8,8 @@
 009 - Nochorin primo incontro
 
 # Script/Field/Event
+
+# Message/Layout
+
+field_common_menu - messaggio shortcut
+floating_window - impostazioni shortcut
