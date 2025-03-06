@@ -1,3 +1,10 @@
 75 caratteri per riga prima di andare a capo
 
-demo -> filmati
+# Script/Field/Demo - custscenes
+
+001 - scienziato all'inizio del gioco
+006 - Sancho appena svegliato
+007 - Sancho a tavola
+009 - Nochorin primo incontro
+
+# Script/Field/Event
