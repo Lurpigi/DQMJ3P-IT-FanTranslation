@@ -13,3 +13,4 @@
 
 field_common_menu - messaggio shortcut
 floating_window - impostazioni shortcut
+message_windows - alcuni testi di scelta e mostri incarnus + starters
