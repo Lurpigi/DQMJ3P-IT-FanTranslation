@@ -14,3 +14,13 @@
 field_common_menu - messaggio shortcut
 floating_window - impostazioni shortcut
 message_windows - alcuni testi di scelta e mostri incarnus + starters
+mix_ability_choice - messaggio su scelta di super sintesi
+mix_skill_check - messaggio risultato sintesi
+mix_skill_choice - regole e messaggi sulla sintesi
+MixParents - messaggi di sintesi
+saveload - messaggi sul salvataggio
+status_common_m - nomi di status
+
+# Message
+
+ActionFndMessage - nomi di mosse e ordini
