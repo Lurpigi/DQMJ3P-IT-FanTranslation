@@ -23,6 +23,6 @@ status_common_m - nomi di status
 
 # Message
 
-ActionFndMessage - nomi di mosse e ordini TOBECOMPETED
+ActionFndMessage - nomi di mosse e ordini
 ActionHelpMessage - spiegazione mosse
 AreaMessage - continenti e regioni nel mondo IRL
