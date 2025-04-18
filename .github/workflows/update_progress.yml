@@ -3,38 +3,32 @@ name: Update Translation Progress
 on:
   push:
     paths:
-      - "eng/**"
-      - "it/**"
-      - ".github/workflows/update-progress.yml"
-      - "update_progress.py"
+      - "**.mes"
   workflow_dispatch:
 
-permissions:
-  contents: write
-  pull-requests: write
-
 jobs:
-  update-readme:
+  update-progress:
     runs-on: ubuntu-latest
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.x"
-
-      - name: Run script to update README
-        run: python3 update_progress.py
-
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
+      - name: Checkout repo
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT_GITHUB }}
-          commit-message: "chore: update translation progress"
-          branch: update/progress
-          title: "Aggiornamento percentuale traduzione"
-          body: "Questo PR aggiorna la percentuale di traduzione in README.md"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Calculate progress
+        run: |
+          python3 scripts/update_progress.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "chore: update translation progress" || echo "No changes to commit"
+          git push origin main
