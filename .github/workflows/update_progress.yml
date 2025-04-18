@@ -7,6 +7,7 @@ on:
       - "it/**"
       - ".github/workflows/update-progress.yml"
       - "update_progress.py"
+  workflow_dispatch:
 
 jobs:
   update-readme:
