@@ -1,6 +1,6 @@
 # DQMJ3p Fan Translation
 
-**Traduzione completata**: 0% (0/0 files)
+**Traduzione completata**: 3% (16/457 files)
 
 # IT
 
