@@ -1,0 +1,33 @@
+name: Update Translation Progress
+
+on:
+  push:
+    paths:
+      - "eng/**"
+      - "it/**"
+      - ".github/workflows/update-progress.yml"
+      - "update_progress.py"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Run script to update README
+        run: |
+          python3 update_progress.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "chore: update translation progress" || echo "No changes to commit"
+          git push
