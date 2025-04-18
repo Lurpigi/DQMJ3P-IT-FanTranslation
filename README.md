@@ -1,6 +1,6 @@
 # DQMJ3p Fan Translation
 
-Traduzione completata: 0%
+Traduzione completata: 19%
 
 # IT
 
