@@ -1,58 +1,33 @@
-# DQMJ3p Fan Translation
+# DQMJ3P – Italian Fan Translation  
+**_Dragon Quest Monsters: Joker 3 Professional_**
 
-**Traduzione completata**: 3% (16/457 files)
+📊 **Stato della traduzione principale**: 3% (16/457 files)
 
-# IT
+📊 **Stato della traduzione update**: 3% (16/457 files)
 
-Questo repository è dedicato allo sviluppo di una traduzione amatoriale in italiano per _Dragon Quest Monsters Joker 3: Professional_. Contiene solo file di patch `.mes`, garantendo che nessun materiale protetto da copyright venga condiviso.
+# 🇮🇹 
 
-## Installazione della Mod per DQMJ3P
+> Questo progetto fornisce esclusivamente file di patch `.mes`. Nessun contenuto protetto da copyright  
+> è incluso, nel rispetto della legalità.
 
-<h3>Emulatore</h3>
+---
 
-1. Puoi utilizzare la mia versione di [Lime3DS](https://github.com/Lurpigi/lime3ds-dqmj3p) o Citra 1543 (o una versione precedente).
-2. Installa l'aggiornamento 1.3 tramite **File** → **Install CIA…**.
-3. Fai clic destro su `dqmj3p` nella lista delle ROM e apri la cartella **mods location**.
-4. Crea la cartella `romfs/data`.
-5. Estrai tutti i dati della patch nella cartella `romfs` (prima la patch principale, poi la patch di aggiornamento).
-6. La struttura delle cartelle dovrebbe essere la seguente:
+## 🧩 Installazione della Mod su Emulatore
 
-```
-romfs/
-└── data/
-    ├── Font/
-    ├── Message/
-    ├── Script/
-```
+### ✅ Requisiti
 
-7. Avvia il gioco e goditi la mod!
+- Emulatore compatibile:  
+  🔸 [Lime3DS-DQMJ3P](https://github.com/Lurpigi/lime3ds-dqmj3p) **(consigliato)**  
+  🔸 Citra `nightly-1543` o precedente  
+- Aggiornamento del gioco `v1.3` (`CIA`)
 
-<h3>Istruzioni per patchare la ROM</h3>
+---
 
-1. Ottieni una ROM `.3ds` o `.cia` decriptata (cerca online come effettuare il dump del gioco).
-2. Scarica e apri [HackingToolkit3DS v9](https://github.com/Asia81/HackingToolkit9DS/releases/tag/9).
-3. Usa HackingToolkit3DS per estrarre un file `.3ds` o `.cia`.
-4. Quando richiesto, seleziona **No** per non decomprimere il `code.bin`.
-5. Vai nella cartella `ExtractedRomFS/data` e copia lì i file della patch.
-6. Apri nuovamente HackingToolkit3DS e seleziona **Rebuild** per creare una nuova ROM `.3ds` o `.cia` patchata.
-7. Ripeti questi passaggi sia per il gioco base che per l'aggiornamento 1.3.
+### 🛠️ Istruzioni
 
-Una volta terminato, puoi caricare la ROM patchata in Citra e giocare con la mod installata!
-
-# Eng
-
-This repository is dedicated to developing an Italian fan translation for _Dragon Quest Monsters Joker 3: Professional_. It contains only `.mes` patch files, ensuring no copyrighted material is shared.
-
-## Installing the Mod for DQMJ3P
-
-<h3>Emulator</h3>
-
-1. You can use my version of [Lime3DS](https://github.com/Lurpigi/lime3ds-dqmj3p) or Citra 1543 (or older version).
-2. Install update 1.3 via **File** → **Install CIA…**.
-3. Right-click on `dqmj3p` in the ROM list and open the **mods location** folder.
-4. Create the `romfs/data` folder.
-5. Extract all patch data into the `romfs` folder (first the main patch, then the update patch).
-6. The folder structure should look like this:
+1. Avvia l’emulatore e installa l’update `1.3` con **File → Install CIA…**  
+2. Nella lista delle ROM, fai clic destro su `dqmj3p` → **Open mods location**
+3. Crea la seguente struttura di cartelle (se non esiste già):
 
 ```
 romfs/
@@ -62,16 +37,89 @@ romfs/
     ├── Script/
 ```
 
-7. Launch the game and enjoy the mod!
+4. Estrai il contenuto della patch nella cartella `romfs/`  
+   ⚠️ Prima la patch **principale**, poi l’**aggiornamento**
+5. Avvia il gioco. La mod dovrebbe essere attiva! 🎉
 
-<h3>Instructions for patching the ROM</h3>
+---
 
-1. Obtain a decrypted `.3ds` or `.cia` ROM (search online for how to dump the game).
-2. Download and open [HackingToolkit3DS v9](https://github.com/Asia81/HackingToolkit9DS/releases/tag/9).
-3. Use HackingToolkit3DS to extract a `.3ds` or `.cia` file.
-4. When prompted, select **No** to decompress the `code.bin`.
-5. Go to the `ExtractedRomFS/data` folder and copy the patch files there.
-6. Open HackingToolkit3DS again and select **Rebuild** to create a new patched `.3ds` or `.cia` ROM.
-7. Repeat these steps for both the base game and the 1.3 update.
+## 🧪 Istruzioni per Patchare la ROM Originale
 
-Once finished, you can load the patched ROM into Citra and play with the mod installed!
+> ⚠️ **Nota:** Hai bisogno di una ROM `.3ds` o `.cia` **decriptata**  
+> Cerca online come effettuare il dump del gioco in tuo possesso.
+
+### 📦 Strumenti necessari
+
+- [HackingToolkit3DS v9](https://github.com/Asia81/HackingToolkit9DS/releases/tag/9)
+
+### 🔧 Passaggi
+
+1. Apri **HackingToolkit3DS** e estrai la tua ROM `.3ds` o `.cia`
+2. Quando richiesto: seleziona **No** per non decomprimere il `code.bin`
+3. Vai nella cartella `ExtractedRomFS/data`  
+4. Copia lì dentro i file della patch
+5. Torna a HackingToolkit3DS e scegli **Rebuild**
+6. Ripeti l’intero processo anche per l’aggiornamento `1.3`
+
+🎮 Ora puoi caricare la ROM patchata su Citra e goderti il gioco in italiano!
+
+---
+
+# 🇬🇧 
+
+This repository provides an Italian fan translation for _Dragon Quest Monsters: Joker 3 Professional_.  
+Only `.mes` patch files are included—**no copyrighted content**
+
+📊 **Translation progress:** `3%` _(16/457 files)_
+
+---
+
+## 🧩 Installing the Mod on Emulator
+
+### ✅ Requirements
+
+- Emulator:  
+  🔸 [Lime3DS-DQMJ3P](https://github.com/Lurpigi/lime3ds-dqmj3p) **(recommended)**  
+  🔸 Citra `nightly-1543` or older  
+- Update 1.3 `.CIA` file
+
+---
+
+### 🛠️ Instructions
+
+1. Launch the emulator and install update `1.3` via **File → Install CIA…**  
+2. Right-click on `dqmj3p` → **Open mods location**
+3. Create the folder structure below (if not present):
+
+```
+romfs/
+└── data/
+    ├── Font/
+    ├── Message/
+    ├── Script/
+```
+
+4. Extract the patch into `romfs/`  
+   ⚠️ First the **main patch**, then the **update patch**
+5. Run the game and enjoy the mod! 🎉
+
+---
+
+## 🧪 ROM Patching Instructions
+
+> ⚠️ **Note:** You need a **decrypted** `.3ds` or `.cia` ROM.  
+> Search online for guides on how to dump your own cartridge.
+
+### 📦 Required Tool
+
+- [HackingToolkit3DS v9](https://github.com/Asia81/HackingToolkit9DS/releases/tag/9)
+
+### 🔧 Steps
+
+1. Open **HackingToolkit3DS** and extract your ROM
+2. When prompted: choose **No** to avoid decompressing `code.bin`
+3. Go to `ExtractedRomFS/data` and paste in the patch files
+4. Reopen HackingToolkit3DS and select **Rebuild**
+5. Repeat the process for both the base game and the update `1.3`
+
+🎮 Load your new patched ROM in Citra and enjoy the game in Italian!
