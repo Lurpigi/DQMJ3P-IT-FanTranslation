@@ -1,4 +1,5 @@
-# DQMJ3P – Italian Fan Translation  
+# DQMJ3P – Italian Fan Translation
+
 **_Dragon Quest Monsters: Joker 3 Professional_**
 
 📊 **Stato della traduzione principale**: 5% (23/457 files)
@@ -6,6 +7,8 @@
 📊 **Stato della traduzione update**: 0% (0/22 files)
 
 # IT
+
+Questo repository è dedicato allo sviluppo di una traduzione amatoriale in italiano per _Dragon Quest Monsters Joker 3_:
 
 > Questo progetto fornisce esclusivamente file di patch `.mes`. Nessun contenuto protetto da copyright  
 > è incluso, nel rispetto della legalità.
@@ -16,16 +19,16 @@
 
 ### ✅ Requisiti
 
-- Emulatore compatibile:  
-  🔸 [Lime3DS-DQMJ3P](https://github.com/Lurpigi/lime3ds-dqmj3p) **(consigliato)**  
-  🔸 Citra `nightly-1543` o precedente  
-- Aggiornamento del gioco `v1.3` (`CIA`)
+-   Emulatore compatibile:  
+    🔸 [Lime3DS-DQMJ3P](https://github.com/Lurpigi/lime3ds-dqmj3p) **(consigliato)**  
+    🔸 Citra `nightly-1543` o precedente
+-   Aggiornamento del gioco `v1.3` (`CIA`)
 
 ---
 
 ### 🛠️ Istruzioni
 
-1. Avvia l’emulatore e installa l’update `1.3` con **File → Install CIA…**  
+1. Avvia l’emulatore e installa l’update `1.3` con **File → Install CIA…**
 2. Nella lista delle ROM, fai clic destro su `dqmj3p` → **Open mods location**
 3. Crea la seguente struttura di cartelle (se non esiste già):
 
@@ -50,13 +53,13 @@ romfs/
 
 ### 📦 Strumenti necessari
 
-- [HackingToolkit3DS v9](https://github.com/Asia81/HackingToolkit9DS/releases/tag/9)
+-   [HackingToolkit3DS v9](https://github.com/Asia81/HackingToolkit9DS/releases/tag/9)
 
 ### 🔧 Passaggi
 
 1. Apri **HackingToolkit3DS** e estrai la tua ROM `.3ds` o `.cia`
 2. Quando richiesto: seleziona **No** per non decomprimere il `code.bin`
-3. Vai nella cartella `ExtractedRomFS/data`  
+3. Vai nella cartella `ExtractedRomFS/data`
 4. Copia lì dentro i file della patch
 5. Torna a HackingToolkit3DS e scegli **Rebuild**
 6. Ripeti l’intero processo anche per l’aggiornamento `1.3`
@@ -76,16 +79,16 @@ Only `.mes` patch files are included—**no copyrighted content**
 
 ### ✅ Requirements
 
-- Emulator:  
-  🔸 [Lime3DS-DQMJ3P](https://github.com/Lurpigi/lime3ds-dqmj3p) **(recommended)**  
-  🔸 Citra `nightly-1543` or older  
-- Update 1.3 `.CIA` file
+-   Emulator:  
+    🔸 [Lime3DS-DQMJ3P](https://github.com/Lurpigi/lime3ds-dqmj3p) **(recommended)**  
+    🔸 Citra `nightly-1543` or older
+-   Update 1.3 `.CIA` file
 
 ---
 
 ### 🛠️ Instructions
 
-1. Launch the emulator and install update `1.3` via **File → Install CIA…**  
+1. Launch the emulator and install update `1.3` via **File → Install CIA…**
 2. Right-click on `dqmj3p` → **Open mods location**
 3. Create the folder structure below (if not present):
 
@@ -110,7 +113,7 @@ romfs/
 
 ### 📦 Required Tool
 
-- [HackingToolkit3DS v9](https://github.com/Asia81/HackingToolkit9DS/releases/tag/9)
+-   [HackingToolkit3DS v9](https://github.com/Asia81/HackingToolkit9DS/releases/tag/9)
 
 ### 🔧 Steps
 
