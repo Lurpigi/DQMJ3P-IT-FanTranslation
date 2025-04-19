@@ -33,3 +33,8 @@ CharMakeMenuMessage - messaggi personalizzazione protagonista
 CouplingSearch - testi filtraggio sintesi
 CrackMessage - messaggi inerenti ai portali nascosti
 DiaryMessage - messaggi diario completamento avventura, nomi luoghi e personaggi nelle descrizioni
+DiscCodeName - nomi dei dischi per generare proceduralmente un dungeon sfida
+DiscMessage - messaggi creazione, caratteristiche e spiegazione dischi
+DiscName - nomi di base per Dischi
+DiscQuestResultMessage - messaggi risultati missione disco
+DiscUseMenuMessage - messaggi menu disco
