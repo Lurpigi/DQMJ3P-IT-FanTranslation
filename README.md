@@ -3,9 +3,9 @@
 
 📊 **Stato della traduzione principale**: 3% (16/457 files)
 
-📊 **Stato della traduzione update**: 3% (16/457 files)
+📊 **Stato della traduzione update**: 0% (0/22 files)
 
-# 🇮🇹 
+# IT
 
 > Questo progetto fornisce esclusivamente file di patch `.mes`. Nessun contenuto protetto da copyright  
 > è incluso, nel rispetto della legalità.
@@ -65,12 +65,10 @@ romfs/
 
 ---
 
-# 🇬🇧 
+# ENG
 
 This repository provides an Italian fan translation for _Dragon Quest Monsters: Joker 3 Professional_.  
 Only `.mes` patch files are included—**no copyrighted content**
-
-📊 **Translation progress:** `3%` _(16/457 files)_
 
 ---
 
