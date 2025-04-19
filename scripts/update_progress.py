@@ -27,7 +27,7 @@ readme_path = "README.md"
 # Aggiorna lo stato della traduzione principale
 update_progress_section(
     readme_path,
-    "**Stato della traduzione principale**:",
+    "📊 **Stato della traduzione principale**:",
     "eng",
     "it"
 )
@@ -35,7 +35,7 @@ update_progress_section(
 # Aggiorna lo stato della traduzione update
 update_progress_section(
     readme_path,
-    "**Stato della traduzione update**:",
+    "📊 **Stato della traduzione update**:",
     "update/eng",
     "update/it"
 )
