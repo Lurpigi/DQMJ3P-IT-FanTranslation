@@ -26,3 +26,10 @@ status_common_m - nomi di status
 ActionFndMessage - nomi di mosse e ordini
 ActionHelpMessage - spiegazione mosse
 AreaMessage - continenti e regioni nel mondo IRL
+BattleEventMessage - eventi battaglia
+BattleResultMessage - pochi messaggi credo post battaglia
+BossGuideMessage - messaggi connessione e SD 3ds
+CharMakeMenuMessage - messaggi personalizzazione protagonista
+CouplingSearch - testi filtraggio sintesi
+CrackMessage - messaggi inerenti ai portali nascosti
+DiaryMessage - messaggi diario completamento avventura, nomi luoghi e personaggi nelle descrizioni
