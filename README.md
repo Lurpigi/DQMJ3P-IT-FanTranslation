@@ -3,7 +3,7 @@
 
 📊 **Stato della traduzione principale**: 3% (16/457 files)
 
-📊 **Stato della traduzione update**: 3% (16/457 files)
+📊 **Stato della traduzione update**: 0% (0/22 files)
 
 # 🇮🇹 
 
