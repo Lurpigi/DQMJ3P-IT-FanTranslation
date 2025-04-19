@@ -1,7 +1,7 @@
 # DQMJ3P – Italian Fan Translation  
 **_Dragon Quest Monsters: Joker 3 Professional_**
 
-📊 **Stato della traduzione principale**: 4% (22/457 files)
+📊 **Stato della traduzione principale**: 5% (23/457 files)
 
 📊 **Stato della traduzione update**: 0% (0/22 files)
 
