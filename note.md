@@ -38,3 +38,4 @@ DiscMessage - messaggi creazione, caratteristiche e spiegazione dischi
 DiscName - nomi di base per Dischi
 DiscQuestResultMessage - messaggi risultati missione disco
 DiscUseMenuMessage - messaggi menu disco
+FeatFndMessage - nomi dei tratti ereditabili
