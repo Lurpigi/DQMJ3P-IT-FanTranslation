@@ -39,3 +39,15 @@ DiscName - nomi di base per Dischi
 DiscQuestResultMessage - messaggi risultati missione disco
 DiscUseMenuMessage - messaggi menu disco
 FeatFndMessage - nomi dei tratti ereditabili
+FeatHelpMessage - spiegazione tratti
+FieldAthleticsMessage - messaggi credo minigioco cavalcatura
+FieldAuraMessage - eventi che accadono durante l'esplorazione?
+FieldConnectiveMessage - messaggi eventi riepilogo
+FieldLuckyMessage - eventi quando prendi una fata
+FieldMessage - messaggi eventi mentre esplori/cavalchi
+FlightMessage - messaggi quando voli nello spazio
+GoldBankMessage - messaggi della banca
+HabitatMessage - Nomi di luoghi
+HelpMessage - messaggi di info, eventi e aiuti
+IconMessage - NON TRADOTTO ROBA IN GIAPPONESE
+Information - infromazioni che ti dà la guida
