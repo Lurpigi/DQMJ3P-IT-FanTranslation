@@ -51,3 +51,7 @@ HabitatMessage - Nomi di luoghi
 HelpMessage - messaggi di info, eventi e aiuti
 IconMessage - NON TRADOTTO ROBA IN GIAPPONESE
 Information - infromazioni che ti dà la guida
+ItemGetMessage - messaggi "hai trovato" oggetti
+ItemHelpMessage - descrizione oggetti (TODO)
+...
+SkillMessage - nomi di Abilità
