@@ -53,5 +53,8 @@ IconMessage - NON TRADOTTO ROBA IN GIAPPONESE
 Information - informazioni che ti dà la guida
 ItemGetMessage - messaggi "hai trovato" oggetti
 ItemHelpMessage - descrizione oggetti
+ItemMessage - nome degli oggetti (TODO)
+...
+MonsterKindMessage - nome dei mostri
 ...
 SkillMessage - nomi di Abilità
