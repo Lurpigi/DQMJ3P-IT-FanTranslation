@@ -44,5 +44,5 @@ def process_file(input_path, output_path):
 
 
 if __name__ == "__main__":
-    process_file("input.txt", "output.txt")
+    process_file("aaa.txt", "output.txt")
     # print(format_line("3 frammenti dell’anima di Wildcard{CL}frantumati dalla Furia della Madre.", 50))

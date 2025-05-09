@@ -54,11 +54,26 @@ IconMessage - NON TRADOTTO ROBA IN GIAPPONESE
 Information - informazioni che ti dà la guida
 ItemGetMessage - messaggi "hai trovato" oggetti
 ItemHelpMessage - descrizione oggetti
-ItemMessage - nome degli oggetti (TODO)
+ItemMessage - nome degli oggetti (((((((((((((TODO)))))))))))))
 LayoutMessage - scritte di layout, minigiochi, fusioni, luoghi e altro
 LocationMessage - NON TRADOTTO nomi di stati IRL in inglese
 MapMessage - messaggi visibili nella mappa
-...
+MenuMessage - messagi stile eventi del menu e battaglia wireless
 MonsterKindMessage - nome dei mostri
-...
+MonsterTriviaMessage - descrizione dei mostri
+NameMessage - caratteri per la tastiera
+PartnerMessage - messaggi del tuo partner
+ProfileBgName - nomi dei background per il profilo
+RaceMessage - messaggi per il minigioco con la cavalcatura
+RaSearchMessage - messaggi reattore potnziato con Ra
+ReactorAnalyzeMessage - messaggi dopo analisi con reattore
+ReactorFndMessage - messaggi dopo analisi con reattore
+RulerPointMessage - messaggi con nomi di luoghi, non so dove
+SkillHelpMessage - spiegazioni di Abilità
 SkillMessage - nomi di Abilità
+SortMessage - credo roba da scegliere per sort
+StateMessage - messaggi di stato in battaglia
+StealthBoxMessage - dialoghi box nascoste e formago nascosto
+TalkNameMessage - nomi npc parlanti
+TrophyMessage - spiegazione trofei
+TrophyName - nomi dei trofei
