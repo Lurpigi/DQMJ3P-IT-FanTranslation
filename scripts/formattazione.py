@@ -8,7 +8,7 @@ def calculate_length(text):
     return length
 
 
-def format_line(line, max_len=50):
+def format_line(line, max_len=54):
     # Sostituisce {CL} con spazio e rimuove spazi multipli
     line = line.replace("{CL}", " ").strip()
     while "  " in line:
@@ -44,5 +44,5 @@ def process_file(input_path, output_path):
 
 
 if __name__ == "__main__":
-    process_file("aaa.txt", "output.txt")
+    process_file("input.txt", "output.txt")
     # print(format_line("3 frammenti dell’anima di Wildcard{CL}frantumati dalla Furia della Madre.", 50))
