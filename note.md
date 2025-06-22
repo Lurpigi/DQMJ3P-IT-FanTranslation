@@ -77,3 +77,14 @@ StealthBoxMessage - dialoghi box nascoste e formago nascosto
 TalkNameMessage - nomi npc parlanti
 TrophyMessage - spiegazione trofei
 TrophyName - nomi dei trofei
+
+# Update/Message
+
+ActionFndMessage - uguale
+ActionHelpMessage
+...
+FeatFndMessage - uguale
+...
+MonsterKindMessage - uguale
+...
+SkillMessage - uguale
