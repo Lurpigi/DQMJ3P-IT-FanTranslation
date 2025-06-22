@@ -4,7 +4,7 @@
 
 📊 **Stato della traduzione principale**: 14% (65/457 files)
 
-📊 **Stato della traduzione update**: 0% (0/22 files)
+📊 **Stato della traduzione update**: 18% (4/22 files)
 
 # IT
 
