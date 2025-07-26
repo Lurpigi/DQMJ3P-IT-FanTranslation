@@ -27,7 +27,7 @@ jobs:
 
             - name: Run mes to json converter
               run: |
-                  python3 script/mes_to_json.py
+                  python3 scripts/mes_to_json.py
 
             - name: Commit and push JSON files
               run: |
