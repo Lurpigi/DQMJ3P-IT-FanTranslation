@@ -1,0 +1,8 @@
+{
+  "symbol_get_one": "Hai trovato %ls!",
+  "symbol_get_some": "Hai trovato %ls %lss!",
+  "symbol_get_gold": "Hai trovato %ls\u0001\u0004Ｇ\u0001\u0001!",
+  "box_get_one": "Hai trovato \u0001\u0004%ls\u0001\u0001!",
+  "box_get_some": "\u0001\u0004%ls\u0001\u0001 x%ls ottenuto!",
+  "box_get_gold": "Hai trovato %ls\u0001\u0004Ｇ\u0001\u0001!"
+}

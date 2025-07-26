@@ -1,0 +1,16 @@
+{
+  "MSG_SCREEN_000": "The Transmission Unit seems to be functioning.",
+  "MSG_SCREEN_001": "The main monitors lit up. It looks like two sub-power modules need to be activated.",
+  "MSG_DOOR_000": "The door is shut tight! Restore power to get it open.",
+  "MSG_BATTERY_000": "The switch is glowing green. The sub-power seems to have started.",
+  "REC_POINT_NOC_01_01": "Control Panel",
+  "REC_POINT_NOC_01_02": "\u0001̄A control system of auxiliary recovery circuits that has been directly integrated into the Power Plant's security system.\u0001ā\nThe electrical grid for the city is solely managed by this Control Panel device.",
+  "REC_POINT_NOC_02_01": "Generator Control",
+  "REC_POINT_NOC_02_02": "\u0001̄A power supply, made possible through the use of a large battery.\nDesigned for disaster recovery, during a power failure.",
+  "REC_POINT_NOC_03_01": "Disaster Prevention Door",
+  "REC_POINT_NOC_03_02": "\u0001̄A mechanical Disaster Prevention shutter. It would likely be operational if power were to be restored to the city.",
+  "NPC_ACE_MSG_020": "\u0001́Alright-alright! You got it! Now, head on through!",
+  "NOT_START_UP_MSG": "Nothing happened...",
+  "NPC_ACE_MSG_010": "\u0001́How 'bout that, \u0001ȁ!\nLooks like ya found somethin' good!\n\u0001ā\nHmm... that looks like some good data to me!\nSend that on over, and I'll give it a look!",
+  "REC_RA_MONS_MES": "\u0001̄It has been infected by the Insurgent Demon.\nIt has an incredibly large amount of power."
+}

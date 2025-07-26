@@ -1,0 +1,10 @@
+{
+  "first_get": "L'effetto %ls durerà per 30 secondi!\nSbrigati e distruggi più mostri che puoi!",
+  "effect_time": "All'effetto %ls restano 15 secondi!",
+  "second_get": "L'effetto %ls dura 30 secondi mentre cavalchi!",
+  "end": "L'effetto %ls è svanito!",
+  "gold": "Spirito Combattivo",
+  "item": "Grande Spirito Combattivo",
+  "exp": "Spirito Divino Combattivo",
+  "aura_analyzed_message": "\u0001̄Un'emissione di luce. Queste aure conferiscono ai mostri cavalcati un'aura e poteri speciali per un tempo limitato.\n"
+}

@@ -1,0 +1,10 @@
+{
+  "NPC_NAME_010": "\u0001́Statement Page 1.\n　\n\u0001ā\nStatement Page 2.",
+  "NPC_NAME_020": "\u0001́Question Page 1.\n　\n\u0001ā\nQuestion Page 2.\u0001Ă",
+  "GIM_GAREKI_010": "A strong breeze is flowing through the rocks in the rock.\nSomething must be on the other side...\n\u0001ā\nWould you like to smash the rock?\u0001Ă",
+  "GIM_GAREKI_020": "A strong breeze is flowing through the rocks in the rock.\nIf you were riding a monster, you could likely break it.",
+  "REC_TORNADO_011": "\u0001̄A strong wind forms a tornado, and is blowing upwards.\nYou could likely ride this wind and escape from the cavern.",
+  "REC_TORNADO_010": "Tornado",
+  "REC_GAREKI_010": "Cracked Rock",
+  "REC_GAREKI_011": "\u0001̄Rocks breakable by monsters, if you are riding them.\nYou can feel a breeze flowing through the cracks."
+}

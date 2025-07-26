@@ -1,0 +1,10 @@
+{
+  "first_get": "The %ls effect will last for 30 seconds!\nHurry and destroy as many monsters as you can!",
+  "effect_time": "The %ls effect has 15 seconds left!",
+  "second_get": "The %ls effect last for 30 seconds while riding!",
+  "end": "The %ls effect has worn off!",
+  "gold": "Fighting Spirit",
+  "item": "Large Fighting Spirit",
+  "exp": "Divine Fighting Spirit",
+  "aura_analyzed_message": "\u0001̄An emission of light. These aura's grant riding \nmonsters with an aura, and special powers for limited time."
+}

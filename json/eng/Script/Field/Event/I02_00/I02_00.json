@@ -1,0 +1,6 @@
+{
+  "LOCK_MESSAGE": "This door won't open. It appears to be locked from the other side.",
+  "SYSTEM_MSG_000": "This is a Control Panel. Use it to unlock the door?\u0001Ă",
+  "REC_POINT_ICE_01": "Emergency Shutter",
+  "REC_POINT_ICE_01_2": "\u0001̄An emergency shutter that operates using electrical power. It can be opened using a nearby Control Panel."
+}

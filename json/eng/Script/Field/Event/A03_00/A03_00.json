@@ -1,0 +1,19 @@
+{
+  "MOVE_WEST_ELEVATOR": "Would you like to ride the elevator?\u0001Ă",
+  "REC_POINT_GP_01_01": "West Elevator",
+  "UNLOCK_ELEVATOR": "The elevator is unlocked. You should be able to use it now.",
+  "MOVE_EAST_ELEVATOR": "Would you like to ride the elevator?\u0001Ċ",
+  "CHOICE_MOVE_UP_OR_DOWN": "Which direction would you like to ride the elevator? \u0001ĕ",
+  "LOCK_MESSAGE": "The door is firmly closed.\n\u0001ā\nTo open the door you will need the \u0001\u0004%ls\u0001\u0001.",
+  "REC_POINT_GP_04_02": "\u0001̄You can use Key Card α to unlock the Security Door on the 29th floor.",
+  "UNLOCK_DOOR_MESSAGE": "The \u0001\u0004%ls\u0001\u0001 door has been unlocked!",
+  "REC_POINT_GP_01_02": "\u0001̄This elevator utilizes the gravity control. You can ride it up to the top floor.",
+  "REC_POINT_GP_02_01": "East Elevator",
+  "REC_POINT_GP_02_02": "\u0001̄An elevator controlled by the gravitational device. It will let you visit floors both above and below.",
+  "REC_POINT_GP_03_01": "Security Door α",
+  "REC_POINT_GP_03_02": "\u0001̄The door is locked. Only personnel with \n\u0001\u0004Key Card α\u0001\u0001 can open it.",
+  "REC_POINT_GP_04_01": "\u0001\u0004Key Card α\u0001\u0001",
+  "REC_POINT_GP_05_01": "\u0001\u0004Key Card β\u0001\u0001",
+  "REC_POINT_GP_05_02": "\u0001̄You can use Key Card β to unlock the Security Door on the 30th floor.",
+  "REC_RA_MONS_MES": "\u0001̄An Insurgent Demon transformed by Mother's\nrampage. It has an frightening amount of power."
+}

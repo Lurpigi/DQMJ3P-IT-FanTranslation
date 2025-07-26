@@ -1,0 +1,19 @@
+{
+  "Level": "Lv%ls",
+  "OneLine_IconLevelName": "ﾄ%ls %ls",
+  "Query_Quest": "Will you insert the %ls\nand begin the quest associated with it?\u0001Ă",
+  "Mode_Quest": "Quest Mode",
+  "Appear_Unknown": "Unknown",
+  "Mode_Free": "Free Mode",
+  "ModeGuide_Quest": "You can get a variety of rewards\nby completing this quest.",
+  "ModeGuide_Free": "Energy will not be consumed, and \nyou can freely enjoy the map inside\nof the disc.",
+  "Error_EnergyShortage": "There is not enough energy\nto use this Disc.",
+  "Appear_Hide": "？？？？？？？？",
+  "Query_Free": "You want to enter Free Mode by using \nthis %ls Disc?\u0001Ă",
+  "Query_Other": "Would you like to use\nthe %ls?\u0001Ă",
+  "Title_Upper_Basic": "Basic Info",
+  "Title_Upper_Monster": "Monster",
+  "Reward_Exp": "Exp.",
+  "Reward_Gold": "Gold",
+  "Reward_Color": "Rainbow Fondude"
+}

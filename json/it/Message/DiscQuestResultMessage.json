@@ -1,0 +1,18 @@
+{
+  "BasicResultType_Value": "Premio Normale",
+  "BasicResultType_Odds": "Probabilità Normali",
+  "ResultType_Value": "Premio Speciale",
+  "ResultType_Odds": "Probabilità Speciali",
+  "PrizeType_Exp": "Exp.",
+  "PrizeType_Gold": "Oro",
+  "PrizeUnit_Exp": "Exp.",
+  "PrizeUnit_Gold": "G",
+  "Result_Failure": "Missione fallita.",
+  "Lottery_Success": "Congratulazioni!\nHai anche ottenuto una ricompensa speciale!\nHai vinto %ls.",
+  "Result_Success": "Completando con successo questa missione, hai\ntrovato %ls x%ls.",
+  "Result_Lottery": "Il premio per questa estrazione sarà\n%ls!",
+  "One_Time_Success": "Il disco offre una ricompensa una tantum e\nè stato ora eliminato.",
+  "Lottery_Failure": "Purtroppo, questa volta non hai ottenuto un premio speciale!\nCome premio di consolazione, però, accetta il\n%ls x%ls.",
+  "Result_DiscLevelUp": "Il Livello del Disco %ls è aumentato!　Lv%ls　→　Lv%ls",
+  "Result_MonsterLevelUp": "Il Livello di %ls è aumentato!　\nLv.%ls　→　Lv.%ls"
+}

@@ -1,0 +1,18 @@
+{
+  "ResultMessageHPUP": "Max HP+",
+  "ResultMessageMPUP": "Max MP+",
+  "ResultMessageAtkUP": "Max ATK+",
+  "ResultMessageIntUP": "Max INT+",
+  "ResultMessageDefUP": "Max DEF+",
+  "ResultMessageAgiUP": "Max AGI+",
+  "FairyEffectEnd": "Fairy Effects have worn off",
+  "ResultMessageGetSkillPointUpper": "acquired",
+  "ResultMessageGetSkillPointLower": "skill points!",
+  "GrowthLimitUpper": "は",
+  "GrowthLimitLower": "has reached its limits!",
+  "GenkidamaEffectEnd": "%ls's effect has worn off",
+  "ChainFinish": "Chain Finish",
+  "HealthyBall": "Ball of Light",
+  "FairyPower": "Fairy Power",
+  "Rate": "×%ls"
+}

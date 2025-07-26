@@ -1,0 +1,23 @@
+{
+  "TEST_001": "Opening Demo 005 will now be played.",
+  "DEMO_005_AFT_SYS_001": "A strange device seems to have crash landed here.\nWould you like to examine it?\u0001Ă",
+  "npc_001_battle_start": "Here it comes!",
+  "DEMO_005_AFT_SYS_002": "You set the machine back on the ground.",
+  "npc_001_ask_battle": "Well, Master, would you like to battle?\u0001Ă",
+  "npc_001_no_battle": "Hmph! Well, that's lame!",
+  "npc_001_battle_win00": "Alright... I give up!\nYou sure are strong!",
+  "npc_001_battle_win_item": "○HERO○ received the Mini Medal!",
+  "npc_001_battle_win01": "I'll look forward to the next one!",
+  "npc_001_ask_battle_REAL": "This time I'll hold nothing back.",
+  "npc_001_battle_lose": "You did your best.",
+  "mine_000": "Event Mine_000 has occured.",
+  "npc_000": "Pick Found",
+  "npc_001": "Land Ride - Now",
+  "npc_002": "2nd Line\n\u0001ā\nNext Window",
+  "npc_003": "Third Line",
+  "npc_004": "Water Ride",
+  "npc_005": "Fifth Line▼\n2nd Page",
+  "npc_006": "Unlock Air Ride?",
+  "npc_001_1": "It's a conversation message.",
+  "npc_001_2": "It's after the flag message."
+}

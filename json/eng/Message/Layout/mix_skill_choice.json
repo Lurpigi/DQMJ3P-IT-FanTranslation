@@ -1,0 +1,7 @@
+{
+  "mix_skill_choice_num": "You are required to select at least 1 skill to pass on.\nChoose %ls Skills listed to pass along to the fused\nmonster. 1/2 of the parent skills allocated SP will be \ntransferable to the fused result. Any transferred skills \nwill go down by 1 point.",
+  "mix_skill_choice_ato": "After: %ls",
+  "mix_skill_choice_nasi": "No selection",
+  "mix_skill_choice_nothing": "A skill must be chosen to continue. \nPlease select a skill to assign.",
+  "mix_skill_choice_no_select": "No Skill selected"
+}

@@ -1,0 +1,19 @@
+{
+  "Level": "Lv%ls",
+  "OneLine_IconLevelName": "ﾄ%ls %ls",
+  "Query_Quest": "Vuoi inserire il %ls\ne iniziare la missione associata?\u0001Ă",
+  "Mode_Quest": "Modalità Missione",
+  "Appear_Unknown": "Sconosciuto",
+  "Mode_Free": "Modalità Libera",
+  "ModeGuide_Quest": "Puoi ottenere una varietà di ricompense\ncompletando questa missione.",
+  "ModeGuide_Free": "L’energia non verrà consumata, e\npotrai esplorare liberamente la mappa\ncontenuta nel disco.",
+  "Error_EnergyShortage": "Non hai abbastanza energia\nper usare questo Disco.",
+  "Appear_Hide": "？？？？？？？？",
+  "Query_Free": "Vuoi entrare in Modalità Libera usando\nquesto Disco %ls?\u0001Ă",
+  "Query_Other": "Vuoi usare\nil %ls?\u0001Ă",
+  "Title_Upper_Basic": "Info Base",
+  "Title_Upper_Monster": "Mostro",
+  "Reward_Exp": "Exp.",
+  "Reward_Gold": "Oro",
+  "Reward_Color": "Formarcobaleno"
+}

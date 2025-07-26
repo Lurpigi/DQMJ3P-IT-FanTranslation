@@ -1,0 +1,19 @@
+{
+  "NPC_NAME_010": "\u0001́Statement Page 1.\n　\n\u0001ā\nStatement Page 2.",
+  "MINE_PEDESTAL_050": "The machine begins to react violently towards\n\u0001ȁ's %ls!\n\u0001ā\n\u0001\u0004%ls\u0001\u0001 is pulled into the machine!\n\u0001ā\n\u0001\u0004%ls\u0001\u0001 regained it's power! You should head \nback to the Prison Tower's power room!",
+  "NPC_NAME_020": "\u0001́Question Page 1.\n　\n\u0001ā\nQuestion Page 2.\u0001Ă",
+  "MINE_PEDESTAL_060": "You've already received the \u0001\u0004%ls\u0001\u0001\nfrom this device.\n\u0001ā",
+  "NPC_RA_MONS_010": "\u0001̃Gullerr-igliril-yri!",
+  "MINE_PEDESTAL_010": "It looks to be a device that can convert objects into energy.\nTry scanning it with your Reactor.",
+  "MINE_PEDESTAL_020": "It looks to be a device that can convert objects into energy.\n\u0001ā\nThere is a reaction to \u0001ȁ's \u0001\u0004%ls\u0001\u0001.\nWords suddenly start appearing on the screen!\n\u0001ā\nEnergy shall dwell upon \u0001\u0004%ls\u0001\u0001 when you bring he who bears the name %ls.",
+  "MINE_PEDESTAL_030": "The device is reacting to \u0001ȁ's　\u0001\u0004%ls\u0001\u0001 and words appeared!\n\u0001ā\nEnergy shall dwell upon \u0001\u0004%ls\u0001\u0001 when you bring %ls.",
+  "MINE_PEDESTAL_040": "%ls requires %ls\n%ls, %ls & %ls...\n\u0001ā\nIt is created from these 4 parts.",
+  "MINE_PEDESTAL_070": "\u0001ȁ's %ls is resonating with the apparatus!\n\u0001ā\n\u0001\u0004%ls\u0001\u0001 now has power!\n\u0001ā\nGetting power from %ls more apparatus will return \u0001\u0004%ls\u0001\u0001 to its original state.",
+  "MINE_PEDESTAL_060_2": "When you have %ls Tokkara, \n\u0001\u0004%ls\u0001\u0001 will be fully restored.",
+  "MINE_PEDESTAL_060_3": "\u0001\u0004%ls\u0001\u0001 has been restored! Head back to the \npower room in the Black Iron Prison Tower!",
+  "REC_RA_MONS_010": "\u0001̄It's a Trauminator, but it has gold-plated armor.\nIt seems to be guarding a treasure or some sorts.",
+  "REC_POINT_01_01": "Divine Altar",
+  "REC_POINT_01_02": "\u0001̄It seems to have been destroyed.\nOnce used in a ritual to empower a divine creature.",
+  "REC_POINT_02_01": "Magic Monument",
+  "REC_POINT_02_02": "\u0001̄An appartus used to fill an orb with light.\nYou must have the right monster, to fill the correct orb."
+}

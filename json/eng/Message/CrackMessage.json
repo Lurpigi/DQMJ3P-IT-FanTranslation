@@ -1,0 +1,16 @@
+{
+  "crack_enter_001": "The very fabric of space and time has torn in half. The resulting\nwormhole appears to connect to a parallel world.\u0001ā\nWould you like to enter the wormhole?\u0001Ă",
+  "crack_return_001": "Would you like to enter the wormhole and head back to your world?\u0001Ă",
+  "crack_clear_001": "You cleared all of the objectives inside\nthe parallel world.",
+  "crack_monster_start_001": "You've just entered a parallel world!\n\u0001ā\nA large group of monsters has been detected, waiting \njust up ahead for you to challenge them.",
+  "crack_item_start_001": "You've just entered a parallel world!\n\u0001ā\nA bunch of items have through this wormhole\nand are scatted all over the place!",
+  "crack_master_start_001": "You've made it through the wormhole safely!\n\u0001ā\nAnother Monster Master has been detected waiting \nfor you somewhere nearby.",
+  "crack_master_start_002": "The Reactor is sensing something in this area.\nTry using it to find a rift in Space-time.",
+  "crack_darllord_start_001": "You've just entered a parallel world!\n\u0001ā\nIt seems very nostalgic here... perhaps due to the familiar\npresence of an incredibly powerful overlord nearby.",
+  "crack_metal_start_001": "Welcome to Pedal to the Metal!\u0001ā\nHere, you'll have a limited amount of time to hunt down\nsome of the most sought after monsters.",
+  "crack_metal_start_002": "Welcome to the Gold Rush!\u0001ā\nHere, you'll have a limited amount of time, to hunt down\nsome of the most sought after monsters",
+  "crack_metal_end_001": "The monsters have vanished.",
+  "crack_metal_limit_001": "The number of monsters has decreased.",
+  "crack_golden_slime": "Gem Slime appeared nearby!",
+  "crack_metal_field_attack_end": "The Monsters are fleeing the area...!"
+}

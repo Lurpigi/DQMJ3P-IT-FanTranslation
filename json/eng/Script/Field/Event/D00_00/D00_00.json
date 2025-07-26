@@ -1,0 +1,17 @@
+{
+  "NPC_NAME_010": "\u0001́Statement Page 1.\n　\n\u0001ā\nStatement Page 2.",
+  "NPC_NAME_020": "\u0001́Question Page 1.\n　\n\u0001ā\nQuestion Page 2.\u0001Ă",
+  "REC_STRANGE_STONE_010": "Superconductive Pillars",
+  "EVENT_DENGEKI_HELP": "\u0001̄Be careful! You'll be sent back to the entrance if you get shocked by the electricity that red block is emitting.",
+  "REC_MASO_BARRIER_010": "Magic Barrier",
+  "REC_STRANGE_STONE_011": "\u0001̄A device made for Monster Masters seeking to initiate Speed Road.",
+  "REC_MASO_BARRIER_011": "\u0001̄A strong barrier made with evil aura. Nothing can break this bariier.",
+  "REC_LAST_DUNGEON_010": "Madullaj Mahal",
+  "REC_LAST_DUNGEON_011": "\u0001̄Where the Djinn awaits and his strongest legions gather for the final battle.",
+  "REC_EVIL_GATE_010": "Phantom Gate",
+  "REC_EVIL_GATE_011": "\u0001̄A traveler's gate connecting to the Demon Realm.\nIt's location changes, but you can freely leave it.",
+  "REC_STONE_010": "Darkonium Deposit",
+  "REC_STONE_020": "Shattered Crystals",
+  "REC_STONE_011": "\u0001̄Aggregation of Darkonium Crystals. It creates the dark matter barrier with evil aura.",
+  "REC_STONE_021": "\u0001̄What used to be a darkonium deposit. Now most of it is destroyed and has lost its power."
+}

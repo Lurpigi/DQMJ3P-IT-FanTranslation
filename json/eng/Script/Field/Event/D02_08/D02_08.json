@@ -1,0 +1,14 @@
+{
+  "NPC_NAME_010": "\u0001́Statement Page 1.\n　\n\u0001ā\nStatement Page 2.",
+  "NPC_NAME_020": "\u0001́Question Page 1.\n　\n\u0001ā\nQuestion Page 2.\u0001Ă",
+  "GUIDE_MSG_001": "Only the administrator can pull the valve attached to the Stone Statue\non this floor!",
+  "REC_POINT_VALVE_01": "Stone Statue with Handle",
+  "WATER_VALVE_MSG_001": "There's a Stone Statue here, with a handle attached\nto it. Would you like to turn the handle?\u0001Ă",
+  "WATER_VALVE_MSG_002": "The water level appears to have lowered.",
+  "WATER_VALVE_MSG_003": "\u0001̄The valve on the Stone Statue has already been\nturned. It looks like it can't be turned back, either.",
+  "REC_POINT_VALVE_02": "It looks like the Stone Statue monster, but it is not.\nYou will not be attacked if you turn it's handle.",
+  "REC_POINT_PLATE_01": "Light Floor Plate",
+  "REC_POINT_GUIDE_001": "\u0001̄A stone tile with letters inscribed upon it.\nSeems to be the language of the Demons.",
+  "REC_POINT_PLATE_02": "\u0001̄It looks heavy, but floats on the water. It seems fairly\nsturdy, and must be made of a light-weight material.",
+  "REC_POINT_GUIDE_000": "Contact Board"
+}

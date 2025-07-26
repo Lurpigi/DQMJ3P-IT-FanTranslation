@@ -1,0 +1,17 @@
+{
+  "SYSTEM_MSG_998": "The door is shut tightly.",
+  "ITTABURU_MSG_000": "\u0001́Everyone! Follow that human! Do not allow it to leave this Bastille alive!",
+  "REC_POINT_01_2": "\u0001̄Part of a large Break Mutation device.\nIt appears to use Pure Darkonium.",
+  "REC_POINT_02_2": "\u0001̄Crystalized dark energy, which seems to be the main\nfuel driving the device.",
+  "SYSTEM_MSG_000": "It doesn't seem to go down to the 1st floor...",
+  "SAMAYOUYOROI_MSG_000": "\u0001̂Hey! The machine's in good order. Cap'n sent you up here to check on it, ya said... right?\n\u0001ā\nThe meeting on the 1st floor's 'bout to begin. You can report this to the cap'n down there.",
+  "NPC_PRISONER_A_MSG_000": "\u0001̂Gee... gee-kee... long live Mother... !",
+  "REACTER_MSG_000": "\u0001̄Uh-oh... an internal transmission within the Bastille\nappears to be jamming all of our communication channels!",
+  "REACTER_MSG_010": "...Can you read me, \u0001ȁ?!\nIt's about time, I was starting to get worried.\n\u0001ā\nWe need to find a safe place to meet up, where we\nwon't be in harms' way!\n\u0001ā\nHmm, perhaps the 5th floor of the Bastille would suffice...\nYes, let us reconvene on the 5th floor!",
+  "REACTER_MSG_020": "\u0001̄Our channels are, once again, all being jammed.\nHowever, I've traced the allied Reactor to the 5th floor.\n\u0001ā\nLet's follow its trail and meet up with whoever that was up on the 5th floor.",
+  "REACTER_MSG_001": "\u0001̄Overly hostile monsters have been detected near by.\nHide from them, and avoid confrontation for now.\n\u0001ā\nI've located an area on the 5th floor with low monster activity. You should seek this area out immediately.\n\u0001ā\nMove fast, be stealthy, and most of all... stay safe!",
+  "REC_NPC_GAIKOTU": "\u0001̄Minion of Itaburu, who is also one of the primary prison guards. Seems to not be \"all with it\".",
+  "REC_POINT_02": "Darkonium Crystal",
+  "REC_NPC_PRIZONER": "\u0001̄A Voodoo Doll from Alloy Park that has been infected with Darkonium and turned into a Break Monster.",
+  "REC_POINT_01": "Purifier"
+}

@@ -1,0 +1,14 @@
+{
+  "MixParents_Parent0": "Parent 1",
+  "MixParents_Child0": "Child 1",
+  "MixParents_CustomizeChild1": "Color 2",
+  "MixParents_Parent1": "Parent 2",
+  "MixParents_Child1": "Child 2",
+  "MixParents_CustomizeChild2": "Color 3",
+  "MixParents_Child2": "Result 3",
+  "MixParents_Child3": "Child 4",
+  "MixParents_Child4": "Child 5",
+  "MixParents_CustomizeParent0": "Monsters to Re-color",
+  "MixParents_CustomizeParent1": "Monster Color",
+  "MixParents_CustomizeChild0": "Color 1"
+}

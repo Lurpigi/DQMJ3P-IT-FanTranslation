@@ -1,0 +1,16 @@
+{
+  "crack_enter_001": "Il tessuto stesso dello spazio-tempo si è strappato in due. Il\nwormhole risultante sembra collegare a un mondo parallelo.\u0001ā\nVuoi entrare nel wormhole?\u0001Ă",
+  "crack_return_001": "Vuoi entrare nel wormhole e tornare nel tuo mondo?\u0001Ă",
+  "crack_clear_001": "Hai completato tutti gli obiettivi all'interno\ndel mondo parallelo.",
+  "crack_monster_start_001": "Sei appena entrato in un mondo parallelo!\n\u0001ā\nUn grande gruppo di mostri è stato rilevato poco più avanti,\nin attesa della tua sfida.",
+  "crack_item_start_001": "Sei appena entrato in un mondo parallelo!\n\u0001ā\nUn mucchio di oggetti è passato attraverso questo wormhole\ne sono sparsi ovunque!",
+  "crack_master_start_001": "Hai attraversato il wormhole sano e salvo!\n\u0001ā\nUn altro Dominatore di Mostri è stato rilevato\nnelle vicinanze, in attesa di affrontarti.",
+  "crack_master_start_002": "Il Reattore sta rilevando qualcosa in questa zona.\nProva a usarlo per trovare una frattura nello spazio-tempo.",
+  "crack_darllord_start_001": "Sei appena entrato in un mondo parallelo!\n\u0001ā\nC'è un senso di nostalgia nell’aria... forse per la presenza familiare\ndi un signore supremo incredibilmente potente nei paraggi.",
+  "crack_metal_start_001": "Benvenuto in Pedal to the Metal!\u0001ā\nQui avrai un tempo limitato per dare la caccia\nad alcuni dei mostri più ricercati.",
+  "crack_metal_start_002": "Benvenuto alla Corsa all’Oro!\u0001ā\nQui avrai un tempo limitato per dare la caccia\nad alcuni dei mostri più ambiti.",
+  "crack_metal_end_001": "I mostri sono scomparsi.",
+  "crack_metal_limit_001": "Il numero di mostri è diminuito.",
+  "crack_golden_slime": "Uno Slime Gemma è comparso nei paraggi!",
+  "crack_metal_field_attack_end": "I mostri stanno fuggendo dall’area...!"
+}

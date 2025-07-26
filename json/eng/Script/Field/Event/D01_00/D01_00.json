@@ -1,0 +1,12 @@
+{
+  "NPC_NAME_010": "\u0001́Statement Page 1.\n　\n\u0001ā\nStatement Page 2.",
+  "NPC_NAME_020": "\u0001́Question Page 1.\n　\n\u0001ā\nQuestion Page 2.\u0001Ă",
+  "NPC_SEIEI_MSG_010": "\u0001́You came!\n\u0001ā\nThe Phantom Gate is still a little unstable but I will be here holdng it. So you have nothing to worry!",
+  "NPC_SEIEI_MSG_020": "\u0001́I never thought that people from the Demon Realm, Human World, and Incarnus Realm would all live together.\n\u0001ā\nI will continue to stay here to watch over the Phantom World.",
+  "MINE_WARP_HOLE_010": "Would you like to enter the Traveler's Gate\nand visit Incarnus Village?\u0001Ă",
+  "NPC_SEIEI_REC": "\u0001̄The Nochoro, Chomach's true form.\nA red Nochoro is the sign of God's chosen Nochoro.",
+  "REC_EVIL_GATE_010": "Phantom Gate",
+  "REC_EVIL_GATE_011": "\u0001̄A traveler's gate connecting to the Phantom world.\nIt's location changes, but you can freely leave it.",
+  "REC_GOD_GATE_010": "Traveler's Gate",
+  "REC_GOD_GATE_011": "\u0001̄A traveler's gate, created by JOKER.\nYou can visit the beast's home on the otherside of it."
+}

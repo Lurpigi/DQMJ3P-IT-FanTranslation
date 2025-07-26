@@ -1,0 +1,16 @@
+{
+  "MES_CARCASS_SANCHO": "Sancho's remains lie here in a smoldering heap. It appears to have been completely destroyed.",
+  "EXAMINE_POD_MSG": "It's the pod that crash-landed in paradise... the same one that the strange headset device was discovered in.",
+  "NPC_RENERTE_010": "\u0001̂It's time, \u0001ȁ. Head into the Virtual Colosseum and learn this last ability...\n\u0001ā\nIt's the only way you'll be able get up top there and give humanity one last chance...",
+  "NPC_RENERTE_020": "\u0001̂Open your Items menu, and use the \u0001\u0004 Flight Signal \u0001\u0001 to Sky Ride a monster, \u0001ȁ.\n\u0001ā\nSky Riding is the only way you'll be able to reac the Core...\nI hope you're ready... this will be our last stand.",
+  "REC_POINT_02_01": "Monolith",
+  "NPC_RENATE_030": "\u0001̄She was once Anses's main partner. Now she's the overseer of the underground Resistance lab for Anses clones.",
+  "REC_POINT_01_01": "Sancho",
+  "REC_POINT_01_02": "\u0001̄A robot that held you prisoner inside a fake \"paradise\". \nIt was destroyed by that Mysterious Girl.",
+  "REC_POINT_02_02": "\u0001̄Space-travel device leading Monster Masters to the Virtual Colosseum.",
+  "REC_POINT_03_01": "Crash-landed Pod",
+  "REC_POINT_03_02": "\u0001̄This pod landed in \"Paradise\", and contained the\nReactor you now wear on your head.",
+  "MES_SPEED_SANCHO": "Sancho has sustained large amounts of damage, and is\nno longer able to function.\n\u0001ā\nWill you use the \u0001\u0004Sancho Repair Kit\u0001\u0001?\u0001Ă",
+  "MSG_GET_MONSTER": "\u0001\u0004%ls\u0001\u0001 became your ally!",
+  "REC_RA_MONS_MES": "\u0001̄An Insurgent Demon transformed by Mother's\nrampage. It has an frightening amount of power."
+}

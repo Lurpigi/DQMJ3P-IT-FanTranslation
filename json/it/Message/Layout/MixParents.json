@@ -1,0 +1,14 @@
+{
+  "MixParents_Parent0": "Genitore 1",
+  "MixParents_Child0": "Figlio 1",
+  "MixParents_CustomizeChild1": "Colore 2",
+  "MixParents_Parent1": "Genitore 2",
+  "MixParents_Child1": "Figlio 2",
+  "MixParents_CustomizeChild2": "Colore 3",
+  "MixParents_Child2": "Risultato 3",
+  "MixParents_Child3": "Figlio 4",
+  "MixParents_Child4": "Figlio 5",
+  "MixParents_CustomizeParent0": "Mostri da Ricolorare",
+  "MixParents_CustomizeParent1": "Colore del Mostro",
+  "MixParents_CustomizeChild0": "Colore 1"
+}

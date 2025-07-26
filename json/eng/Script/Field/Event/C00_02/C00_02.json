@@ -1,0 +1,20 @@
+{
+  "NPC_DAEMON_010": "\u0001̃Ki-ka-ri-ki... sa-kha-kri...! \n\u0001ā\nGuaaah-haaaaa-hooooo!!",
+  "SYS_KESSYOU_040": "The energy barrier has been weakened even more. \nDestroying one more crystal should bring it down.",
+  "SYS_MESSAGE_010": "Strong readings of Darkonium are detectable from within...\nWould you still like to proceed?\u0001Ă",
+  "DEMO_RENATE_010": "\u0001̂We can't just pass through this...\n\u0001ā\nI'd bet a Darkonium Crystal near is causing it.\n\u0001ā\nLet's have a look around, \u0001ȁ.\n\u0001ā\nDestroying that crystal should help us pass through.\n\u0001ā\nUse your reactor to find its source.",
+  "SYS_KEKKAI_010": "It looks like the barrier has collapsed in on itself.\n\u0001ā \nUsing your Reactor to identify and destroy Darkonium is the key to removing barriers.",
+  "REC_KESSYOU_010": "\u0001̄These are crystals with a high concentration of Darkonium. It seems to be powering an energy barrier.",
+  "SYS_KESSYOU_060": "Monsters flew out from between the cracks of the shattered Darkonium Crystal!",
+  "SYS_KESSYOU_010": "Will you destroy the Darkonium Crystal?\u0001Ă",
+  "SYS_KESSYOU_015": "Strong monsters reside within this crystal. You'll need to fight them if you destroy it. Are you ready?\u0001Ă",
+  "SYS_KESSYOU_020": "You destroyed the Darkonium Crystal, the energy source fueling part of a barrier!\n\u0001ā",
+  "REC_POINT_01_02": "\u0001̄Attuning to this Zoom Stone will add it to your destination list.\nThese stones appear in various places around the world.",
+  "SYS_KESSYOU_030": "The energy barrier seems to have weakened.",
+  "SYS_KESSYOU_050": "The barrier seems to have totally lost its energy source and \nhas completely faded...",
+  "NPC_DAEMON_ANALYZE_010": "\u0001̄An Archdemon, infected by the Darkonium. Its sole\npurpose now is to protect the Core with its life.",
+  "REC_POINT_HALL_010": "Mother's Room's Entrance",
+  "REC_POINT_HALL_020": "\u0001̄A portion of the wall looks to be collapsed due to\nlarge amounts of erosion.\u0001ā\nThere appear to be strong traces of Darkonium resonating from the other side.",
+  "REC_POINT_01_01": "Zoom Stone",
+  "NOT_ENTER_MSG": "A strange force prevents you from traveling to the Core."
+}

@@ -1,0 +1,18 @@
+{
+  "ResultMessageHPUP": "PV Max+",
+  "ResultMessageMPUP": "PM Max+",
+  "ResultMessageAtkUP": "ATT Max+",
+  "ResultMessageIntUP": "INT Max+",
+  "ResultMessageDefUP": "DIF Max+",
+  "ResultMessageAgiUP": "AGI Max+",
+  "FairyEffectEnd": "Gli effetti fatati sono svaniti",
+  "ResultMessageGetSkillPointUpper": "ottenuto",
+  "ResultMessageGetSkillPointLower": "punti abilità!",
+  "GrowthLimitUpper": "ha",
+  "GrowthLimitLower": "raggiunto il suo limite!",
+  "GenkidamaEffectEnd": "L’effetto di %ls è svanito",
+  "ChainFinish": "Conclusione a Catena",
+  "HealthyBall": "Sfera di Luce",
+  "FairyPower": "Potere Fatato",
+  "Rate": "×%ls"
+}

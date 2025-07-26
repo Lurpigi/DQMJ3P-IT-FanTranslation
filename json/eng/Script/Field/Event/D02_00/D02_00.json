@@ -1,0 +1,13 @@
+{
+  "NPC_NAME_010": "\u0001́Statement Page 1.\n　\n\u0001ā\nStatement Page 2.",
+  "NPC_NAME_020": "\u0001́Question Page 1.\n　\n\u0001ā\nQuestion Page 2.\u0001Ă",
+  "MINE_WARP_010": "Would you live to escape from the\nMadullaj Mahal?\u0001Ă",
+  "MINE_EVENT_REC_TALK_01": "\u0001̄There are a variety of puzzles and security measures\nsetup within the Madullaj Mahal to protect it.",
+  "MINE_EVENT_REC_TALK_02": "\u0001̄Be very careful not to touch anything that has\na slight hint of a red glow...\n\u0001ā\nWhen you touch these, they will release enemies\nand you will be forced into a battle.",
+  "MINE_EVENT_REC_TALK_03": "\u0001̄The phantom world has the exact same electric device like that one in the back but when you touch it, you will be sent back to the entrance.",
+  "MINE_EVENT_REC_TALK_04": "\u0001̄You can check which hallway leads to what by using NaviMap but red markings on 1 side means it's one way. So watch out for that!",
+  "REC_POINT_RULER_01": "Zoom Stone",
+  "REC_POINT_RULER_02": "\u0001̄Attuning to this Zoom Stone will add it to your destination list.\nThese stones appear in various places around the world.",
+  "COMM_REC_LOCKDOOR_01": "Sturdy Door",
+  "COMM_REC_LOCKDOOR_02": "\u0001̄A sturdy door, setup to prevent an enemy invasion.\nIt appears to be one-way, and will only open from one side."
+}

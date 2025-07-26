@@ -1,0 +1,17 @@
+{
+  "BOSS_RECEIVE_MSG_00": "\u0001̄[I sensed an unidentified terrible sign.] Display the position on the world map.",
+  "BOSS_EVENT_MSG_00": "It would appear that you have run out of storage room.",
+  "BOSS_EVENT_MSG_01": "\u0001\u0004%ls\u0001\u0001Do you challenge to a fight?\u0001Ă",
+  "NPC_BIG_BOWSHOCK_REC": "\u0001̄The monster that keeps watch over Glutton's Keep.\nVery fitting, too, as it's always hungry.",
+  "BOSS_ADDFELLOW_MSG_00": "The \u0001\u0004%ls\u0001\u0001 got back up...\nIt looks like it wants to fight alongside you!\u0001ā\nWill you let \u0001\u0004%ls\u0001\u0001\njoin your team?\u0001Ă",
+  "BOSS_NOTFELLOW_MSG_00": "\u0001\u0004%ls\u0001\u0001Don't make it your friend. Are you sure?\u0001Ă",
+  "BOSS_ADDFELLOW_MSG_01": "\u0001\u0004%ls\u0001\u0001 became your friend！",
+  "BOSS_NOTFELLOW_MSG_01": "\u0001\u0004%ls\u0001\u0001\nsadly sulked off into the distance...",
+  "NPC_RENERTE_010": "\u0001̂As you can see... the world has been mostly consumed by the dark matter...\n\u0001ā\nDo not get too close to it...\nIt will completely blind you if you enter it.\n\u0001ā\nBe careful out there, \u0001ȁ...",
+  "NPC_BIG_BUNDORUDO_REC": "\u0001̄The Great King of Plunder, who's taken over the Undead Garden, is extremely cautious.",
+  "NPC_BIG_AZAMUKU_REC": "\u0001̄The ringleader of the chaos happening within Polar Park. His true intentions are still not fully known.",
+  "NPC_BIG_ITTABURU_REC": "\u0001̄The monster that rules over the Darkiron Bastille. It's working very hard to finish its mission.",
+  "NPC_BIG_DEATH_REC": "\u0001̄A monster minion of the Dark Master, with such a fierce look that it strikes fear into the hearts of its enemies.",
+  "NPC_BIG_PRO_REC": "\u0001̄A monster called upon by the Dark Master.\nLooks like a Darkonium-infected Gigantes.",
+  "NPC_BIG_GARUMAZARD_REC": "\u0001̄The final evolved form of Snapped. Horribly mutated after merging with the Core."
+}

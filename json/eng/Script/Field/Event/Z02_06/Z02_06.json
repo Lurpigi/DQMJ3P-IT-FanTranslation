@@ -1,0 +1,16 @@
+{
+  "NPC_NAME_010": "\u0001́Statement Page 1.\n　\n\u0001ā\nStatement Page 2.",
+  "NPC_NAME_020": "\u0001́Question Page 1.\n　\n\u0001ā\nQuestion Page 2.\u0001Ă",
+  "NPC_MOGURA_010": "\u0001́Welcome to The Mole Hole!\n\u0001ā\nIn this attraction, you will fight your way past\nthe various moles and journey as deep as you can.\n\u0001ā\nIf you can make it to the bottom and defeat the great\nDon Mole, you will recieve a fabulous prize!\n\u0001ā\nHowever, you may only enter The Mole Hole once per\nday, and cannot switch your active party once inside.\n\u0001ā\nAlso, this attraction is limited to one patron at a time,\nso your partner will have to wait here for your return.\n\u0001ā",
+  "NPC_MOGURA_015": "\u0001́Admission is 100000 gold. \nWould you like to enter The Mole Hole?\u0001ď",
+  "NPC_MOGURA_020": "\u0001́If at any time during the attraction you\nwant to leave, please speak to a staff member immediately.\n\u0001ā\nAnd with that, be off!",
+  "NPC_MOGURA_025": "\u0001́I am so sorry. You don't have enough gold.",
+  "NPC_MOGURA_030": "\u0001́The Great Don Mole is currently resting.\nWould you like to hear an explanation?\u0001ĥ",
+  "NPC_MOGURA_040": "\u0001́What explanation would you like to hear?\u0001ĥ",
+  "NPC_MOGURA_050": "\u0001́This is a themepark built by the Great\nDon Mole, as commissioned by his subordinates.\n\u0001ā\nFind the holes on each floor leading deeper\nall the way to the deepest depths at B4.\n\u0001ā\nYou may only enter The Mole Hole once per day.\nOnce you leave, you can't enter again until tomorrow.",
+  "NPC_REC_STAFF_010": "\u0001̄It's been a pleasure serving you today\nat The Mole Hole. Please come see us again soon!",
+  "NPC_MOGURA_060": "\u0001́There are some restrictions in place regarding\nitems, saving, special techniques, and party members.\n\u0001ā\nYou may only use your active and standby members while\nexploring The Mole Hole and battling Don Mole.",
+  "NPC_MOGURA_070": "\u0001́In order to make your way to B4, traverse\ndown the holes. Various events can happen as you do so.\n\u0001ā\nYou might get lucky and recieve a reward. Consequently,\nyou may also be attacked by Don Mole's subordinate moles.",
+  "NPC_MOGURA_080": "\u0001́Battle with the Great Don Mole\nand you might even recieve a fabulous prize.\n\u0001ā\nThese prizes are exclusive to Don Mole and cannot\nbe found elsewhere, so give it your best!",
+  "MOGLAND_START_MES": "Use the tornados to traverse the caverns and\nsearch for the holes leading further down!"
+}

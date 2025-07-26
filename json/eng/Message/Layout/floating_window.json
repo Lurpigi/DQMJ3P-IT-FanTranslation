@@ -1,0 +1,9 @@
+{
+  "floating_window_sc_shortcut_exp": "You can register up to 3 commands to a shortcut from this \nmenu. Select an icon and touch the menu icon without opening \nit to save it to the shortcut.",
+  "floating_window_sc_shortcut_entry?": "Which shortcut slot would you like to assign this to?",
+  "floating_window_sc_shortcut_entry_item": "Set as shortcut #%ls",
+  "floating_window_sc_shortcut_full": "Your shortcuts are all in use.\nWhich would you like to swap out?",
+  "floating_window_sc_shortcut_replace": "Swap out %ls for \nthe %ls shortcut.\nIs that OK?",
+  "floating_window_sc_shortcut_entry": "The %ls command\nwas saved to a shortcut.",
+  "floating_window_sc_shortcut_registered": "The \"%ls\" Command is now assigned\nto shortcut slot #%ls."
+}

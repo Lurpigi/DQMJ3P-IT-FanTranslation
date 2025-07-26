@@ -1,0 +1,9 @@
+{
+  "floating_window_sc_shortcut_exp": "Puoi registrare fino a 3 comandi a una scorciatoia da questo \nmenu. Seleziona un'icona e tocca l'icona del menu senza aprire \nper salvarla nella scorciatoia.",
+  "floating_window_sc_shortcut_entry?": "A quale slot di scorciatoia desideri assegnarlo?",
+  "floating_window_sc_shortcut_entry_item": "Imposta come scorciatoia #%ls",
+  "floating_window_sc_shortcut_full": "Tutte le tue scorciatoie sono in uso.\nQuale desideri sostituire?",
+  "floating_window_sc_shortcut_replace": "Sostituisci %ls con \nla scorciatoia %ls.\nVa bene?",
+  "floating_window_sc_shortcut_entry": "Il comando %ls\nè stato salvato in una scorciatoia.",
+  "floating_window_sc_shortcut_registered": "Il comando \"%ls\" è ora assegnato\nallo slot di scorciatoia #%ls."
+}

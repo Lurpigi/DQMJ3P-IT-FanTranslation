@@ -1,0 +1,21 @@
+{
+  "NPC_RUKIYA_MSG_110": "\u0001̃Kora! We've got bigger things to worry about! I'm but a small part of the bigger picture!\n\u0001ā\nYou need to get the \u0001\u0004Prison Key\u0001\u0001 from the Guard's Room and free all of the prisoners!\n\u0001ā\nThe \u0001\u0004Prison Key\u0001\u0001 is in the Guard's Room in the southwest region of this floor!",
+  "REC_POINT_01": "Prison Key",
+  "NPC_RUKIYA_MSG_110_2": "\u0001̃Ahh! We must hurry now, child! I feel there is little time left!\n\u0001ā\nAs soon as you find the \u0001\u0004Prison Key\u0001\u0001, we can free the\nrest of the prisoners!",
+  "NPC_RUKIYA_MSG_112": "\u0001̃You've done it! The prisoners have been freed! Now, you've got to disable that Remodeling Device!\n\u0001ā\nHelp me out! We need to go blow up its power supply, which should be\nlocated on the 3rd floor.",
+  "NPC_RUKIYA_MSG_120": "\u0001̃It sure looks like you've got the hang of it. You've always been a quick learner, oh-hoh-hoh!\n\u0001ā\nBattle Rides should prove to be useful for you down the road... but it won't help you much at the moment!",
+  "NPC_RUKIYA_MSG_121": "\u0001̃Alright, back to the main task at hand...",
+  "SYSTEM_MSG_999": "The door is shut tightly.",
+  "REC_RA_MONS_MES": "\u0001̄An Insurgent Demon transformed by Mother's\nrampage. It has an frightening amount of power.",
+  "NPC_RUKIYA_MSG_122": "\u0001̃I need you to meet me on the 3rd floor, by the power supply for the Remodelling device.\n\u0001ā\nIt's very important that we coordinate this attack. I'm counting on you, \u0001ȁ!",
+  "REACTER_MSG_000": "\u0001̄An allied Reactor has been detected on the 5th \nfloor of this facility.\n\u0001ā\nYou'll be able to link to this Reactor if you're able to make it to the 5th floor.",
+  "NPC_RUKIYA_MSG_125": "\u0001̃I need you to meet on the 3rd floor, by the power source\nfor the Remodelling device.\n\u0001ā\nIt's very important that we coordinate this attack.\nI'm counting on you, \u0001ȁ!",
+  "REACTER_MSG_001": "\u0001̄High-risk monsters have been detected in this area.\nIt's recommended that you avoid confrontation with them.\n\u0001ā\nIt is also highly recommended that you hurry to the 5th floor and\nfind whoever is wearing the allied Reactor.\n\u0001ā\nYou'll be able to link to this Reactor if you're able to make it to the 5th floor.",
+  "REACTER_MSG_004": "\u0001̄High-risk monsters have been detected in this area.\nIt's recommended that you avoid confrontation with them.\n\u0001ā\nHurry to the northeast corner of the 4th floor. This is the point of confluence.",
+  "REC_NPC_RUKIYA": "\u0001̄An elderly woman who once led the Resistance.\nStill a very intelligent woman, and an active leader to this day.",
+  "REC_NPC_SAMAYOUYOROI": "\u0001̄Minion of Itaburu, who is also one of the primary prison guards. It is the head guard at this prison.",
+  "REC_NPC_SLYMKNAIGHT": "\u0001̄Minion of Itaburu, who is also one of the primary prison guards. A very strict follower and rule enforcer.",
+  "REC_NPC_OOKIDUTI": "\u0001̄Minion of Itaburu, who is also one of the primary prison guards. Seems to be the most friendly of the bunch.",
+  "REC_NPC_GAIKOTU": "\u0001̄Minion of Itaburu, who is also one of the primary prison guards. Seems to not be \"all with it\".",
+  "REC_POINT_02": "\u0001̄The key to open the prison in the Darkiron Bastille. Uses the latest electronic security technologies."
+}

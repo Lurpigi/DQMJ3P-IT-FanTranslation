@@ -1,0 +1,13 @@
+{
+  "TRANSFER_MSG": "Use the teleporter to navigate to the Fiery Volcano?\u0001Ă",
+  "BARRIER_MSG": "A mysterious barrier prevents you from going any further...",
+  "DONT_USE_TELEPORTER_010": "The Transfer Device is not active. It cannot be used at this time.",
+  "REC_POINT_TRANSFER_010": "Emergency Escape System",
+  "RENATE_MSG": "\u0001̂\u0001ȁ, you must head to the deepest reaches within the Core. It's essentially the central nervous system.\n\u0001ā\nOnce in that room, I can unleash the antibody I've created to purify Mother.\n\u0001ā\nPlease, you must clear a path for me to that room... I believe in you!",
+  "AROMA_MSG": "\u0001̂You've got to get to the deepest reaches, just like\nlast time. Lenate should be waiting inside!",
+  "NPC_RENATE_REC": "\u0001̄She was once Anses's main partner. Now she's the overseer of the underground Resistance lab for Anses clones.",
+  "NPC_AROMA_REC": "\u0001̄A girl that was impersonating Lucia. She is a rather intelligent, beautiful, young apprentice scientist.",
+  "REC_POINT_TRANSFER_020": "\u0001̄Activating this terminal will allow you to make a quick escape from the Core.",
+  "REC_POINT_01_01": "Zoom Stone",
+  "REC_POINT_01_02": "\u0001̄Attuning to this Zoom Stone will add it to your destination list.\nThese stones appear in various places around the world."
+}

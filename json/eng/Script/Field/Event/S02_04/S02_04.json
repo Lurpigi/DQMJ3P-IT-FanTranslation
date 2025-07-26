@@ -1,0 +1,23 @@
+{
+  "NPC_ITTABURU_MSG_090": "\u0001́Do not let him escape this place alive! Search the Bastille, find him, and destroy him!",
+  "NPC_RUKIYA_MSG_100": "\u0001̃Let us meet in the vacant room in the northeast corner of the 4th floor.\n\u0001ā\nFrom there we'll have to avoid the stairs, and get out to the rooftop in\norder to escape!",
+  "NPC_RUKIYA_MSG_101": "\u0001̃There's nowhere left for us to run! You've got to find\nthe door to the rooftop so we can get out there!\n\u0001ā\nFrom there, you should be able to reach the vacant room in the\nnortheast corner of the 4th floor.",
+  "REACTER_MSG_001": "\u0001̄Overly hostile monsters have been detected nearby.\nHide from them, and avoid confrontation for now.\n\u0001ā\nI've located an area on the 5th floor with low monster activity. You should seek this area out immediately.\n\u0001ā\nMove fast, be stealthy, and most of all... stay safe!",
+  "SYSTEM_MSG_000": "Would you like to crawl into the air duct?\u0001Ă",
+  "REC_POINT_03": "Security Door",
+  "SYSTEM_MSG_001": "It seems too dangerous to exit at this time.",
+  "SYSTEM_MSG_002": "\u0001̄Your key card has been confirmed.\nThe door has been unlocked.",
+  "SYSTEM_MSG_003": "The Master Key unlocked the door!",
+  "SYSTEM_MSG_999": "Disturbance detected in the immediate vicinity.\nYour Reactor seems to have detected an energy signature.",
+  "SYSTEM_MSG_998": "It's the Guard Elevator.\nHowever, it appears to be inoperable at the moment.",
+  "SYSTEM_MSG_997": "The elevator is back online.\nUse it to return to the 1st Floor?\u0001Ă",
+  "REC_POINT_01_2": "\u0001̄An elevator that connects to the ground floor of\nthe Bastille.",
+  "SYSTEM_MSG_996": "The door is shut tightly.",
+  "REC_NPC_RUKIYA": "\u0001̄An elderly woman who once led the Resistance.\nStill a very intelligent woman, and an active leader to this day.",
+  "REC_NPC_GAIKOTU": "\u0001̄Minion of Itaburu, who is also one of the primary prison guards. Seems to not be \"all with it\".",
+  "REC_NPC_SLYMKNAIGHT": "\u0001̄Minion of Itaburu, who is also one of the primary prison guards. A very strict follower and rule enforcer.",
+  "REC_POINT_01": "Staff Elevator",
+  "REC_POINT_02": "Air Duct",
+  "REC_POINT_02_2": "\u0001̄A ventilation duct inside the Bastille.\nWithout the grate, I bet a human could slip in there.",
+  "REC_POINT_03_2": "\u0001̄Mechanically locked door. \nIt will not open by normal means."
+}

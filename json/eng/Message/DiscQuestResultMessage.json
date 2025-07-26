@@ -1,0 +1,18 @@
+{
+  "BasicResultType_Value": "Normal Prize",
+  "BasicResultType_Odds": "Normal Odds",
+  "ResultType_Value": "Special Prize",
+  "ResultType_Odds": "Special Odds",
+  "PrizeType_Exp": "Exp.",
+  "PrizeType_Gold": "Gold",
+  "PrizeUnit_Exp": "Exp.",
+  "PrizeUnit_Gold": "G",
+  "Result_Failure": "Quest failed.",
+  "Lottery_Success": "Congratulations!\nYou also got a special reward!\nYou won the %ls.",
+  "Result_Success": "For successfully completing this, you\nfound %ls x%ls.",
+  "Result_Lottery": "The prize for this lottery drawing will be the\n%ls!",
+  "One_Time_Success": "The disc offers a one-time reward, and\nhas now been deleted.",
+  "Lottery_Failure": "Unfortunately, you did not get a special prize this time!\nAs a consolation prize, however, please accept the\n%ls x%ls.",
+  "Result_DiscLevelUp": "The %ls Disc's \nLevel Increased!　Lv%ls　→　Lv%ls",
+  "Result_MonsterLevelUp": "%ls's Level Increased!　\nLv.%ls　→　Lv.%ls"
+}

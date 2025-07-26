@@ -1,0 +1,7 @@
+{
+  "mix_skill_choice_num": "È necessario selezionare almeno 1 abilità da trasmettere.\nScegli %ls abilità dall'elenco da trasmettere al\nmostro sintetizzato. La metà degli SP assegnati alle abilità\ndei genitori sarà trasferibile al risultato della sintesi.\nQualsiasi abilità trasferita\nscenderà di 1 punto.",
+  "mix_skill_choice_ato": "Dopo: %ls",
+  "mix_skill_choice_nasi": "Nessuna selezione",
+  "mix_skill_choice_nothing": "È necessario scegliere un'abilità per continuare.\nSeleziona un'abilità da assegnare.",
+  "mix_skill_choice_no_select": "Nessuna abilità selezionata"
+}
