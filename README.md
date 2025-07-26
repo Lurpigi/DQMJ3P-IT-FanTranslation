@@ -64,7 +64,7 @@ romfs/
 5. Torna a HackingToolkit3DS e scegli **Rebuild**
 6. Ripeti l’intero processo anche per l’aggiornamento `1.3`
 
-🎮 Ora puoi caricare la ROM patchata su Citra e goderti il gioco in italiano!
+🎮 Ora puoi caricare la ROM patchata e goderti il gioco in italiano!
 
 ---
 
@@ -123,4 +123,4 @@ romfs/
 4. Reopen HackingToolkit3DS and select **Rebuild**
 5. Repeat the process for both the base game and the update `1.3`
 
-🎮 Load your new patched ROM in Citra and enjoy the game in Italian!
+🎮 Load your new patched ROM and enjoy the game in Italian!
