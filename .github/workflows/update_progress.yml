@@ -1,34 +1,35 @@
 name: Update Translation Progress
 
 on:
-  push:
-    paths:
-      - "**.mes"
-  workflow_dispatch:
+    push:
+        paths:
+            - "**.mes"
+    workflow_dispatch:
 
 jobs:
-  update-progress:
-    runs-on: ubuntu-latest
+    update-progress:
+        runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.PAT_GITHUB }}
+        steps:
+            - name: Checkout repo
+              uses: actions/checkout@v4
+              with:
+                  token: ${{ secrets.PAT_GITHUB }}
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
+            - name: Setup Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: "3.11"
 
-      - name: Calculate progress
-        run: |
-          python3 scripts/update_progress.py
+            - name: Calculate progress
+              run: |
+                  python3 scripts/update_progress.py
 
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "chore: update translation progress" || echo "No changes to commit"
-          git push origin main
+            - name: Commit and push
+              run: |
+                  git config user.name "github-actions"
+                  git config user.email "github-actions@github.com"
+                  git add README.md
+                  git commit -m "chore: update translation progress" || echo "No changes to commit"
+                  git pull --rebase origin main
+                  git push origin main
