@@ -1,0 +1,38 @@
+name: Convert .mes to .json
+
+on:
+    push:
+        paths:
+            - "**.mes"
+    workflow_dispatch:
+
+jobs:
+    convert-mes:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+              with:
+                  token: ${{ secrets.PAT_GITHUB }}
+
+            - name: Setup Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: "3.11"
+
+            - name: Install dependencies
+              run: |
+                  pip install --upgrade pip
+
+            - name: Run mes to json converter
+              run: |
+                  python3 script/mes_to_json.py
+
+            - name: Commit and push JSON files
+              run: |
+                  git config user.name "github-actions"
+                  git config user.email "github-actions@github.com"
+                  git add json/
+                  git commit -m "chore: update JSON exports from .mes files" || echo "No changes to commit"
+                  git push origin main
