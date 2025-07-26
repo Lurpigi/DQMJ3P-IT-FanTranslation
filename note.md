@@ -54,7 +54,7 @@ IconMessage - NON TRADOTTO ROBA IN GIAPPONESE
 Information - informazioni che ti dà la guida
 ItemGetMessage - messaggi "hai trovato" oggetti
 ItemHelpMessage - descrizione oggetti
-ItemMessage - nome degli oggetti (((((((((((((TODO)))))))))))))
+ItemMessage - nome degli oggetti
 LayoutMessage - scritte di layout, minigiochi, fusioni, luoghi e altro
 LocationMessage - NON TRADOTTO nomi di stati IRL in inglese
 MapMessage - messaggi visibili nella mappa
