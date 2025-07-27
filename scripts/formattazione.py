@@ -8,7 +8,7 @@ def calculate_length(text):
     return length
 
 
-def format_line(line, max_len=54):
+def format_line(line, max_len=85):  # dialoghi 85, descrizione 54
     # Sostituisce {CL} con spazio e rimuove spazi multipli
     line = line.replace("{CL}", " ").strip()
     while "  " in line:
@@ -26,6 +26,11 @@ def format_line(line, max_len=54):
             current_line = word
 
     formatted += current_line
+
+    # Avviso se la linea supera max_len*2 - solo per dialoghi
+    if calculate_length(line) > max_len * 2:
+        print(f"AVVISO: Riga supera la lunghezza massima: {line}")
+
     return formatted
 
 
@@ -45,4 +50,3 @@ def process_file(input_path, output_path):
 
 if __name__ == "__main__":
     process_file("input.txt", "output.txt")
-    # print(format_line("3 frammenti dell’anima di Wildcard{CL}frantumati dalla Furia della Madre.", 50))

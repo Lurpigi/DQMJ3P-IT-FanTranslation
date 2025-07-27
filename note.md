@@ -1,5 +1,5 @@
-Dialoghi - 75 caratteri per riga prima di andare a capo
-Descrizione oggetti - 50
+Dialoghi - 85 caratteri per riga prima di andare a capo
+Descrizione oggetti - 50/54
 
 # Script/Field/Demo - custscenes
 
