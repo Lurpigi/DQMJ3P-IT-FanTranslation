@@ -12,7 +12,7 @@
 
 # IT
 
-Questo repository è dedicato allo sviluppo di una traduzione amatoriale in italiano per _Dragon Quest Monsters Joker 3_:
+Questo repository è dedicato allo sviluppo di una traduzione amatoriale in italiano per _Dragon Quest Monsters Joker 3 Professional_:
 
 > Questo progetto fornisce esclusivamente file di patch `.mes`. Nessun contenuto protetto da copyright  
 > è incluso, nel rispetto della legalità.
