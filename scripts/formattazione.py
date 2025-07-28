@@ -8,30 +8,38 @@ def calculate_length(text):
     return length
 
 
-def format_line(line, max_len=85):  # dialoghi 85, descrizione 54
-    # Sostituisce {CL} con spazio e rimuove spazi multipli
-    line = line.replace("{CL}", " ").strip()
-    while "  " in line:
-        line = line.replace("  ", " ")
+def format_line(line, max_len=85):
+    # Sostituisce {CL} con spazio temporaneamente per calcoli, ma li reinseriamo poi
+    line = line.strip()
+    blocks = line.split("ā")
 
-    words = line.split()
-    formatted = ""
-    current_line = ""
+    formatted_blocks = []
 
-    for word in words:
-        if calculate_length(current_line) + calculate_length(word) + 1 <= max_len:
-            current_line += (" " if current_line else "") + word
-        else:
-            formatted += current_line + "{CL}"
-            current_line = word
+    for block in blocks:
+        subline = block.replace("{CL}", " ").strip()
+        while "  " in subline:
+            subline = subline.replace("  ", " ")
 
-    formatted += current_line
+        words = subline.split()
+        formatted = ""
+        current_line = ""
 
-    # Avviso se la linea supera max_len*2 - solo per dialoghi
-    if calculate_length(line) > max_len * 2:
-        print(f"AVVISO: Riga supera la lunghezza massima: {line}")
+        for word in words:
+            if calculate_length(current_line) + calculate_length(word) + 1 <= max_len:
+                current_line += (" " if current_line else "") + word
+            else:
+                formatted += current_line + "{CL}"
+                current_line = word
 
-    return formatted
+        formatted += current_line
+        formatted_blocks.append(formatted)
+
+        # Avviso se la linea supera max_len*2
+        if calculate_length(subline) > max_len * 2:
+            print(f"AVVISO: Blocco supera la lunghezza massima: {subline}")
+
+    return "{CL}ā{CL}".join(formatted_blocks)
+
 
 
 def process_file(input_path, output_path):
