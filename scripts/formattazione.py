@@ -38,6 +38,10 @@ def format_line(line, max_len=85):
         if calculate_length(subline) > max_len * 2:
             print(f"AVVISO: Blocco supera la lunghezza massima: {subline}")
 
+    # Rimuovi l'ultimo block se vuoto
+    if formatted_blocks and formatted_blocks[-1] == "":
+        formatted_blocks = formatted_blocks[:-1]
+
     return "{CL}ā{CL}".join(formatted_blocks)
 
 
