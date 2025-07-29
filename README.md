@@ -6,7 +6,7 @@
 
 **_Dragon Quest Monsters: Joker 3 Professional_**
 
-📊 **Stato della traduzione principale**: 22% (104/457 files)
+📊 **Stato della traduzione principale**: 30% (139/457 files)
 
 📊 **Stato della traduzione update**: 18% (4/22 files)
 
