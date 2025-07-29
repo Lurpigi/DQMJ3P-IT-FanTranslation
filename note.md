@@ -1,12 +1,9 @@
 Dialoghi - 85 caratteri per riga prima di andare a capo
 Descrizione oggetti - 50/54
 
-# Script/Field/Demo - custscenes
+alcuni nomi di mostri non appaiono in battaglia..HMM
 
-001 - scienziato all'inizio del gioco
-006 - Sancho appena svegliato
-007 - Sancho a tavola
-009 - Nochorin primo incontro
+# Script/Field/Demo - custscenes
 
 # Script/Field/Event
 
