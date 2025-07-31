@@ -2,8 +2,6 @@ Dialoghi - 85 caratteri per riga prima di andare a capo
 Descrizione oggetti - 50/54
 
 alcuni nomi di mostri non appaiono in battaglia..HMM
-renetta - lenate
-volo celeste
 
 # Script/Field/Demo - custscenes
 
