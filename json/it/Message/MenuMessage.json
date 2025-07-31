@@ -357,7 +357,7 @@
   "MenuMessageSkillPointValueSub2": "Punti Abilità",
   "MenuMessageUserRankDown": "Purtroppo, sembra che tu sia\nscivolato in classifica...",
   "MenuMessageSkillPointValueLow1": "あと",
-  "MenuMessageSkillPointValueLow2": "Sblocca SP:",
+  "MenuMessageSkillPointValueLow2": " Sblocca SP:",
   "MenuMessageGuestMonster": "È stato rilevato un mostro GUEST \nnella tua squadra.\nScegli un altro mostro.",
   "MenuMessageSkillPointValueLow3": "MAESTRO",
   "MenuMessageRankingRaceEventBombRock": "Sembra che sia apparso un Bombaroccia!\nFai attenzione durante la corsa!",
