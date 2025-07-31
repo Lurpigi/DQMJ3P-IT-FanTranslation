@@ -8,7 +8,7 @@ def calculate_length(text):
     return length
 
 
-def format_line(line, max_len=85):
+def format_line(line, max_len=70): #85 dialoghi, 54 menu
     # Sostituisce {CL} con spazio temporaneamente per calcoli, ma li reinseriamo poi
     line = line.strip()
     blocks = line.split("ā")
