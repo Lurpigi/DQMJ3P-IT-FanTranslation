@@ -3,21 +3,29 @@
 > Se vuoi contribuire alla traduzione, prima di tutto **grazie di cuore!**  
 > Siamo una nicchia nella nicchia, e supportarci a vicenda è una cosa preziosa.
 
-Tradurre senza un contesto è veramente complicato, più volte sono dovuto tornare a modificare parti di file perché
-provandole in gioco non suonavano bene o erano propio sbagliate. quindi chiedo scusa per possibili errori del genere.
-Finché non proverò nel contesto tutto il possibile non posso assicurare una buona traduzione. Comunque quando ho tempo
-andrò avanti provando tutto in game per capire come è il risultato.
+---
 
-Alcuni nomi di mostri non appariranno in combattimento, il motivo probabilmente è in qualche controllo a me sconosciuto nel codice.
-anche la traduzione in francese ha questo bug e mi sembra anche quella inglese quindi più di molto non possiamo fare.
-inoltre alcuni spazi per le stringhe sono settati per stringhe giapponesi, pochi caratteri, quindi molto spesso ci
-saranno nomi tagliati di varie cose in game (ad esempio gli oggetti nel menù degli oggetti hanno i nomi troncati, cosa che però
-non accade nella libreria degli oggetti) anche questo è un probelma che si riscontra anche nella versione inglese e francese,
-quindi è una limitazione a livello di codice
+# 📌 Premessa
 
-Questo documento ti guiderà attraverso tutto ciò che devi sapere per contribuire al progetto.
+Tradurre senza il contesto diretto del gioco è estremamente complicato.  
+Spesso mi è capitato di rivedere e correggere testi già tradotti dopo averli testati in game, perché non suonavano bene o erano completamente fuori luogo.  
+Mi scuso in anticipo per eventuali errori che potresti incontrare: finché non avrò provato ogni stringa nel contesto del gioco, **non posso garantire una traduzione perfetta al 100%**.
+
+Continuerò a testare tutto in gioco, compatibilmente con il tempo disponibile, per migliorare costantemente la qualità della localizzazione.
+
+## ⚠️ Limitazioni tecniche del gioco
+
+- **Alcuni nomi di mostri non appaiono in combattimento.**  
+  Questo sembra essere un bug o una limitazione del codice interno del gioco. Lo stesso problema è presente anche nella traduzione francese e in quella inglese, quindi non è possibile risolverlo al momento
+
+- **Spazi di testo molto limitati.**  
+  Alcune interfacce del gioco sono pensate per la lingua giapponese, che utilizza meno caratteri.  
+  Di conseguenza, testi in italiano (o qualsiasi lingua occidentale) vengono **troncati** in alcune schermate, come ad esempio gli oggetti nel menu degli oggetti.  
+  Nella “libreria degli oggetti”, però, i nomi sono mostrati correttamente. Anche qui, si tratta di una limitazione condivisa da tutte le altre traduzioni fan-made.
 
 ---
+
+# 📚 Come contribuire
 
 ## 🧠 Requisiti di Base
 
