@@ -20,8 +20,7 @@ Continuerò a testare tutto in gioco, compatibilmente con il tempo disponibile, 
 
 - **Spazi di testo molto limitati.**  
   Alcune interfacce del gioco sono pensate per la lingua giapponese, che utilizza meno caratteri.  
-  Di conseguenza, testi in italiano (o qualsiasi lingua occidentale) vengono **troncati** in alcune schermate, come ad esempio gli oggetti nel menu degli oggetti.  
-  Nella “libreria degli oggetti”, però, i nomi sono mostrati correttamente. Anche qui, si tratta di una limitazione condivisa da tutte le altre traduzioni fan-made.
+  Di conseguenza, testi in italiano (o qualsiasi lingua occidentale) vengono **troncati** in alcune schermate, come ad esempio gli oggetti nel menu degli oggetti che invece non vengono troncati nel menù della libreria, quindi è una situazione abbastanza casuale. Anche qui, si tratta di una limitazione condivisa da tutte le altre traduzioni fan-made.
 
 ---
 
