@@ -1,4 +1,4 @@
-# DQMJ3P – Italian Fan Translation
+# DQMJ3P – 🇮🇹 Italian Fan Translation
 
 <p align="center">
     <img src="icon.png" alt="DQMJ3P Icon" width="400"/>
@@ -16,6 +16,8 @@ Questo repository è dedicato allo sviluppo di una traduzione amatoriale in ital
 
 > Questo progetto fornisce esclusivamente file di patch `.mes`. Nessun contenuto protetto da copyright  
 > è incluso, nel rispetto della legalità.
+
+se vuoi contribuire alla traduzione leggi qua [contribute.md](https://github.com/Lurpigi/DQMJ3P-IT-FanTranslation/blob/main/contribute.md)
 
 ---
 
