@@ -3,6 +3,18 @@
 > Se vuoi contribuire alla traduzione, prima di tutto **grazie di cuore!**  
 > Siamo una nicchia nella nicchia, e supportarci a vicenda è una cosa preziosa.
 
+Tradurre senza un contesto è veramente complicato, più volte sono dovuto tornare a modificare parti di file perché
+provandole in gioco non suonavano bene o erano propio sbagliate. quindi chiedo scusa per possibili errori del genere.
+Finché non proverò nel contesto tutto il possibile non posso assicurare una buona traduzione. Comunque quando ho tempo
+andrò avanti provando tutto in game per capire come è il risultato.
+
+Alcuni nomi di mostri non appariranno in combattimento, il motivo probabilmente è in qualche controllo a me sconosciuto nel codice.
+anche la traduzione in francese ha questo bug e mi sembra anche quella inglese quindi più di molto non possiamo fare.
+inoltre alcuni spazi per le stringhe sono settati per stringhe giapponesi, pochi caratteri, quindi molto spesso ci
+saranno nomi tagliati di varie cose in game (ad esempio gli oggetti nel menù degli oggetti hanno i nomi troncati, cosa che però
+non accade nella libreria degli oggetti) anche questo è un probelma che si riscontra anche nella versione inglese e francese,
+quindi è una limitazione a livello di codice
+
 Questo documento ti guiderà attraverso tutto ciò che devi sapere per contribuire al progetto.
 
 ---
