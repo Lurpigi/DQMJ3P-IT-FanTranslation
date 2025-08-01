@@ -1,4 +1,4 @@
-# DQMJ3P – 🇮🇹 Italian Fan Translation
+# DQMJ3P – 🇮🇹 Italian Fan Translation - contribuisci anche tu
 
 > Se vuoi contribuire alla traduzione, prima di tutto **grazie di cuore!**  
 > Siamo una nicchia nella nicchia, e supportarci a vicenda è una cosa preziosa.
