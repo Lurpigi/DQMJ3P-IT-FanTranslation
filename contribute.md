@@ -48,7 +48,7 @@ La repository è organizzata in diverse cartelle. Ecco una panoramica:
 | `update/`  | File `.mes` aggiornati per l'**update 1.3** (sottocartelle `it/` e `eng/`)                         |
 | `legenda/` | Tabelle di riferimento per nomi di **mostri, abilità, tratti, luoghi e mosse**                     |
 | `json/`    | Cartella generata **automaticamente** via GitHub Action – **non modificare i file al suo interno** |
-| `scripts/` | Script utili per automatizzare conversioni, aggiornamenti e controlli sui file                     |
+| `scripts/` | Script utili                                                                                       |
 
 ---
 
