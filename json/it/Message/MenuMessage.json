@@ -1347,7 +1347,7 @@
   "MenuMessagePartnerRequestScoutProhibit": "Non ci sono mostri qui che puoi reclutare. Va bene?",
   "MenuMessagePartnerRequestAllScoutAlready": "Non ci sono mostri che non hai ancora qui. Va bene?",
   "MenuMessagePartnerRequestRemainingTime": "%ls minuti al completamento della missione.",
-  "MenuMessageGattaiTutorial00": "Puoi confermare con quali alleati unificarti in battaglia\nin questa schermata.",
-  "MenuMessageGattaiTutorial01": "Seleziona a destra e abbina i mostri Unificati con te o\nil tuo partner a sinistra.",
-  "MenuMessageGattaiTutorial02": "Puoi aggiungere i mostri con cui vuoi provare a\nUnificarti alla tua squadra."
+  "MenuMessageGattaiTutorial00": "In questa schermata puoi vedere i risultati delle fusioni\nin sella con i tuoi mostri.",
+  "MenuMessageGattaiTutorial01": "Seleziona i mostri che vuoi fondere e controlla il\nrisultato della fusione direttamente da qua.",
+  "MenuMessageGattaiTutorial02": "Puoi impostare questa fusione come tua squadra principale\ndal pulsante in basso a sinistra."
 }
