@@ -71,3 +71,7 @@ romfs/
 6. Ripeti l’intero processo anche per l’aggiornamento `1.3`
 
 🎮 Ora puoi caricare la ROM patchata e goderti il gioco in italiano!
+
+## 📚 Guide e Risorse
+
+Per guide specifiche sul gioco, consulta la [Wiki del progetto](https://github.com/Lurpigi/DQMJ3P-IT-FanTranslation/wiki).
