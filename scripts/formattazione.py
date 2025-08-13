@@ -32,6 +32,11 @@ def format_line(line, max_len=85): #85 dialoghi, 54 menu
                 current_line = word
 
         formatted += current_line
+
+        # Avviso se ci sono due {CL}
+        if formatted.count("{CL}") > 1:
+            print(f"AVVISO: Due o più '{{CL}}' trovati nel blocco: {formatted}")
+
         formatted_blocks.append(formatted)
 
         # Avviso se la linea supera max_len*2
