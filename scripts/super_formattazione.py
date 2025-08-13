@@ -35,10 +35,10 @@ def format_line_json(line, max_len=85):  # 85 dialoghi, 54 menu
                 current_line = word
 
         formatted += current_line
-
-        # Avviso se ci sono due \n consecutivi (equivalente a 2 {CL})
-        if formatted.count("\n") > 1:
-            print(f"AVVISO: Due o più '\\n' trovati nel blocco: {formatted}")
+        if max_len == 85:
+            # Avviso se ci sono due \n consecutivi (equivalente a 2 {CL}) solo nei dialoghi
+            if formatted.count("\n") > 1:
+                print(f"AVVISO: Due o più '\\n' trovati nel blocco: {formatted}")
 
         formatted_blocks.append(formatted)
 
@@ -52,7 +52,7 @@ def format_line_json(line, max_len=85):  # 85 dialoghi, 54 menu
 
     return "\n\u0001ā\n".join(formatted_blocks)
 
-def process_json(input_path, output_path):
+def process_json(input_path, output_path, max_len):
     with open(input_path, 'r', encoding='utf-8') as infile:
         data = json.load(infile)
 
@@ -64,15 +64,19 @@ def process_json(input_path, output_path):
         elif not stripped:
             formatted_data[key] = ""
         else:
-            formatted_data[key] = format_line_json(stripped)
+            formatted_data[key] = format_line_json(stripped, max_len)
 
     with open(output_path, 'w', encoding='utf-8') as outfile:
         json.dump(formatted_data, outfile, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
-    input_dir = "./json/it/Script/Field/Demo"
-    for root, _, files in os.walk(input_dir):
-        for file in files:
-            if file.endswith(".json"):
-                input_path = os.path.join(root, file)
-                process_json(input_path, input_path)
+    input_dirs = [
+        "./json/it/Script/Field/Demo",
+        "./json/it/Script/Field/Event"
+    ]
+    for input_dir in input_dirs:
+        for root, _, files in os.walk(input_dir):
+            for file in files:
+                if file.endswith(".json"):
+                    input_path = os.path.join(root, file)
+                    process_json(input_path, input_path, 85)
