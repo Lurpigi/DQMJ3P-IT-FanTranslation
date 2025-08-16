@@ -1,5 +1,7 @@
 def calculate_length(text):
     length = 0
+    length += text.count("ȁ") * 10.2
+    text = text.replace("ȁ", "")
     for char in text:
         if char.isupper():
             length += 1.7

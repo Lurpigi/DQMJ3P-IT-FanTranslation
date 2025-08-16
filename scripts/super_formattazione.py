@@ -40,11 +40,18 @@ def format_line_json(line, max_len=85):  # 85 dialoghi, 54 menu
             if formatted.count("\n") > 1:
                 print(f"AVVISO: Due o più '\\n' trovati nel blocco: {formatted}")
 
-        formatted_blocks.append(formatted)
+            # Avviso se il blocco supera la lunghezza massima
+            elif calculate_length(subline) > max_len * 2:
+                print(f"AVVISO: Blocco supera la lunghezza massima: {subline}")
 
-        # Avviso se la linea supera max_len*2
-        if calculate_length(subline) > max_len * 2:
-            print(f"AVVISO: Blocco supera la lunghezza massima: {subline}")
+        if max_len == 42.5:
+            if formatted.count("\n") > 3:
+                print(f"AVVISO: Quattro o più '\\n' trovati nel blocco: {formatted}")
+            elif calculate_length(subline) > max_len * 4:
+                print(f"AVVISO: Blocco supera la lunghezza massima: {subline}")
+
+        formatted_blocks.append(formatted)
+        
 
     # Rimuovi l'ultimo blocco se vuoto
     if formatted_blocks and formatted_blocks[-1] == "":
@@ -70,13 +77,30 @@ def process_json(input_path, output_path, max_len):
         json.dump(formatted_data, outfile, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
-    input_dirs = [
+    input_dirs_85 = [
         "./json/it/Script/Field/Demo",
-        "./json/it/Script/Field/Event"
+        "./json/it/Script/Field/Event",
+        "./json/update/it/Script/Field/Demo",
+        "./json/update/it/Script/Field/Event"
     ]
-    for input_dir in input_dirs:
+    for input_dir in input_dirs_85:
         for root, _, files in os.walk(input_dir):
             for file in files:
                 if file.endswith(".json"):
                     input_path = os.path.join(root, file)
                     process_json(input_path, input_path, 85)
+
+    input_dirs_54 = [
+        #"./json/it/Message/ItemHelpMessage.json",
+        "./json/update/it/Message/ItemHelpMessage.json"
+    ]
+    for input_dir in input_dirs_54:
+        process_json(input_dir, input_dir, 54)
+
+    inputs_dir_42 = [
+       # "./json/it/Message/MonsterTriviaMessage.json",
+        "./json/update/it/Message/MonsterTriviaMessage.json",
+
+    ]
+    for input_dir in inputs_dir_42:
+        process_json(input_dir, input_dir, 42.5)
