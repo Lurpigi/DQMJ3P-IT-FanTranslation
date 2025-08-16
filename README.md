@@ -50,7 +50,10 @@ Se vuoi aiutare con la traduzione, leggi la guida su come contribuire:
 - Emulatore compatibile:  
   🔸 [Lime3DS-DQMJ3P](https://github.com/Lurpigi/lime3ds-dqmj3p) **(consigliato)**  
   🔸 Citra `nightly-1543` o precedente
+  > Questi emulatori del 3ds sono quelli che funzionano meglio con questo gioco nello specifico, leggi [qui](https://github.com/Lurpigi/lime3ds-dqmj3p/blob/master/README.md) per maggiori info
 - Aggiornamento del gioco `v1.3` (`CIA`)
+
+- l'ultima versione della traduzione disponibile in release: [Download](https://github.com/Lurpigi/DQMJ3P-IT-FanTranslation/releases/latest)
 
 ---
 
