@@ -3,28 +3,7 @@
 > Se vuoi contribuire alla traduzione, prima di tutto **grazie di cuore!**  
 > Siamo una nicchia nella nicchia, e supportarci a vicenda è una cosa preziosa.
 
----
-
-# 📌 Premessa
-
-Tradurre senza il contesto diretto del gioco è estremamente complicato.  
-Spesso mi è capitato di rivedere e correggere testi già tradotti dopo averli testati in game, perché non suonavano bene o erano completamente fuori luogo.  
-Mi scuso in anticipo per eventuali errori che potresti incontrare: finché non avrò provato ogni stringa nel contesto del gioco, **non posso garantire una traduzione perfetta al 100%**.
-
-Continuerò a testare tutto in gioco, compatibilmente con il tempo disponibile, per migliorare costantemente la qualità della localizzazione.
-
-## ⚠️ Limitazioni tecniche del gioco
-
-- **Alcuni nomi di mostri non appaiono in combattimento.**  
-  Questo sembra essere un bug o una limitazione del codice interno del gioco. Lo stesso problema è presente anche nella traduzione francese e in quella inglese, quindi non è possibile risolverlo al momento
-
-- **Spazi di testo molto limitati.**  
-  Alcune interfacce del gioco sono pensate per la lingua giapponese, che utilizza meno caratteri.  
-  Di conseguenza, testi in italiano (o qualsiasi lingua occidentale) vengono **troncati** in alcune schermate, come ad esempio gli oggetti nel menu degli oggetti che invece non vengono troncati nel menù della libreria, quindi è una situazione abbastanza casuale. Anche qui, si tratta di una limitazione condivisa da tutte le altre traduzioni fan-made.
-
----
-
-# 📚 Come contribuire
+# 📚 Come contribuire:
 
 ## 🧠 Requisiti di Base
 
@@ -33,30 +12,28 @@ Per partecipare attivamente è necessario conoscere **le basi di GitHub**, in pa
 - Come creare una **fork** della repository
 - Come **proporre modifiche** tramite una **pull request**
 
-Trovi moltissime guide online su questi concetti, ma se hai dubbi puoi anche chiedere nei commenti della repo.
+> IMPORTANTE: molto probabilmente dopo un push dovrai effettuare una pull per evitare merge conflict dato che ad ogni push di file `.mes` triggera delle action
 
----
+Trovi moltissime guide online su questi concetti, anche video youtube fatti molto bene e facili da comprendere.
 
 ## 📁 Struttura della Repository
 
 La repository è organizzata in diverse cartelle. Ecco una panoramica:
 
-| Cartella   | Contenuto                                                                                          |
-| ---------- | -------------------------------------------------------------------------------------------------- |
-| `eng/`     | File testuali originali in inglese (`.mes`), usati come base per la traduzione italiana            |
-| `it/`      | File tradotti in italiano (`.mes`) aggiornati                                                      |
-| `update/`  | File `.mes` aggiornati per l'**update 1.3** (sottocartelle `it/` e `eng/`)                         |
-| `legenda/` | Tabelle di riferimento per nomi di **mostri, abilità, tratti, luoghi e mosse**                     |
-| `json/`    | Cartella generata **automaticamente** via GitHub Action – **non modificare i file al suo interno** |
-| `scripts/` | Script utili                                                                                       |
-
----
+| Cartella   | Contenuto                                                                               |
+| ---------- | --------------------------------------------------------------------------------------- |
+| `eng/`     | File testuali originali in inglese (`.mes`), usati come base per la traduzione italiana |
+| `it/`      | File tradotti in italiano (`.mes`) aggiornati                                           |
+| `update/`  | File `.mes` aggiornati per l'**update 1.3** (sottocartelle `it/` e `eng/`)              |
+| `legenda/` | Tabelle di riferimento per nomi di **mostri, abilità, tratti, luoghi e mosse**          |
+| `json/`    | Cartella generata **automaticamente** via GitHub Action –                               |
+| `scripts/` | Script utili **vedi sezione script**                                                    |
 
 ## 🔍 A cosa serve la cartella `json/`?
 
 Questa cartella contiene una versione `.json` **di tutti i file `.mes`**, per `eng/`, `it/` e `update/`.
 
-> ⚠️ **NON modificare manualmente questi file.**
+> ⚠️ **Pushare modifiche dei file json potrebbe non servire poiché verranno comunque sovrascritti da una Action per mantenerli aggiornati.**
 
 Viene usata per:
 
@@ -65,7 +42,7 @@ Viene usata per:
 
 > Esempio: cercando `"Reclutamento riuscito!"` scoprirai che si trova in `BattleEventMessage.mes`, perché appare in `BattleEventMessage.json`.
 
----
+- Modificare facilmente i file .mes senza programmi esterni usando uno script **vedi sezione script**
 
 ## 🧰 Strumenti consigliati
 
@@ -88,18 +65,22 @@ Questa fork permette di:
 3. Premi `Update` (le modifiche compariranno nella colonna di destra)
 4. Esporta il file `.mes` aggiornato
 
----
-
 ## 🧪 Script Utili
 
 All'interno della cartella `scripts/` trovi alcuni tool utili:
 
 - `formattazione.py`: riformatta un file `.txt` modificando i {CL} (newline) in base a una lunghezza massima (`max_len` Consulta [`note.md`](https://github.com/Lurpigi/DQMJ3P-IT-FanTranslation/blob/main/note.md) per esempi e valori usati.)
-- Altri script per:
-  - Generare i file `.json`
-  - Aggiornare il `README.md` con i progressi della traduzione
+- `json_to_mes.py`: usa i file `.json` italiani per aggiornare i file `.mes` italiani, in questo modo è possibile modificare i testi del gioco solo dai file Json senza usare applicazioni esterne
+- `mes_to_json.py`: usa tutti i file `.mes` per generare e aggiornare tutti i file `.json`, è lo script usato dalla Action per mantenere i Json aggiornati
+- `super_formattazione.py`: riformatta alcuni file Json italiani (menù e dialoghi) impostando la lunghezza delle righe (gli a capo per intenderci) adatte al contesto, non modifica i file `.mes`
 
----
+per far runnare questi script hai bisogno di python 3, e poi facilmente tramite terminale:
+
+```bash
+python scripts/[nome].py
+```
+
+`formattazione.py` va runnato dentro la cartella scripts, mentre gli altri dalla root della repository
 
 ## 🤝 Contribuisci anche tu!
 

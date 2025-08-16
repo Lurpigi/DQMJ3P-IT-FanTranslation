@@ -10,18 +10,37 @@
 
 📊 **Stato della traduzione update**: 18% (4/22 files)
 
-# IT
+---
 
 Questo repository è dedicato allo sviluppo di una traduzione amatoriale in italiano per _Dragon Quest Monsters Joker 3 Professional_:
 
-> Questo progetto fornisce esclusivamente file di patch `.mes`. Nessun contenuto protetto da copyright  
-> è incluso, nel rispetto della legalità.
+> Questo progetto fornisce esclusivamente file di patch `.mes`. Nessun contenuto protetto da copyright è incluso, nel rispetto della legalità.
 
-se vuoi contribuire alla traduzione leggi qua [contribute.md](https://github.com/Lurpigi/DQMJ3P-IT-FanTranslation/blob/main/contribute.md)
+## 📌 Premessa
+
+Tradurre senza il contesto diretto del gioco è estremamente complicato.  
+Spesso mi è capitato di rivedere e correggere testi già tradotti dopo averli testati in game, perché non suonavano bene o erano completamente fuori luogo.  
+Mi scuso in anticipo per eventuali errori e incoerenze che potresti incontrare: finché non avrò provato ogni stringa nel contesto del gioco, **non posso garantire una traduzione adeguata al 100%**.
+
+Continuerò a testare tutto in gioco, compatibilmente con il tempo disponibile, per migliorare costantemente la qualità della localizzazione.
+
+### ⚠️ Limitazioni tecniche del gioco
+
+- **Alcuni nomi di mostri non appaiono in combattimento.**  
+  Questo sembra essere un bug o una limitazione del codice interno del gioco. Lo stesso problema è presente anche nella traduzione francese e in quella inglese, quindi non è possibile risolverlo al momento
+
+- **Spazi di testo molto limitati.**  
+  Alcune interfacce del gioco sono pensate per la lingua giapponese, che utilizza meno caratteri.  
+  Di conseguenza, testi in italiano (o qualsiasi lingua occidentale) vengono **troncati** in alcune schermate, come ad esempio gli oggetti nel menu degli oggetti che invece non vengono troncati nel menù della libreria, quindi è una situazione abbastanza casuale. Anche qui, si tratta di una limitazione condivisa da tutte le altre traduzioni fan-made.
 
 ---
 
-## 🧩 Installazione della Mod su Emulatore
+## 🚀 Vuoi contribuire?
+
+Se vuoi aiutare con la traduzione, leggi la guida su come contribuire:  
+👉 [contribute.md](https://github.com/Lurpigi/DQMJ3P-IT-FanTranslation/blob/main/contribute.md)
+
+# 🧩 Installazione della Mod su Emulatore
 
 ### ✅ Requisiti
 
