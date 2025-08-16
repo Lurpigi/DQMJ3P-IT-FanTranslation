@@ -1,5 +1,8 @@
 # DQMJ3P – 🇮🇹 Italian Fan Translation
 
+[![](https://img.shields.io/github/v/release/Lurpigi/DQMJ3P-IT-FanTranslation?include_prereleases&label=Release)](https://github.com/Lurpigi/DQMJ3P-IT-FanTranslation/releases/latest)
+[![](https://img.shields.io/github/downloads/Lurpigi/DQMJ3P-IT-FanTranslation/total.svg)](https://github.com/Lurpigi/DQMJ3P-IT-FanTranslation/releases)
+
 <p align="center">
     <img src="icon.png" alt="DQMJ3P Icon" width="400"/>
 </p>
