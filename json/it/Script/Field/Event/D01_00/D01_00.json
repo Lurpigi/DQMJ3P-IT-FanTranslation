@@ -1,0 +1,12 @@
+{
+  "NPC_NAME_010": "\u0001́Pagina 1 della dichiarazione.\n\u0001ā\nPagina 2 della dichiarazione.",
+  "NPC_NAME_020": "\u0001́Pagina 1 delle domande.\n\u0001ā\nPagina 2 delle domande.\u0001Ă",
+  "NPC_SEIEI_MSG_010": "\u0001́Sei arrivato!\n\u0001ā\nIl Cancello Fantasma è ancora un po' instabile, ma io lo terrò aperto\nqui. Non hai nulla di cui preoccuparti!",
+  "NPC_SEIEI_MSG_020": "\u0001́Non avrei mai pensato che un giorno Regno dei Demoni, Mondo degli\nUmani e del Regno di Incarnus avrebbero convissuto.\n\u0001ā\nRimarrò qui per continuare a vegliare sul Cancello Fantasma.",
+  "MINE_WARP_HOLE_010": "Vuoi entrare nel Cancello del Viaggiatore e visitare il Regno degli\nIncarnus?\u0001Ă",
+  "NPC_SEIEI_REC": "\u0001̄La vera forma di Chomach. Un Nochoro rosso è il segno del Nochoro\nscelto da Dio.",
+  "REC_EVIL_GATE_010": "Cancello Fantasma",
+  "REC_EVIL_GATE_011": "\u0001̄Un cancello dei viaggiatori che collega al mondo dei Demoni. La sua\nposizione cambia, ma puoi uscirne liberamente.",
+  "REC_GOD_GATE_010": "Cancello del Viaggiatore",
+  "REC_GOD_GATE_011": "\u0001̄Un cancello del viaggiatore, creato da JOKER. Puoi visitare il\nregno Incarnus dall'altro lato."
+}

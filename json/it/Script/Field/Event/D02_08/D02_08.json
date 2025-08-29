@@ -1,0 +1,14 @@
+{
+  "NPC_NAME_010": "\u0001́Pagina 1 della dichiarazione.\n\u0001ā\nPagina 2 della dichiarazione.",
+  "NPC_NAME_020": "\u0001́Pagina 1 della domanda.\n\u0001ā\nPagina 2 della domanda.\u0001Ă",
+  "GUIDE_MSG_001": "Solo l'amministratore può tirare la valvola attaccata alla Statua di\nPietra su questo piano!",
+  "REC_POINT_VALVE_01": "Statua di Pietra con Maniglia",
+  "WATER_VALVE_MSG_001": "C'è una Statua di Pietra qui, con una maniglia attaccata a essa. Vuoi\ngirare la maniglia?\u0001Ă",
+  "WATER_VALVE_MSG_002": "Il livello dell'acqua sembra essersi abbassato.",
+  "WATER_VALVE_MSG_003": "\u0001̄La valvola sulla Statua di Pietra è già stata girata. Sembra che\nnon si possa più girare indietro.",
+  "REC_POINT_VALVE_02": "Sembra un Gargoyle, ma non lo è. Non verrai attaccato se giri la sua\nmaniglia.",
+  "REC_POINT_PLATE_01": "Piastra da Pavimento Leggera",
+  "REC_POINT_GUIDE_001": "\u0001̄Una lastra di pietra con lettere incise su di essa. Sembra essere la\nlingua dei Demoni.",
+  "REC_POINT_PLATE_02": "\u0001̄Sembra pesante, ma galleggia sull'acqua. Appare abbastanza robusta,\ne deve essere fatta di un materiale leggero.",
+  "REC_POINT_GUIDE_000": "Bacheca Contatti"
+}

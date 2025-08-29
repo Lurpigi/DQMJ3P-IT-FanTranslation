@@ -1,0 +1,13 @@
+{
+  "NPC_NAME_010": "\u0001́Pagina 1 della dichiarazione.\n\u0001ā\nPagina 2 della dichiarazione.",
+  "NPC_NAME_020": "\u0001́Pagina 1 della domanda.\n\u0001ā\nPagina 2 della domanda.\u0001Ă",
+  "MINE_WARP_010": "Vuoi davvero fuggire dal Madullaj Mahal?\u0001Ă",
+  "MINE_EVENT_REC_TALK_01": "\u0001̄All'interno del Madullaj Mahal ci sono vari enigmi e misure di\nsicurezza preposte a proteggerlo.",
+  "MINE_EVENT_REC_TALK_02": "\u0001̄Fai molta attenzione a non toccare nulla che mostri un leggero\nbagliore rossastro...\n\u0001ā\nSe lo tocchi, libererà nemici e verrai costretto in battaglia.",
+  "MINE_EVENT_REC_TALK_03": "\u0001̄Il mondo dei demoni possiede lo stesso dispositivo elettrico di\nquello sul fondo, ma se lo tocchi verrai rimandato all'ingresso.",
+  "MINE_EVENT_REC_TALK_04": "\u0001̄Puoi verificare dove conduce ogni corridoio usando la NaviMap, le\nmarcature rosse su un lato indicano un senso unico. Fai attenzione!",
+  "REC_POINT_RULER_01": "Pietra Teletrasporto",
+  "REC_POINT_RULER_02": "\u0001̄Sintonizzarsi con questa Pietra Teletrasporto la aggiungerà alla\ntua lista di destinazioni.",
+  "COMM_REC_LOCKDOOR_01": "Porta Robusta",
+  "COMM_REC_LOCKDOOR_02": "\u0001̄Una porta robusta, installata per impedire un'invasione nemica.\nSembra essere a senso unico e si apre solo da un lato."
+}

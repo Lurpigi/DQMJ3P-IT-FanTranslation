@@ -1,0 +1,19 @@
+{
+  "MOVE_WEST_ELEVATOR": "Vuoi prendere l'ascensore?\u0001Ă",
+  "REC_POINT_GP_01_01": "Ascensore Ovest",
+  "UNLOCK_ELEVATOR": "L'ascensore è stato sbloccato. Ora dovresti poterlo usare.",
+  "MOVE_EAST_ELEVATOR": "Vuoi prendere l'ascensore?\u0001Ċ",
+  "CHOICE_MOVE_UP_OR_DOWN": "In quale direzione vuoi andare con l'ascensore? \u0001ĕ",
+  "LOCK_MESSAGE": "La porta è saldamente chiusa.\n\u0001ā\nPer aprirla ti servirà \u0001\u0004%ls\u0001\u0001.",
+  "REC_POINT_GP_04_02": "\u0001̄Puoi usare la Tessera Chiave α per sbloccare la Porta di Sicurezza\nal 29° piano.",
+  "UNLOCK_DOOR_MESSAGE": "La porta \u0001\u0004%ls\u0001\u0001 è stata sbloccata!",
+  "REC_POINT_GP_01_02": "\u0001̄Questo ascensore utilizza il controllo gravitazionale. Puoi usarlo\nper arrivare fino all'ultimo piano.",
+  "REC_POINT_GP_02_01": "Ascensore Est",
+  "REC_POINT_GP_02_02": "\u0001̄Un ascensore controllato dal dispositivo gravitazionale. Ti\npermetterà di visitare i piani superiori e inferiori.",
+  "REC_POINT_GP_03_01": "Porta di Sicurezza α",
+  "REC_POINT_GP_03_02": "\u0001̄La porta è bloccata. Solo il personale con \u0001\u0004Tessera Chiave α\u0001\u0001 può\naprirla.",
+  "REC_POINT_GP_04_01": "\u0001\u0004Tessera Chiave α\u0001\u0001",
+  "REC_POINT_GP_05_01": "\u0001\u0004Tessera Chiave β\u0001\u0001",
+  "REC_POINT_GP_05_02": "\u0001̄Puoi usare la Tessera Chiave β per sbloccare la Porta di Sicurezza\nal 30° piano.",
+  "REC_RA_MONS_MES": "\u0001̄Un demone insorto trasformato dalla furia di Madre. Possiede una\npotenza spaventosa."
+}

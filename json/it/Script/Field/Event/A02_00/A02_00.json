@@ -1,0 +1,16 @@
+{
+  "MSG_SCREEN_000": "L'unità di trasmissione sembra funzionare.",
+  "MSG_SCREEN_001": "I monitor principali si sono accesi. Pare che vadano attivati due\nsottomoduli di alimentazione.",
+  "MSG_DOOR_000": "La porta è ben chiusa! Ripristina l'alimentazione per aprirla.",
+  "MSG_BATTERY_000": "L'interruttore emette una luce verde. Sembra che il sottosistema di\nalimentazione si sia avviato.",
+  "REC_POINT_NOC_01_01": "Pannello di Controllo",
+  "REC_POINT_NOC_01_02": "\u0001̄Un sistema di controllo dei circuiti di recupero ausiliari integrato\ndirettamente nel sistema di sicurezza della centrale elettrica.\n\u0001ā\nLa rete elettrica della città è gestita esclusivamente da questo\ndispositivo di controllo.",
+  "REC_POINT_NOC_02_01": "Controllo del Generatore",
+  "REC_POINT_NOC_02_02": "\u0001̄Una fonte di alimentazione resa possibile dall'uso di una grande\nbatteria.\n\u0001ā\nProgettata per il ripristino in caso di disastro, durante\nun'interruzione di corrente.",
+  "REC_POINT_NOC_03_01": "Porta di Prevenzione Disastri",
+  "REC_POINT_NOC_03_02": "\u0001̄Una saracinesca meccanica di prevenzione dei disastri. Probabilmente\nsarebbe operativa se la corrente venisse ripristinata nella città.",
+  "NPC_ACE_MSG_020": "\u0001́Va bene-va bene! Ce l'hai fatta! Ora, vai pure!",
+  "NOT_START_UP_MSG": "Non è successo niente...",
+  "NPC_ACE_MSG_010": "\u0001́Ehi, guarda un po', \u0001ȁ! Sembra che tu abbia trovato qualcosa\ndi buono!\n\u0001ā\nHmm... sembrano dei dati interessanti! Mandameli e ci darò\nun'occhiata!",
+  "REC_RA_MONS_MES": "\u0001̄È stato infettato da un Demone Insorgente. Dispone di un potere\nincredibilmente grande."
+}

@@ -1,0 +1,13 @@
+{
+  "TRANSFER_MSG": "Vuoi usare il teletrasporto per raggiungere il Vulcano Ardente?\u0001Ă",
+  "BARRIER_MSG": "Una barriera misteriosa ti impedisce di procedere oltre...",
+  "DONT_USE_TELEPORTER_010": "Il Dispositivo di Trasferimento non è attivo. Non può essere\nutilizzato in questo momento.",
+  "REC_POINT_TRANSFER_010": "Sistema di Fuga d'Emergenza",
+  "RENATE_MSG": "\u0001̂\u0001ȁ, devi dirigerti nelle profondità del Nucleo. È\nessenzialmente il sistema nervoso centrale.\n\u0001ā\nUna volta in quella stanza, potrò scatenare l'anticorpo che ho creato\nper purificare Madre.\n\u0001ā\nPer favore, devi aprirmi un varco fino a quella stanza... credo in te!",
+  "AROMA_MSG": "\u0001̂Devi arrivare alle profondità, proprio come l'ultima volta. Lenate\ndovrebbe aspettarti dentro!",
+  "NPC_RENATE_REC": "\u0001̄Un tempo era la principale collaboratrice di Anses. Ora è la\nsorvegliante del laboratorio sotterraneo della Resistenza.",
+  "NPC_AROMA_REC": "\u0001̄Una ragazza che impersonava Lucia. È una giovane scienziata\napprendista, piuttosto intelligente e bella.",
+  "REC_POINT_TRANSFER_020": "\u0001̄Attivando questo terminale potrai effettuare una rapida fuga dal\nNucleo.",
+  "REC_POINT_01_01": "Pietra Teletrasporto",
+  "REC_POINT_01_02": "\u0001̄Sintonizzarsi con questa Pietra Teletrasporto la aggiungerà alla\nlista delle destinazioni."
+}

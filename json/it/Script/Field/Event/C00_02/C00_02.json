@@ -1,0 +1,20 @@
+{
+  "NPC_DAEMON_010": "\u0001̃Ki-ka-ri-ki... sa-kha-kri...!\n\u0001ā\nGuaaah-haaaaa-hooooo!!",
+  "SYS_KESSYOU_040": "La barriera energetica si è indebolita ancora di più. Distruggere un\naltro cristallo dovrebbe abbatterla.",
+  "SYS_MESSAGE_010": "Si rilevano forti emissioni di Darkonium all'interno... Vuoi comunque\nprocedere?\u0001Ă",
+  "DEMO_RENATE_010": "\u0001̂Non possiamo semplicemente attraversare...\n\u0001ā\nScommetto che un Cristallo di Darkonium ne è la causa.\n\u0001ā\nDiamo un'occhiata in giro, \u0001ȁ.\n\u0001ā\nDistruggere quel cristallo dovrebbe aiutarci ad oltrepassarlo.\n\u0001ā\nUsa il tuo reattore per individuarne la fonte.",
+  "SYS_KEKKAI_010": "Sembra che la barriera sia collassata su se stessa.\n\u0001ā\nUsare il tuo Reattore per identificare e distruggere il Darkonium è\nla chiave per rimuovere le barriere.",
+  "REC_KESSYOU_010": "\u0001̄Questi sono cristalli con un'alta concentrazione di Darkonium.\nSembrano alimentare una barriera energetica.",
+  "SYS_KESSYOU_060": "Alcuni Mostri sono usciti dalle crepe del Cristallo di Darkonium\nfrantumato!",
+  "SYS_KESSYOU_010": "Vuoi distruggere il Cristallo di Darkonium?\u0001Ă",
+  "SYS_KESSYOU_015": "All'interno di questo cristallo risiedono mostri potenti. Dovrai\ncombatterli se lo distruggi. Sei pronto?\u0001Ă",
+  "SYS_KESSYOU_020": "Hai distrutto il Cristallo di Darkonium, la fonte energetica che\nalimentava parte di una barriera!",
+  "REC_POINT_01_02": "\u0001̄Sintonizzando questa Pietra Teletrasporto la aggiungerai alla lista\ndelle destinazioni. Queste pietre compaiono in vari luoghi del mondo.",
+  "SYS_KESSYOU_030": "La barriera energetica sembra essersi indebolita.",
+  "SYS_KESSYOU_050": "Sembra che la barriera abbia totalmente perso la sua fonte energetica\ne si sia completamente dissolta...",
+  "NPC_DAEMON_ANALYZE_010": "\u0001̄Un Arcidemone, infettato dal Darkonium. Il suo unico scopo ora è\nproteggere il Nucleo con la sua vita.",
+  "REC_POINT_HALL_010": "Ingresso della Stanza della Madre",
+  "REC_POINT_HALL_020": "\u0001̄Una porzione del muro sembra essersi collassata a causa di una forte\nerosione.\n\u0001ā\nSi notano forti tracce di Darkonium che risuonano dall'altra parte.",
+  "REC_POINT_01_01": "Pietra Teletrasporto",
+  "NOT_ENTER_MSG": "Una strana forza ti impedisce di viaggiare verso il Nucleo."
+}
