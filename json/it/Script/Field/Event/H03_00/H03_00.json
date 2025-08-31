@@ -1,0 +1,18 @@
+{
+  "NPC_NAME_010": "\u0001́Pagina 1 della dichiarazione.\n\u0001ā\nPagina 2 della dichiarazione.",
+  "MINE_PEDESTAL_050": "La macchina inizia a reagire violentemente verso \u0001ȁ il %ls!\n\u0001ā\n\u0001\u0004%ls\u0001\u0001 viene risucchiato nella macchina!\n\u0001ā\n\u0001\u0004%ls\u0001\u0001 ha riacquistato il suo potere! Dovresti tornare nella sala\nenergia della Bastiglia!",
+  "NPC_NAME_020": "\u0001́Pagina 1 della domanda.\n\u0001ā\nPagina 2 della domanda.\u0001Ă",
+  "MINE_PEDESTAL_060": "Hai già ricevuto il \u0001\u0004%ls\u0001\u0001 da questo dispositivo.",
+  "MINE_PEDESTAL_010": "Sembra un dispositivo che può convertire oggetti in energia. Prova a\nscannerizzarlo con il tuo Reattore.",
+  "MINE_PEDESTAL_020": "È un dispositivo che trasforma qualcosa in energia.\n\u0001ā\nIl dispositivo reagisce al \u0001ȁ di \u0001\u0004%ls\u0001\u0001 e delle parole appaiono\nsulla sua superficie!\n\u0001ā\nPorta %ls, un saggio da un altro mondo, e l’energia dimorerà su\n\u0001\u0004%ls\u0001\u0001.",
+  "MINE_PEDESTAL_030": "Il dispositivo reagisce al \u0001ȁ di \u0001\u0004%ls\u0001\u0001 e delle parole appaiono\nsulla sua superficie!\n\u0001ā\nPorta %ls, un saggio da un altro mondo, e l’energia dimorerà su\n\u0001\u0004%ls\u0001\u0001.",
+  "MINE_PEDESTAL_040": "%ls si unirà con %ls e %ls.",
+  "MINE_PEDESTAL_070": "Il %ls di \u0001ȁ sta risuonando con l’apparato!\n\u0001ā\n\u0001\u0004%ls\u0001\u0001 ora ha potere!\n\u0001ā\nOttenendo energia da %ls altri apparati, \u0001\u0004%ls\u0001\u0001 tornerà al suo stato\noriginale.",
+  "MINE_PEDESTAL_060_2": "Quando avrai %ls Tokkara, \u0001\u0004%ls\u0001\u0001 sarà completamente ripristinato.",
+  "MINE_PEDESTAL_060_3": "\u0001\u0004%ls\u0001\u0001 è stato ripristinato! Torna nella sala energia della Bastiglia\ndi ferro!",
+  "REC_RA_MONS_010": "\u0001̄Una macchina creata per distruggere tutti gli esseri umani. Sembra\nche stia proteggendo un tesoro.",
+  "REC_POINT_01_01": "Altare Divino",
+  "REC_POINT_01_02": "\u0001̄Sembra essere stato distrutto. Un tempo usato in un rituale per\npotenziare una creatura divina.",
+  "REC_POINT_02_01": "Monumento Magico",
+  "REC_POINT_02_02": "\u0001̄Un apparato usato per riempire un globo di luce. Devi avere il\nmostro giusto per riempire il globo corretto."
+}

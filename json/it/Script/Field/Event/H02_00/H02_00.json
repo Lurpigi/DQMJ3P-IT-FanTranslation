@@ -1,0 +1,16 @@
+{
+  "MES_CARCASS_SANCHO": "I resti di Sancho giacciono qui, ancora fumanti. Sembra essere stato\ncompletamente distrutto.",
+  "EXAMINE_POD_MSG": "È la capsula che si è schiantata in paradiso... la stessa in cui è\nstato trovato quello strano dispositivo per la testa.",
+  "NPC_RENERTE_010": "\u0001̂È il momento, \u0001ȁ. Entra nel Colosseo Virtuale e impara\nquest’ultima abilità...\n\u0001ā\nÈ l’unico modo per salire lassù e dare all’umanità un’ultima\npossibilità...",
+  "NPC_RENERTE_020": "\u0001̂Apri il menu Oggetti e usa il \u0001\u0004 Segnale di Volo \u0001\u0001 per cavalcare\nun mostro, \u0001ȁ.\n\u0001ā\nVolare è l’unico modo per raggiungere il Nucleo... Spero tu sia\npronto... questa sarà la nostra ultima battaglia.",
+  "REC_POINT_02_01": "Monolite",
+  "NPC_RENATE_030": "\u0001̄Un tempo era la partner principale di Anses. Ora è la responsabile\ndel laboratorio sotterraneo della Resistenza.",
+  "REC_POINT_01_01": "Sancho",
+  "REC_POINT_01_02": "\u0001̄Un robot che ti ha tenuto prigioniero in un falso \"paradiso\". È\nstato distrutto da quella Ragazza Misteriosa.",
+  "REC_POINT_02_02": "\u0001̄Dispositivo per viaggi spaziali che conduce i Monster Scout al\nColosseo Virtuale.",
+  "REC_POINT_03_01": "Capsula Schiantata",
+  "REC_POINT_03_02": "\u0001̄Questa capsula è atterrata nel \"Paradiso\" e conteneva il Reattore\nche ora porti sulla testa.",
+  "MES_SPEED_SANCHO": "Sancho ha subito gravi danni e non può più funzionare.\n\u0001ā\nVuoi usare il \u0001\u0004Kit Riparazione Sancho\u0001\u0001?\u0001Ă",
+  "MSG_GET_MONSTER": "\u0001\u0004%ls\u0001\u0001 è diventato tuo alleato!",
+  "REC_RA_MONS_MES": "\u0001̄Un Demone Insorto trasformato dalla furia di Madre. Ha una potenza\nspaventosa."
+}

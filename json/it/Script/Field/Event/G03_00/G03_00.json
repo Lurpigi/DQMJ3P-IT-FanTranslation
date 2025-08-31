@@ -1,0 +1,17 @@
+{
+  "NPC_NAME_010": "\u0001́Pagina 1 della dichiarazione.\n\u0001ā\nPagina 2 della dichiarazione.",
+  "NPC_NAME_020": "\u0001́Pagina 1 della domanda.\n\u0001ā\nPagina 2 della domanda.\u0001Ă",
+  "MINE_PEDESTAL_010": "Sembra essere un dispositivo in grado di convertire oggetti in\nEnergia. Prova a scannerizzarlo con il tuo Reattore.",
+  "MINE_PEDESTAL_020": "È un congegno che converte qualcosa in Energia.\n\u0001ā\nHa reagito a \u0001ȁ's \u0001\u0004%ls\u0001\u0001 e sono apparse parole sull'apparato!\n\u0001ā\nQuando porterai un trascenditore, %ls, il potere dimorerà su\u0001\u0004%ls\u0001\u0001.",
+  "MINE_PEDESTAL_030": "Ha reagito a \u0001ȁ's \u0001\u0004%ls\u0001\u0001 e sono apparse parole sull'apparato!\n\u0001ā\nQuando porterai un trascenditore, %ls, il potere dimorerà su\u0001\u0004%ls\u0001\u0001.",
+  "MINE_PEDESTAL_040": "%ls richiede %ls %ls, %ls & %ls...\n\u0001ā\nÈ creato da queste 4 parti.",
+  "MINE_PEDESTAL_050": "La macchina inizia a reagire violentemente verso \u0001ȁ's %ls!\n\u0001ā\n\u0001\u0004%ls\u0001\u0001 viene risucchiato nella macchina!\n\u0001ā\n\u0001\u0004%ls\u0001\u0001 ha riacquistato la sua potenza! Dovresti tornare alla sala\nenergia della Bastiglia!",
+  "MINE_PEDESTAL_070": "\u0001ȁ's %ls sta risuonando con l'apparato!\n\u0001ā\n\u0001\u0004%ls\u0001\u0001 ora ha potere!\n\u0001ā\nOttenere potere da %ls apparati in più riporterà \u0001\u0004%ls\u0001\u0001 al suo stato\noriginale.",
+  "MINE_PEDESTAL_060": "Hai già ricevuto il \u0001\u0004%ls\u0001\u0001 da questo dispositivo.",
+  "MINE_PEDESTAL_060_2": "Quando avrai %ls Tokkara, \u0001\u0004%ls\u0001\u0001 sarà completamente ripristinato.",
+  "MINE_PEDESTAL_060_3": "\u0001\u0004%ls\u0001\u0001 è stato ripristinato! Torna alla sala energia nella Bastiglia!",
+  "REC_POINT_01_01": "Altare Divino",
+  "REC_POINT_02_01": "Monumento Magico",
+  "REC_POINT_01_02": "\u0001̄Sembra essere stato distrutto. Un tempo usato in un rituale per\ninfondere potere a una creatura divina.",
+  "REC_POINT_02_02": "\u0001̄Un apparato usato per riempire un orbe di luce. Devi avere il mostro\ngiusto, per riempire l'orbe corretto."
+}
