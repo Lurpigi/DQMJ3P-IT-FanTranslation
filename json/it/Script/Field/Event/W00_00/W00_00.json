@@ -1,0 +1,17 @@
+{
+  "BOSS_RECEIVE_MSG_00": "\u0001̄[Ho percepito un segnale terribile e sconosciuto.] Mostra la\nposizione sulla mappa mondiale.",
+  "BOSS_EVENT_MSG_00": "Sembra che tu abbia esaurito lo spazio nel deposito.",
+  "BOSS_EVENT_MSG_01": "\u0001\u0004%ls\u0001\u0001Vuoi sfidarlo in battaglia?\u0001Ă",
+  "NPC_BIG_BOWSHOCK_REC": "\u0001̄Il mostro che sorveglia la fortezza dei Ghiottoni. Molto\nappropriato, visto che ha sempre fame.",
+  "BOSS_ADDFELLOW_MSG_00": "Il \u0001\u0004%ls\u0001\u0001 si è rialzato... Sembra che voglia combattere al tuo\nfianco!\n\u0001ā\nVuoi lasciare che \u0001\u0004%ls\u0001\u0001 si unisca alla tua squadra?\u0001Ă",
+  "BOSS_NOTFELLOW_MSG_00": "\u0001\u0004%ls\u0001\u0001Non farlo diventare tuo amico. Sei sicuro?\u0001Ă",
+  "BOSS_ADDFELLOW_MSG_01": "\u0001\u0004%ls\u0001\u0001 è diventato tuo amico！",
+  "BOSS_NOTFELLOW_MSG_01": "\u0001\u0004%ls\u0001\u0001 si è allontanato tristemente...",
+  "NPC_RENERTE_010": "\u0001̂Come puoi vedere... il mondo è stato quasi del tutto inghiottito\ndalla materia oscura...\n\u0001ā\nNon avvicinarti troppo... Se ci entri, ti accecherà completamente.\n\u0001ā\nFai attenzione là fuori, \u0001ȁ...",
+  "NPC_BIG_BUNDORUDO_REC": "\u0001̄Il Grande Re dei Predoni, che ha conquistato il Giardino dei\nSenzavita, è estremamente diffidente.",
+  "NPC_BIG_AZAMUKU_REC": "\u0001̄Il capo del caos che regna nel Parco Polare. Le sue vere intenzioni\nsono ancora un mistero.",
+  "NPC_BIG_ITTABURU_REC": "\u0001̄Il mostro che governa la Bastiglia di Ferroscuro. Sta lavorando\nduramente per portare a termine la sua missione.",
+  "NPC_BIG_DEATH_REC": "\u0001̄Un servitore del Signore Oscuro, con uno sguardo così feroce da\nincutere terrore nei nemici.",
+  "NPC_BIG_PRO_REC": "\u0001̄Un mostro evocato dal Signore Oscuro. Sembra un Gigante infettato\ndal Darkonium.",
+  "NPC_BIG_GARUMAZARD_REC": "\u0001̄La forma finale evoluta di Briskod. Orribilmente mutato dopo\nessersi fuso con il Nucleo."
+}

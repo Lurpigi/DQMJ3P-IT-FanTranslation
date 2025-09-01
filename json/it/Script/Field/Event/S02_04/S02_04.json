@@ -1,0 +1,23 @@
+{
+  "NPC_ITTABURU_MSG_090": "\u0001́Non lasciatelo fuggire da qui vivo! Perlustrate la Bastiglia,\ntrovatelo e distruggetelo!",
+  "NPC_RUKIYA_MSG_100": "\u0001̃Vediamoci nella stanza vuota all’angolo nord-est del quarto piano.\n\u0001ā\nDa lì dovremo evitare le scale e uscire sul tetto per scappare!",
+  "NPC_RUKIYA_MSG_101": "\u0001̃Non abbiamo più dove scappare! Devi trovare la porta che porta sul\ntetto, così possiamo uscire!\n\u0001ā\nDa lì dovresti riuscire a raggiungere la stanza vuota all’angolo\nnord-est del quarto piano.",
+  "REACTER_MSG_001": "\u0001̄Sono stati rilevati mostri molto ostili nei paraggi. Nasconditi e\ncerca di evitare lo scontro per ora.\n\u0001ā\nHo individuato una zona al quinto piano con poca attività di mostri.\nDovresti andare lì subito.\n\u0001ā\nMuoviti in fretta, sii furtivo e soprattutto... stai attento!",
+  "SYSTEM_MSG_000": "Vuoi strisciare dentro il condotto dell’aria?\u0001Ă",
+  "REC_POINT_03": "Porta di Sicurezza",
+  "SYSTEM_MSG_001": "Sembra troppo pericoloso uscire in questo momento.",
+  "SYSTEM_MSG_002": "\u0001̄La tua tessera è stata confermata. La porta è stata sbloccata.",
+  "SYSTEM_MSG_003": "La Chiave ha sbloccato la porta!",
+  "SYSTEM_MSG_999": "Disturbo rilevato nelle vicinanze. Il tuo Reattore sembra aver\nrilevato una traccia energetica.",
+  "SYSTEM_MSG_998": "È l’ascensore dello Staff. Sembra però che al momento non funzioni.",
+  "SYSTEM_MSG_997": "L’ascensore è di nuovo operativo. Vuoi usarlo per tornare al primo\npiano?\u0001Ă",
+  "REC_POINT_01_2": "\u0001̄Un ascensore che collega al piano terra della Bastiglia.",
+  "SYSTEM_MSG_996": "La porta è chiusa ermeticamente.",
+  "REC_NPC_RUKIYA": "\u0001̄Una donna anziana che un tempo guidava la Resistenza. Ancora molto\nintelligente e tuttora una leader attiva.",
+  "REC_NPC_GAIKOTU": "\u0001̄Scagnozzo di Itaburu, anche uno dei principali guardiani della\nprigione. Sembra non essere proprio \"tutto a posto\".",
+  "REC_NPC_SLYMKNAIGHT": "\u0001̄Scagnozzo di Itaburu, anche uno dei principali guardiani della\nprigione. Un vero rigido seguace delle regole.",
+  "REC_POINT_01": "Ascensore Staff",
+  "REC_POINT_02": "Condotto d’Aria",
+  "REC_POINT_02_2": "\u0001̄Un condotto di ventilazione dentro la Bastiglia. Senza la grata,\nscommetto che un umano potrebbe entrarci.",
+  "REC_POINT_03_2": "\u0001̄Porta bloccata meccanicamente. Non si apre con i metodi normali."
+}

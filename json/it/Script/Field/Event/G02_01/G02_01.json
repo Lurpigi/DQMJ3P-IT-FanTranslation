@@ -22,8 +22,8 @@
   "NPC_CHOMACH_010": "\u0001́Guarda qui, \u0001ȁ!\n\u0001ā\nQuesta pergamena sembra riguardare il prossimo enigma... sembra più\ndifficile del precedente...",
   "NPC_CHOMACH_020": "\u0001́Darò ancora un'occhiata in giro e poi tornerò alla Città Perduta!\n\u0001ā\nStai pensando di andare alla Tundra Cupa? Il dispositivo che porta lì\nè sul retro.\n\u0001ā\nOra dovresti riuscire ad aprire la porta!",
   "MINE_WALL_PAPER_001": "Entro tre mosse, fai in modo che si allineino. Solo allora il cammino\nsi aprirà.",
-  "MINE_BOOK_SHELF_001": "Sembra che ci siano appunti scritti dalla Resistenza qui...\n\u0001ā\n\"Sembrano provenire dalla Bastiglia di Ferro.\n\u0001ā\nNon c'è modo di infiltrarsi laggiù al momento.\n\u0001ā\nCosa dobbiamo fare adesso? Probabilmente dovremo parlarne con Lucia.\"",
-  "REC_RA_MONS_MES": "\u0001̄Un Demone Insorgente trasformato dalla furia della Madre. Ha una\nquantità di potere spaventosa.",
+  "MINE_BOOK_SHELF_001": "Sembra che ci siano appunti scritti dalla Resistenza qui...\n\u0001ā\n\"Sembrano provenire dalla Bastiglia di Ferroscuro.\n\u0001ā\nNon c'è modo di infiltrarsi laggiù al momento.\n\u0001ā\nCosa dobbiamo fare adesso? Probabilmente dovremo parlarne con Lucia.\"",
+  "REC_RA_MONS_MES": "\u0001̄Un Demone Insorgente trasformato dalla furia di Madre. Possiede\nuna quantità di potere spaventosa.",
   "MINE_BOOK_SHELF_002": "Sembra che qui siano scritte ricerche sui Reattori.\n\u0001ā\n\"I test del nuovo Reattore sono andati bene. Sono in corso gli ultimi\npreparativi per consegnarli alla nostra base segreta.\n\u0001ā\nStanno arrivando rinforzi nemici per fermarci. In qualche modo,\nriuscirò a finire tutto.\"",
   "MINE_BOOK_HINT_001": "C'è un appunto qui.\n\u0001ā\nPer prima cosa, ruota la statua in alto a sinistra verso destra.",
   "MINE_BOOK_HINT_002": "C'è un appunto qui.\n\u0001ā\nIn secondo luogo, vai alla statua in basso a destra e ruotala a\nsinistra.",
@@ -42,5 +42,5 @@
   "REC_POINT_TOTUGEKIUO": "\u0001̄Statua di pietra a forma di Barracuda.",
   "REC_POINT_HARIGAMI_01": "Pergamena Antica",
   "REC_POINT_HARIGAMI_02": "\u0001̄Un pezzo di pergamena dall'aspetto antico. C'è della scrittura\nleggibile su di essa.",
-  "REC_POINT_GRAVE_01_2": "\u0001̄Sintonizzandoti con questa Pietra Teletrasporto la aggiungerai alla\nlista delle destinazioni."
+  "REC_POINT_GRAVE_01_2": "\u0001̄̄Sintonizzare questa Pietra Teletrasporto la aggiungerà alla lista\ndelle destinazioni. Queste pietre appaiono in vari luoghi del mondo."
 }

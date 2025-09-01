@@ -1,0 +1,23 @@
+{
+  "TEST_001": "Ora verrà riprodotta la Demo di apertura 005.",
+  "DEMO_005_AFT_SYS_001": "Sembra che uno strano dispositivo sia precipitato qui. Vuoi\nesaminarlo?\u0001Ă",
+  "npc_001_battle_start": "Eccolo che arriva!",
+  "DEMO_005_AFT_SYS_002": "Rimetti la macchina a terra.",
+  "npc_001_ask_battle": "Allora, Maestro, vuoi combattere?\u0001Ă",
+  "npc_001_no_battle": "Uff! Che noia!",
+  "npc_001_battle_win00": "Va bene... Mi arrendo! Sei davvero forte!",
+  "npc_001_battle_win_item": "○EROE○ ha ricevuto la Mini Medaglia!",
+  "npc_001_battle_win01": "Non vedo l’ora per la prossima!",
+  "npc_001_ask_battle_REAL": "Questa volta non mi trattengo.",
+  "npc_001_battle_lose": "Hai dato il massimo.",
+  "mine_000": "Evento Mine_000 avvenuto.",
+  "npc_000": "Piccone trovato",
+  "npc_001": "Cavalcatura terrestre - Ora",
+  "npc_002": "Seconda linea\n\u0001ā\nFinestra successiva",
+  "npc_003": "Terza linea",
+  "npc_004": "Cavalcatura acquatica",
+  "npc_005": "Quinta linea▼ Seconda pagina",
+  "npc_006": "Sbloccare la cavalcatura aerea?",
+  "npc_001_1": "È un messaggio di conversazione.",
+  "npc_001_2": "È il messaggio dopo la bandiera."
+}

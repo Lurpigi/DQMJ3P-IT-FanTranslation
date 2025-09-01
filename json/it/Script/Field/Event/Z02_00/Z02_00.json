@@ -1,0 +1,10 @@
+{
+  "NPC_NAME_010": "\u0001́Pagina 1 della dichiarazione.\n\u0001ā\nPagina 2 della dichiarazione.",
+  "NPC_NAME_020": "\u0001́Pagina 1 della domanda.\n\u0001ā\nPagina 2 della domanda.\u0001Ă",
+  "GIM_GAREKI_010": "Un vento forte soffia tra le rocce. Dev’esserci qualcosa dall’altra\nparte...\n\u0001ā\nVuoi spaccare la roccia?\u0001Ă",
+  "GIM_GAREKI_020": "Un vento forte soffia tra le rocce. Se fossi in groppa a un mostro,\nprobabilmente potresti romperla.",
+  "REC_TORNADO_011": "\u0001̄Un vento impetuoso forma un tornado che sale verso l’alto. Potresti\nsfruttare questa corrente per uscire dalla caverna.",
+  "REC_TORNADO_010": "Tornado",
+  "REC_GAREKI_010": "Roccia incrinata",
+  "REC_GAREKI_011": "\u0001̄Rocce che puoi rompere se cavalchi un mostro. Senti una brezza che\npassa tra le crepe."
+}

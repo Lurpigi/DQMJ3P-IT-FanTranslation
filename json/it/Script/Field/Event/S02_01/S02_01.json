@@ -1,0 +1,17 @@
+{
+  "SYSTEM_MSG_998": "La porta è chiusa ermeticamente.",
+  "ITTABURU_MSG_000": "\u0001́Tutti voi! Seguite quell'umano! Non lasciate che esca vivo da\nquesta Bastiglia!",
+  "REC_POINT_01_2": "\u0001̄Parte di un grande dispositivo di Mutazione. Sembra usare Puro\nDarkonium.",
+  "REC_POINT_02_2": "\u0001̄Energia oscura cristallizzata, che sembra essere il principale\ncarburante che alimenta il dispositivo.",
+  "SYSTEM_MSG_000": "Non sembra scendere al primo piano...",
+  "SAMAYOUYOROI_MSG_000": "\u0001̂Ehi! La macchina è a posto. Il capitano ti ha mandato qui su per\ncontrollare, hai detto... giusto?\n\u0001ā\nLa riunione al primo piano sta per iniziare. Puoi riferire tutto al\ncapitano laggiù.",
+  "NPC_PRISONER_A_MSG_000": "\u0001̂Gee... gee-kee... lunga vita a Madre... !",
+  "REACTER_MSG_000": "\u0001̄Oh no... una trasmissione interna nella Bastiglia sta bloccando\ntutti i nostri canali di comunicazione!",
+  "REACTER_MSG_010": "...Mi senti, \u0001ȁ?! Era ora, iniziavo a preoccuparmi.\n\u0001ā\nDobbiamo trovare un posto sicuro dove incontrarci, dove non saremo in\npericolo!\n\u0001ā\nHmm, forse il quinto piano della Bastiglia potrebbe andare... Sì,\nritroviamoci al quinto piano!",
+  "REACTER_MSG_020": "\u0001̄I nostri canali sono, di nuovo, tutti bloccati. Comunque, ho\nrintracciato il Reattore alleato al quinto piano.\n\u0001ā\nSeguiamone la traccia e incontriamoci con chiunque sia lassù al quinto\npiano.",
+  "REACTER_MSG_001": "\u0001̄Mostri troppo ostili sono stati rilevati nei paraggi. Nasconditi da\nloro e evita lo scontro per ora.\n\u0001ā\nHo individuato una zona al quinto piano con poca attività di mostri.\nDovresti cercare subito questa zona.\n\u0001ā\nMuoviti in fretta, sii furtivo e, soprattutto... stai attento!",
+  "REC_NPC_GAIKOTU": "\u0001̄Scagnozzo di Itaburu, anche uno dei principali guardiani della\nprigione. Sembra non essere proprio \"tutto a posto\".",
+  "REC_POINT_02": "Cristallo di Darkonium",
+  "REC_NPC_PRIZONER": "\u0001̄Un Malpupazzo di Parco Lega che è stata infettato dal Darkonium e\ntrasformato in un Mostro corrotto.",
+  "REC_POINT_01": "Purificatore"
+}

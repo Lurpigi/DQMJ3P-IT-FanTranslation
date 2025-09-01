@@ -19,7 +19,7 @@
   "DONT_USE_TRANSFER_010": "Il Dispositivo di Trasporto è offline. Non puoi usarlo ora.",
   "CITY_RULER_01_2": "Edificio Centrale - Ingresso aggiunto alla lista Teletrasporto.",
   "CITY_RULER_02": "\u0001́È stata rilevata una nuova Pietra Teletrasporto. Sintonizzazione in\ncorso per accessi futuri...",
-  "CITY_RULER_02_2": "Città Caduta - Centrale Elettrica aggiunta alla lista Teletrasporto.",
+  "CITY_RULER_02_2": "Città Perduta - Centrale Elettrica aggiunta alla lista\nTeletrasporto.",
   "COMM_RULER_POINT_MSG": "\u0001̄Hai già sintonizzato questa Pietra Teletrasporto.",
   "NOT_USE_MESSAGE_BILL_ENTRANCE": "La porta è ben chiusa.",
   "INN_MSG_CITY_1ST_001": "\u0001́Benvenuto alla Locanda! Qui i viaggiatori stanchi possono riposare\ne recuperare le forze.\n\u0001ā\nQuesta notte è offerta dalla casa! Vuoi passare la notte?\u0001Ă",
@@ -128,5 +128,5 @@
   "REC_RA_DOOR_020": "\u0001̄Funzione Ricognizione completata!",
   "REC_RA_GB_BEFORE_010": "\u0001̄Controlla la reazione di Ra. Rivelerà la vera forma usando il\npotere dello specchio.",
   "REC_RA_GB_010": "\u0001̄Hai trovato la porta con successo!",
-  "REC_RA_MONS_MES": "\u0001̄Un Demone Ribelle trasformato dalla furia di Madre. Ha un potere\nspaventoso."
+  "REC_RA_MONS_MES": "\u0001̄Un Demone Insorgente trasformato dalla furia di Madre. Possiede\nuna quantità di potere spaventosa."
 }

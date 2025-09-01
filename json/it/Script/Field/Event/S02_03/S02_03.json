@@ -1,0 +1,21 @@
+{
+  "NPC_RUKIYA_MSG_110": "\u0001̃Ehi! Abbiamo cose più importanti di cui preoccuparci! Io sono solo\nuna piccola parte di qualcosa di più grande!\n\u0001ā\nDevi prendere la \u0001\u0004Chiave della Prigione\u0001\u0001 dalla Sala delle Guardie\ne liberare tutti i prigionieri!\n\u0001ā\nLa \u0001\u0004Chiave della Prigione\u0001\u0001 è nella Sala delle Guardie, nella zona\nsud-ovest di questo piano!",
+  "REC_POINT_01": "Chiave della Prigione",
+  "NPC_RUKIYA_MSG_110_2": "\u0001̃Ahh! Dobbiamo sbrigarci, ragazzo! Sento che ci resta poco tempo!\n\u0001ā\nAppena trovi la \u0001\u0004Chiave della Prigione\u0001\u0001, potremo liberare il resto\ndei prigionieri!",
+  "NPC_RUKIYA_MSG_112": "\u0001̃Ce l'hai fatta! I prigionieri sono liberi! Ora devi disattivare\nquel Dispositivo di Rimodellamento!\n\u0001ā\nAiutami! Dobbiamo far saltare la sua fonte di energia, che dovrebbe\ntrovarsi al terzo piano.",
+  "NPC_RUKIYA_MSG_120": "\u0001̃Sembra proprio che tu abbia capito come funziona. Sei sempre stato\nsveglio, oh-hoh-hoh!\n\u0001ā\nLe fusioni in battaglia ti saranno utili in futuro... ma per ora non\nti serviranno molto!",
+  "NPC_RUKIYA_MSG_121": "\u0001̃Bene, torniamo al compito principale...",
+  "SYSTEM_MSG_999": "La porta è chiusa ermeticamente.",
+  "REC_RA_MONS_MES": "\u0001̄Un Demone Insorgente trasformato dalla furia di Madre. Possiede\nuna quantità di potere spaventosa.",
+  "NPC_RUKIYA_MSG_122": "\u0001̃Devi incontrarmi al terzo piano, vicino alla fonte di energia del\ndispositivo di rimodellamento.\n\u0001ā\nÈ fondamentale che coordiniamo questo attacco. Conto su di te,\n\u0001ȁ!",
+  "REACTER_MSG_000": "\u0001̄Un Reattore alleato è stato rilevato al quinto piano di questa\nstruttura.\n\u0001ā\nPotrai collegarti a questo Reattore se riuscirai ad arrivare al quinto\npiano.",
+  "NPC_RUKIYA_MSG_125": "\u0001̃Devi incontrarmi al terzo piano, vicino alla fonte di energia per il\ndispositivo di rimodellamento.\n\u0001ā\nÈ fondamentale che coordiniamo questo attacco. Conto su di te,\n\u0001ȁ!",
+  "REACTER_MSG_001": "\u0001̄Sono stati rilevati mostri ad alto rischio in questa zona. Si\nconsiglia di evitare lo scontro con loro.\n\u0001ā\nSi consiglia inoltre di raggiungere rapidamente il quinto piano e\ntrovare chi indossa il Reattore alleato.\n\u0001ā\nPotrai collegarti a questo Reattore se riuscirai ad arrivare al quinto\npiano.",
+  "REACTER_MSG_004": "\u0001̄Sono stati rilevati mostri ad alto rischio in questa zona. Si\nconsiglia di evitare lo scontro con loro.\n\u0001ā\nCorri nell'angolo nord-est del quarto piano. È il punto di incontro.",
+  "REC_NPC_RUKIYA": "\u0001̄Una donna anziana che un tempo guidava la Resistenza. Ancora molto\nintelligente, e tuttora una leader attiva.",
+  "REC_NPC_SAMAYOUYOROI": "\u0001̄Scagnozzo di Itaburu, anche lui una delle principali guardie della\nprigione. È il capo delle guardie qui.",
+  "REC_NPC_SLYMKNAIGHT": "\u0001̄Scagnozzo di Itaburu, anche lui una delle principali guardie della\nprigione. Un vero rigido, sempre pronto a far rispettare le regole.",
+  "REC_NPC_OOKIDUTI": "\u0001̄Scagnozzo di Itaburu, anche lui una delle principali guardie della\nprigione. Sembra il più amichevole del gruppo.",
+  "REC_NPC_GAIKOTU": "\u0001̄Scagnozzo di Itaburu, anche lui una delle principali guardie della\nprigione. Sembra che non sia proprio \"tutto a posto\".",
+  "REC_POINT_02": "\u0001̄La chiave per aprire le prigioni nella Bastiglia. Utilizza le più\nmoderne tecnologie di sicurezza elettronica."
+}

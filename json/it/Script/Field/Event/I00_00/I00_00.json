@@ -37,7 +37,7 @@
   "REC_POINT_ICE_01": "Pietra Teletrasporto",
   "REC_POINT_DRONE_HOLE_02": "\u0001̄Sembra vuoto dentro. Puoi controllare con il drone.",
   "REC_POINT_ICE_02": "Monolite",
-  "REC_POINT_ICE_01_2": "\u0001̄Sintonizzandoti con questa Pietra Teletrasporto la aggiungerai alla\nlista delle destinazioni.",
+  "REC_POINT_ICE_01_2": "\u0001̄̄Sintonizzare questa Pietra Teletrasporto la aggiungerà alla lista\ndelle destinazioni. Queste pietre appaiono in vari luoghi del mondo.",
   "REC_POINT_ICE_09": "Arca di Ferro",
   "REC_POINT_ICE_02_2": "\u0001̄Dispositivo per viaggi spaziali che porta i Monster Scout al\nColosseo Virtuale.",
   "REC_POINT_ICE_03": "Trasportatore",
@@ -69,5 +69,5 @@
   "REC_RA_DOOR_010": "Porta della Verità",
   "REC_RA_DOOR_020": "\u0001̄Hai trovato la porta con successo!",
   "REC_RA_DOOR_030": "Al momento non sembrano avere alcuna importanza...",
-  "REC_RA_MONS_MES": "\u0001̄Un Demone Insorto trasformato dalla furia di Madre. Ha una\nquantità di potere spaventosa."
+  "REC_RA_MONS_MES": "\u0001̄Un Demone Insorgente trasformato dalla furia di Madre. Possiede\nuna quantità di potere spaventosa."
 }

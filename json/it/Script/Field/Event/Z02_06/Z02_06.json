@@ -1,0 +1,16 @@
+{
+  "NPC_NAME_010": "\u0001́Pagina 1 della dichiarazione.\n\u0001ā\nPagina 2 della dichiarazione.",
+  "NPC_NAME_020": "\u0001́Pagina 1 della domanda.\n\u0001ā\nPagina 2 della domanda.\u0001Ă",
+  "NPC_MOGURA_010": "\u0001́Benvenuto alla Tana delle Talpe!\n\u0001ā\nIn questa attrazione dovrai farti strada tra le varie talpe e\nspingerti il più in profondità possibile.\n\u0001ā\nSe riesci ad arrivare in fondo e sconfiggere il grande Don Mole,\nriceverai un premio favoloso!\n\u0001ā\nTuttavia, puoi entrare nella Tana delle Talpe solo una volta al\ngiorno e non puoi cambiare la squadra attiva una volta dentro.\n\u0001ā\nInoltre, questa attrazione è riservata a un solo partecipante alla\nvolta, quindi il tuo compagno dovrà aspettare qui il tuo ritorno.",
+  "NPC_MOGURA_015": "\u0001́L'ingresso costa 100000 monete d'oro. Vuoi entrare nella Tana delle\nTalpe?\u0001ď",
+  "NPC_MOGURA_020": "\u0001́Se durante l'attrazione vuoi uscire, parla subito con un membro\ndello staff.\n\u0001ā\nE con questo, buona fortuna!",
+  "NPC_MOGURA_025": "\u0001́Mi dispiace. Non hai abbastanza oro.",
+  "NPC_MOGURA_030": "\u0001́Il grande Don Mole sta riposando. Vuoi sentire una spiegazione?\u0001ĥ",
+  "NPC_MOGURA_040": "\u0001́Che spiegazione vuoi sentire?\u0001ĥ",
+  "NPC_MOGURA_050": "\u0001́Questo è un parco a tema costruito dal grande Don Mole, su\nrichiesta dei suoi sottoposti.\n\u0001ā\nTrova le buche su ogni piano per scendere fino alle profondità più\nestreme al B4.\n\u0001ā\nPuoi entrare nella Tana delle Talpe solo una volta al giorno. Una\nvolta uscito, dovrai aspettare domani per rientrare.",
+  "NPC_REC_STAFF_010": "\u0001̄È stato un piacere servirti oggi alla Tana delle Talpe. Torna a\ntrovarci presto!",
+  "NPC_MOGURA_060": "\u0001́Ci sono alcune restrizioni riguardo oggetti, salvataggi, tecniche\nspeciali e membri della squadra.\n\u0001ā\nPuoi usare solo i membri attivi e di riserva mentre esplori la Tana\ndelle Talpe e combatti contro Don Mole.",
+  "NPC_MOGURA_070": "\u0001́Per arrivare al B4, scendi nelle buche. Possono capitare vari\neventi lungo il percorso.\n\u0001ā\nPotresti essere fortunato e ricevere una ricompensa. Oppure potresti\nessere attaccato dalle talpe sottoposte di Don Mole.",
+  "NPC_MOGURA_080": "\u0001́Combatti contro il grande Don Mole e potresti ricevere un premio\nfavoloso.\n\u0001ā\nQuesti premi sono esclusivi di Don Mole e non si trovano altrove,\nquindi dai il massimo!",
+  "MOGLAND_START_MES": "Usa i tornado per attraversare le caverne e cerca le buche che portano\nsempre più in profondità!"
+}
