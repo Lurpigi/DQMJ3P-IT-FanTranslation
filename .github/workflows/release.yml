@@ -1,0 +1,57 @@
+name: Release on push
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # necessario per creare tag e release
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # serve per avere i tag
+
+      - name: Set up Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Calculate next tag
+        id: tagger
+        run: |
+          # Trova ultimo tag 1.0.X, altrimenti parte da 1.0.0
+          last_tag=$(git tag --list "1.0.*" | sort -V | tail -n 1)
+          if [ -z "$last_tag" ]; then
+            next_tag="1.0.0"
+          else
+            base=${last_tag%.*}
+            num=${last_tag##*.}
+            next_tag="$base.$((num+1))"
+          fi
+          echo "next_tag=$next_tag" >> $GITHUB_OUTPUT
+
+      - name: Create release folders
+        run: |
+          mkdir -p main/data update/data
+          cp -r it/* main/data/
+          cp -r update/it/* update/data/
+          zip -r Dqmj3p_IT_${{ steps.tagger.outputs.next_tag }}.zip main update
+
+      - name: Create tag
+        run: |
+          git tag ${{ steps.tagger.outputs.next_tag }}
+          git push origin ${{ steps.tagger.outputs.next_tag }}
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.tagger.outputs.next_tag }}
+          name: Release ${{ steps.tagger.outputs.next_tag }}
+          files: Dqmj3p_IT_${{ steps.tagger.outputs.next_tag }}.zip
