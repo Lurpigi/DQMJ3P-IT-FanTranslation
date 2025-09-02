@@ -41,10 +41,10 @@ jobs:
 
       - name: Create release folders
         run: |
-          mkdir -p main/data update/data
-          cp -r it/* main/data/
-          cp -r update/it/* update/data/
-          zip -r Dqmj3p_IT_${{ steps.tagger.outputs.next_tag }}.zip main update
+          mkdir -p main_it/data update_it/data
+          cp -r it/* main_it/data/
+          cp -r update/it/* update_it/data/
+          zip -r Dqmj3p_IT_${{ steps.tagger.outputs.next_tag }}.zip main_it update_it
 
       - name: Create tag
         run: |
