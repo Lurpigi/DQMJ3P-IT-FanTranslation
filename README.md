@@ -59,6 +59,8 @@ Se vuoi aiutare con la traduzione, leggi la guida su come contribuire:
 
 ### 🛠️ Istruzioni
 
+#### PC
+
 1. Avvia l’emulatore e installa l’update `1.3` con **File → Install CIA…**
 2. Nella lista delle ROM, fai clic destro su `dqmj3p` → **Open mods location**
 3. Crea la seguente struttura di cartelle (se non esiste già):
@@ -71,8 +73,29 @@ romfs/
     ├── Script/
 ```
 
+#### Android
+
+1. Installa il gioco e l'update `1.3` dal menù **Install CIA file**
+2. Apri la cartella di root di Lime3ds con un qualsiasi gestore di file
+3. Crea la seguente struttura di cartelle
+
+```
+Lime_root
+└── load
+    └── mods
+        └── 00040000001ACB00
+            └── romfs/
+                └── data/
+                    ├── Font/
+                    ├── Message/
+                    ├── Script/
+```
+
+#### Tutti
+
 4. Estrai il contenuto della patch nella cartella `romfs/`  
    ⚠️ Prima la patch **principale**, poi l’**aggiornamento**
+   (rispettivamente le cartelle `main_it/` e `update_it/`)
 5. Avvia il gioco. La mod dovrebbe essere attiva! 🎉
 
 ---
