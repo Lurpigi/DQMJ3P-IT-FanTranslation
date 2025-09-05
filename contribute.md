@@ -1,7 +1,7 @@
 # DQMJ3P – 🇮🇹 Italian Fan Translation - contribuisci anche tu
 
 > Se vuoi contribuire alla traduzione, prima di tutto **grazie di cuore!**  
-> Siamo una nicchia nella nicchia, e supportarci a vicenda è una cosa preziosa.
+> Siamo una nicchia nella nicchia e supportarci a vicenda è una cosa preziosa.
 
 # 📚 Come contribuire:
 
@@ -74,7 +74,7 @@ All'interno della cartella `scripts/` trovi alcuni tool utili:
 - `mes_to_json.py`: usa tutti i file `.mes` per generare e aggiornare tutti i file `.json`, è lo script usato dalla Action per mantenere i Json aggiornati
 - `super_formattazione.py`: riformatta alcuni file Json italiani (menù e dialoghi) impostando la lunghezza delle righe (gli a capo per intenderci) adatte al contesto, non modifica i file `.mes`
 
-per far runnare questi script hai bisogno di python 3, e poi facilmente tramite terminale:
+per far runnare questi script hai bisogno di python 3 e poi facilmente tramite terminale:
 
 ```bash
 python scripts/[nome].py
@@ -86,6 +86,6 @@ python scripts/[nome].py
 
 Se sei appassionato della saga, se ami l'idea di giocare a questo gioco in italiano, o se vuoi semplicemente dare una mano a un progetto della community, sei nel posto giusto.
 
-Unisciti, esplora i file, e **contribuisci con una pull request!**
+Unisciti, esplora i file e **contribuisci con una pull request!**
 
 Grazie ancora ❤️
