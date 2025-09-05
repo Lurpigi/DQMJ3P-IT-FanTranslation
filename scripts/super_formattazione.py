@@ -5,6 +5,8 @@ def calculate_length(text):
     length = 0
     length += text.count("\u0001ȁ") * 10.2
     text = text.replace("\u0001ȁ", "")
+    length += text.count("%ls") * 7
+    text = text.replace("%ls", "")
     for char in text:
         if char.isupper():
             length += 1.7
