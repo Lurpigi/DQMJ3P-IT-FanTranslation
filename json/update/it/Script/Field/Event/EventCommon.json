@@ -97,7 +97,7 @@
   "COMM_RULER_DEST_41": "Strada della Benna - Nord",
   "COMM_RULER_DEST_42": "Villaggio di Incarnus",
   "COMM_RULER_DEST_43": "Valle del Drago",
-  "COMM_ITEM_SINGLE_GET": "Hai trovato il \u0001\u0004%ls\u0001\u0001!",
+  "COMM_ITEM_SINGLE_GET": "Hai trovato \u0001\u0004%ls\u0001\u0001!",
   "GET_METAL_DISC": "Hai trovato un Disco di Metallo!",
   "COMM_ITEM_MULTIPLE_GET_01": "Hai ripulito le Praterie Silenziose! Ricevuto \u0001\u0004%ls\u0001\u0001 x%ls!",
   "COMM_ITEM_MULTIPLE_GET_02": "Hai ripulito la Città Perduta! Ricevuto \u0001\u0004%ls\u0001\u0001 x%ls!",
