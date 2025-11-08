@@ -1,5 +1,5 @@
 {
-  "VOLCANO_NPC_A_REC": "\u0001̄Un abitante del Parco Magma, e anche un sostenitore di lunga data\ndella Resistenza.",
+  "VOLCANO_NPC_A_REC": "\u0001̄Un abitante del Parco Magma e anche un sostenitore di lunga data\ndella Resistenza.",
   "VOLCANO_NPC_B_REC": "\u0001̄Un abitante del Parco Magma che ha grande fiducia nelle capacità di\nAnses.",
   "INN_MSG_002": "\u0001́... Ehi ehi, non esagerare ok? Siamo spacciati se svieni.",
   "VOLCANO_NPC_C_REC": "\u0001̄Un abitante del Parco Magma, dal cuore di ghiaccio, ma con un\nsegreto ardente nascosto dentro.",
@@ -18,7 +18,7 @@
   "DEMO_502_AFT_NPC_B": "\u0001̂Ci visiti da così tanto tempo ormai. Quante volte sei tornato qui?\n\u0001ā\nA giudicare dagli anni che passi qui, direi che il soprannome\n\"L'Immortale\" ti calza a pennello.",
   "DEMO_502_AFT_NPC_C": "\u0001̂Il Parco Magma non è cambiato per niente da quando sei stato qui\nl'ultima volta.\n\u0001ā\nQuesta città è stata fondata dai membri della Resistenza per\ncombattere i Mostri corrotti, dopotutto.\n\u0001ā\nNiente cambierà qui, a meno che non perdiamo la voglia di lottare.",
   "18_ELDE": "\u0001̃Ho saputo tutto. Pare che tu stia ancora combattendo.\n\u0001ā\nTutti qui contano su di te. Dai il massimo e combatti forte!",
-  "DEMO_502_AFT_NPC_D": "\u0001́Ora che sei tornato, kee... penso sia ora di preparare la prossima\noffensiva, kee!\n\u0001ā\nSconfiggiamo quei Mostri corrotti una volta per tutte, e viviamo la\npace che abbiamo sempre sognato, kee!",
+  "DEMO_502_AFT_NPC_D": "\u0001́Ora che sei tornato, kee... penso sia ora di preparare la prossima\noffensiva, kee!\n\u0001ā\nSconfiggiamo quei Mostri corrotti una volta per tutte e viviamo la\npace che abbiamo sempre sognato, kee!",
   "DEMO_503_AFT_NPC_A": "\u0001́Stai andando a trovare Birdie, kee? Non vedo l'ora di vedere una\ncoppia così incredibile riunirsi, kee!",
   "INN_MSG_1ST_003": "\u0001́Buongiorno, Anses. Hai dormito bene?\n\u0001ā\nVieni qui quando vuoi. Sei sempre il benvenuto! Amico mio!",
   "REC_POINT_01_01": "Sorgenti Termali",
