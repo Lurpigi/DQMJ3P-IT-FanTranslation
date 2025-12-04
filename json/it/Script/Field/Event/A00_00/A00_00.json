@@ -93,7 +93,7 @@
   "MSG_DRONE_ACE_010": "\u0001́Dovresti provare il drone prima di andare avanti, \u0001ȁ!",
   "MSG_DRONE_ACE_030": "\u0001́Oh, lo sapevo che ce l'avresti fatta! Hai preso tutti e 10 quei \u0001\u0004\nPotere del cielo \u0001\u0001!\n\u0001ā\nE hai imparato anche i comandi. Sono sicuro che il drone ti sarà\nutile!",
   "MES_SYSTEM_010": "Non dovresti lasciare quest'area ora.",
-  "MES_NEW_REACTER_MES": "\u0001̄Potere di Ra installato! Avvia il Reattore.\n\u0001ā\n\"Rasearch\" apparirà quando il cursore è sopra qualcosa che ha una vera\nforma.",
+  "MES_NEW_REACTER_MES": "\u0001̄Potere di Ra installato! Avvia il Reattore.\n\u0001ā\n\"RAsearch\" apparirà quando il cursore è sopra qualcosa che ha una vera\nforma.",
   "NPC_AROMA_010": "\u0001̂Sono senza parole. Quindi la vera forma di Nochoro era quella\ndell'Incarnus...?\n\u0001ā\n...Ti lascio il compito di svelare la vera identità di tutti!\n\u0001ā\nParlami quando hai finito, ok!",
   "NPC_NOCHO_BOOK": "\u0001̂La vista da qui è fantastica! Sembra che stia per succedere qualcosa\ndi speciale!",
   "NPC_TICO": "\u0001̂Quell'Incarnus è... Quadrago Asso. Ma ha ancora l'odore di\nLupicche Asso!\n\u0001ā\nSono felice che tu l'abbia trovato... Ma era sotto qualche\nmaledizione?",
@@ -126,7 +126,7 @@
   "REC_POINT_KUMA": "\u0001̄Errore! Analisi del soggetto fallita.",
   "REC_RA_DOOR_011": "\u0001̄Una porta verso un altro mondo. È stata scoperta nello specchio di\nRa, che mostra la verità.",
   "REC_RA_DOOR_020": "\u0001̄Funzione Ricognizione completata!",
-  "REC_RA_GB_BEFORE_010": "\u0001̄Controlla la reazione di Ra. Rivelerà la vera forma usando il\npotere dello specchio.",
-  "REC_RA_GB_010": "\u0001̄Hai trovato la porta con successo!",
+  "REC_RA_GB_BEFORE_010": "\u0001̄Controlla la funzione di Ra. Rivelerà la vera forma delle cose\nusando il potere dello specchio.",
+  "REC_RA_GB_010": "\u0001̄La realtà è stata svelata!",
   "REC_RA_MONS_MES": "\u0001̄Un Demone Insorgente trasformato dalla furia di Madre. Possiede\nuna quantità di potere spaventosa."
 }
