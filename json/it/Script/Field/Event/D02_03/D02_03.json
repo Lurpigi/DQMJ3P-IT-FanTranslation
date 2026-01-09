@@ -2,7 +2,7 @@
   "NPC_NAME_010": "\u0001́Pagina 1 della dichiarazione.\n\u0001ā\nPagina 2 della dichiarazione.",
   "NPC_NAME_020": "\u0001́Pagina 1 della domanda.\n\u0001ā\nPagina 2 della domanda.\u0001Ă",
   "WATER_VALVE_MSG_003": "\u0001̄La valvola sulla statua di pietra è già stata girata. Sembra che non\nsi possa girare di nuovo.",
-  "WATER_VALVE_MSG_001": "\u0001̄C'è una statua di pietra qui, con una maniglia attaccata a essa.\nVuoi girare la maniglia?\u0001Ă",
+  "WATER_VALVE_MSG_001": "\u0001̄C'è una statua di pietra qui, con una maniglia attaccata a essa.\nvuoi tirare la maniglia?\u0001Ă",
   "WATER_VALVE_MSG_002": "\u0001̄Sembra che il livello dell'acqua si sia abbassato.",
   "REC_POINT_VALVE_01": "Statua di pietra con maniglia",
   "REC_POINT_VALVE_02": "\u0001̄Sembra un Gargoyle, ma non lo è. Non verrai attaccato se giri la\nsua maniglia.",
