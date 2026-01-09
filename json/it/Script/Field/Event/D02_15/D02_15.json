@@ -2,7 +2,7 @@
   "NPC_NAME_010": "\u0001́Dichiarazione Pagina 1.\n\u0001ā\nDichiarazione Pagina 2.",
   "NPC_NAME_020": "\u0001́Domanda Pagina 1.\n\u0001ā\nDomanda Pagina 2.\u0001Ă",
   "WATER_VALVE_MSG_003": "\u0001̄La valvola sulla Statua di Pietra è già stata girata. Sembra che\nnon possa essere riportata indietro.",
-  "WATER_VALVE_MSG_001": "\u0001̄C'è una Statua di Pietra qui, con una maniglia attaccata a essa.\nVuoi girare la maniglia?\u0001Ă",
+  "WATER_VALVE_MSG_001": "\u0001̄C'è una Statua di Pietra qui, con una maniglia attaccata a essa.\nvuoi tirare la maniglia?\u0001Ă",
   "WATER_VALVE_MSG_002": "\u0001̄Sembra che il livello dell'acqua si sia abbassato.",
   "REC_POINT_VALVE_01": "Statua di Pietra con Maniglia",
   "REC_POINT_VALVE_02": "\u0001̄Sembra un Gargoyle, ma non lo è. Non verrai attaccato se giri la\nsua maniglia.",
