@@ -48,8 +48,8 @@ Se vuoi aiutare con la traduzione, leggi la guida su come contribuire:
 ### ✅ Requisiti
 
 - Emulatore compatibile:  
-  🔸 [Lime3DS-DQMJ3P](https://github.com/Lurpigi/lime3ds-dqmj3p) **(consigliato)**  
-  🔸 Citra `nightly-1543` o precedente
+  🔸 [Azahar](https://github.com/azahar-emu/azahar) **(consigliato)**  
+  🔸 Oppure [Lime3DS-DQMJ3P](https://github.com/Lurpigi/lime3ds-dqmj3p) o Citra <= `nightly-1543`
   > Questi emulatori del 3ds sono quelli che funzionano meglio con questo gioco nello specifico, leggi [qui](https://github.com/Lurpigi/lime3ds-dqmj3p/blob/master/README.md) per maggiori info
 - Aggiornamento del gioco `v1.3` (`CIA`)
 
