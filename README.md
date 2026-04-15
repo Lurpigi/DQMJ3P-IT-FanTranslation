@@ -19,6 +19,8 @@ Questo repository è dedicato allo sviluppo di una traduzione amatoriale in ital
 
 > Questo progetto fornisce esclusivamente file di patch `.mes`. Nessun contenuto protetto da copyright è incluso, nel rispetto della legalità.
 
+Link al video Tutorial su [YouTube](https://youtu.be/1YdTg-ZxD-M)
+
 ## 📌 Premessa
 
 Tradurre senza il contesto diretto del gioco è estremamente complicato.  
