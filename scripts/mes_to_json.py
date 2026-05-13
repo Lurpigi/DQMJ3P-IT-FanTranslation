@@ -57,7 +57,7 @@ def parse_mes_file(file_path):
 
 
 def main():
-    base_dirs = ["./eng", "./it", "./update"]
+    base_dirs = ["./eng", "./it", "./jp", "./update"]
     out_root = Path("./json")
     out_root.mkdir(parents=True, exist_ok=True)
 
