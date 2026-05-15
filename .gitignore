@@ -1,3 +1,5 @@
 *.xlsm#
 *.xlsx#
 scripts/*.txt
+
+jp/
