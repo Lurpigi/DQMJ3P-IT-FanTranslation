@@ -45,6 +45,16 @@ Continuerò a testare tutto in gioco, compatibilmente con il tempo disponibile, 
 Se vuoi aiutare con la traduzione, leggi la guida su come contribuire:  
 👉 [contribute.md](https://github.com/Lurpigi/DQMJ3P-IT-FanTranslation/blob/main/contribute.md)
 
+---
+
+# 🧩 Istruzioni per installare la Mod su 3DS
+
+> ⚠️ è necessario avere un 3DS moddato con Luma3ds
+
+1. Spegni il 3DS, tieni premuto il pulsante Select mentre riaccendi il 3DS (questo dovrebbe aprire il menù di configurazione) controlla che la voce **Enable game patching** sia attiva. poi premi Start per salvare e riavviare
+2. Nella root della SD card crea il path `/luma/titles/00040000001ACB00/romfs`
+3. Continua come mostrato nella guida per l'emulatore dal punto 4 (compreso) ma nella cartella `romfs` della SD
+
 # 🧩 Installazione della Mod su Emulatore
 
 ### ✅ Requisiti
@@ -102,7 +112,7 @@ Lime_root
 
 ---
 
-## 🧪 Istruzioni per Patchare la ROM Originale
+# 🧪 Istruzioni per Patchare la ROM Originale
 
 > ⚠️ **Nota:** Hai bisogno di una ROM `.3ds` o `.cia` **decriptata**  
 > Cerca online come effettuare il dump del gioco in tuo possesso.
