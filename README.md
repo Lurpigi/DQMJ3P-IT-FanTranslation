@@ -21,6 +21,10 @@ Questo repository è dedicato allo sviluppo di una traduzione amatoriale in ital
 
 Link al video Tutorial su [YouTube](https://youtu.be/1YdTg-ZxD-M)
 
+## 🆕 Novità
+
+È disponibile anche la traduzione del gioco precedente, _Dragon Quest Monsters: Joker 2 Professional_: [DQMJ2P-IT-FanTranslation](https://github.com/Lurpigi/DQMJ2P-IT-FanTranslation)
+
 ## 📌 Premessa
 
 Tradurre senza il contesto diretto del gioco è estremamente complicato.  
