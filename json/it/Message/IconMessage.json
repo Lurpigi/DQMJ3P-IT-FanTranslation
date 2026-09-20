@@ -194,7 +194,7 @@
   "iconcol_ornament": "\u0001က黨\u0001ခ",
   "icon_resist_earth_l": "鵑",
   "iconcol_network_coin_p": "\u0001က鼕\u0001ခ",
-  "iconcol_crystal": "\u0001က♦\u0001ခ",
+  "iconcol_crystal": "\u0001က鴒\u0001ခ",
   "icon_group_other": "ｨ",
   "icon_effect_other": "ｩ",
   "icon_effect_strengthen": "ｬ",
@@ -326,5 +326,5 @@
   "icon_ornament": "黨",
   "icon_disc": "ﾄ",
   "icon_network_coin_s": "ﾁ",
-  "icon_crystal": "♦"
+  "icon_crystal": "鴒"
 }
