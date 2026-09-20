@@ -27,11 +27,11 @@ Link al video Tutorial su [YouTube](https://youtu.be/1YdTg-ZxD-M)
 
 ### 20/09/26 - Patch exefs
 
-Questa versione include una patch migrata dal progetto GitHub [DQMJ3P-english-fixed](https://github.com/Akoi89/DQMJ3P-english-fixed):
+Questa versione include una patch migrata dal progetto GitHub di **Akoi89** [DQMJ3P-english-fixed](https://github.com/Akoi89/DQMJ3P-english-fixed), che ringrazio infinitamente per avermi aiutato personalmente a portare la sua modifica anche per questa versione italiana
 
 - la tastiera dei nomi apre direttamente la scheda alfabetica latina;
 - alcuni buffer per nomi di mostri, abilità e azioni sono più grandi;
-- diminuiscono i nomi troncati nei menu, nella Biblioteca e durante le battaglie;
+- diminuiscono i nomi troncati nei menu, nella Libreria e durante le battaglie;
 - vengono corrette alcune condizioni che potevano causare crash o blocchi.
 
 La patch tecnica modifica 153 word del codice dell'update, ma non cambia il formato dei salvataggi.
@@ -133,7 +133,7 @@ Azahar_root
 5. Copia exefs/code.ips nella cartella exefs/ che hai creato.
 6. Avvia il gioco. La mod dovrebbe essere attiva! 🎉
 
-⚠️ code.ips deve trovarsi nella cartella mod della title ID principale 00040000001ACB00, anche se il codice corretto appartiene all'update 0004000E001ACB00. Non inserirlo nella cartella della title ID dell'update.
+⚠️ code.ips deve trovarsi nella cartella mod della title ID principale 00040000001ACB00. Non inserirlo nella cartella della title ID dell'update.
 
 ### Problemi comuni
 
