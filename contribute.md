@@ -3,6 +3,8 @@
 > Se vuoi contribuire alla traduzione, prima di tutto **grazie di cuore!**  
 > Siamo una nicchia nella nicchia e supportarci a vicenda è una cosa preziosa.
 
+Link al video Tutorial su [YouTube](https://www.youtube.com/watch?v=XKK9hgnbKWU)
+
 # 📚 Come contribuire:
 
 ## 🧠 Requisiti di Base

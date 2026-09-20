@@ -145,7 +145,7 @@ Azahar_root
 
 ---
 
-## 🧪 Istruzioni per Patchare la ROM Originale
+# 🧪 Istruzioni per Patchare la ROM Originale
 
 > ⚠️ **Nota:** Hai bisogno di una ROM .3ds o .cia **decriptata**.
 > Cerca online come effettuare il dump del gioco in tuo possesso.
