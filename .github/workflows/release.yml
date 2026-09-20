@@ -32,10 +32,10 @@ jobs:
       - name: Calculate next tag
         id: tagger
         run: |
-          # Trova ultimo tag 1.0.X, altrimenti parte da 1.0.0
-          last_tag=$(git tag --list "1.0.*" | sort -V | tail -n 1)
+          # Trova l'ultimo tag 1.1.X, altrimenti parte da 1.1.0
+          last_tag=$(git tag --list "1.1.*" | sort -V | tail -n 1)
           if [ -z "$last_tag" ]; then
-            next_tag="1.0.0"
+            next_tag="1.1.0"
           else
             base=${last_tag%.*}
             num=${last_tag##*.}
