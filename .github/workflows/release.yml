@@ -5,7 +5,11 @@ on:
     branches:
       - main
     paths:
-      - "**.mes"
+      - "it/**"
+      - "update/it/**"
+      - "exefs/**"
+      - "README.md"
+      - ".github/workflows/release.yml"
   workflow_dispatch:
 
 jobs:
@@ -41,10 +45,30 @@ jobs:
 
       - name: Create release folders
         run: |
-          mkdir -p main_it/data update_it/data
-          cp -r it/* main_it/data/
-          cp -r update/it/* update_it/data/
-          zip -r Dqmj3p_IT_${{ steps.tagger.outputs.next_tag }}.zip main_it update_it
+          set -euo pipefail
+          stage="$RUNNER_TEMP/dqmj3p-it-release"
+          package="$stage/DQMJ3P_IT_${{ steps.tagger.outputs.next_tag }}"
+          archive="$stage/DQMJ3P_IT_${{ steps.tagger.outputs.next_tag }}.zip"
+          rm -rf "$stage"
+          mkdir -p "$package/main_it/data" "$package/update_it/data" "$package/exefs"
+
+          # Copia solo i file della patch: nessun CIA o contenuto del gioco viene distribuito.
+          cp -R it/. "$package/main_it/data/"
+          cp -R update/it/. "$package/update_it/data/"
+          # Il font esteso è usato anche dal RomFS dell'update quando si ricostruisce il CIA.
+          mkdir -p "$package/update_it/data/Font"
+          cp it/Font/break_font_L.bffnt "$package/update_it/data/Font/"
+          cp exefs/code.ips "$package/exefs/code.ips"
+          cp README.md "$package/"
+
+          test -s "$package/exefs/code.ips"
+          test -s "$package/main_it/data/Font/break_font_L.bffnt"
+          test -s "$package/update_it/data/Font/break_font_L.bffnt"
+          test -d "$package/main_it/data/Message"
+          test -d "$package/update_it/data/Message"
+
+          (cd "$stage" && zip -q -r "$archive" "DQMJ3P_IT_${{ steps.tagger.outputs.next_tag }}")
+          sha256sum "$archive" | awk '{print $1"  "$2}' > "$archive.sha256"
 
       - name: Create tag
         run: |
@@ -56,4 +80,6 @@ jobs:
         with:
           tag_name: ${{ steps.tagger.outputs.next_tag }}
           name: Release ${{ steps.tagger.outputs.next_tag }}
-          files: Dqmj3p_IT_${{ steps.tagger.outputs.next_tag }}.zip
+          files: |
+            ${{ runner.temp }}/dqmj3p-it-release/DQMJ3P_IT_${{ steps.tagger.outputs.next_tag }}.zip
+            ${{ runner.temp }}/dqmj3p-it-release/DQMJ3P_IT_${{ steps.tagger.outputs.next_tag }}.zip.sha256

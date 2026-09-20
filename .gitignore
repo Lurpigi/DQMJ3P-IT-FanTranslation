@@ -1,5 +1,11 @@
 *.xlsm#
 *.xlsx#
 scripts/*.txt
+.tmp-compare/
+
+# Artefatti creati localmente durante il packaging delle release
+release-dist/
+main_it/
+update_it/
 
 jp/
