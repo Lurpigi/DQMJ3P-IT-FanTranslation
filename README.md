@@ -47,8 +47,8 @@ Continuerò a testare tutto in gioco, compatibilmente con il tempo disponibile, 
 
 ### ⚠️ Limitazioni tecniche del gioco, parzialmente risolti dalla patch exefs
 
-- **Alcuni nomi di mostri non appaiono in combattimento.**
-  Questo sembra essere un bug o una limitazione del codice interno del gioco. Lo stesso problema è presente anche nella traduzione francese e in quella inglese, quindi non è possibile risolverlo al momento.
+- **Alcuni nomi di mostri possono essere troncati in combattimento.**
+  La patch exefs risolve il caso dei mostri selvatici che restavano senza nome e amplia alcuni buffer dei pannelli. Possono comunque rimanere tagli in schermate non ancora coperte dalla patch, soprattutto con nomi italiani molto lunghi.
 
 - **Spazi di testo molto limitati.**
   Alcune interfacce del gioco sono pensate per la lingua giapponese, che utilizza meno caratteri.
