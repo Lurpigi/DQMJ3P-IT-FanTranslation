@@ -4,7 +4,7 @@
   "NPCMSG_GB_NO_BATTLE_ESCAPE": "\u0001́Perché!? Non vuoi combattere? Sarebbe un ottimo allenamento anche\nper te!",
   "DISC_NPCMSG_002_WIN_01": "\u0001́Fa male perdere... eppure... non ho rimpianti a perdere contro di\nte.\n\u0001ā\nForse, un giorno... ci affronteremo di nuovo. Mi allenerò al massimo\naspettando quel momento!",
   "NPCMSG_GB_WIN_01": "\u0001́Ho perso... Come pensavo, devo allenarmi di più.\n\u0001ā\nComunque, è stato un ottimo allenamento. Come promesso, questo è per\nte!",
-  "NPCMSG_GB_WIN_REWORD_ITEM": "\u0001ȁ ha ricevuto %ls \u0001\u0004%ls\u0001\u0001 da un Apprendista Incarnus!",
+  "NPCMSG_GB_WIN_REWORD_ITEM": "\u0001ȁ ha ricevuto dall’Apprendista Incarnus\n\u0001\u0004%ls\u0001\u0001 x%ls!",
   "NPCMSG_GB_WIN_02": "\u0001́Bene allora, vado in viaggio per allenarmi. Combattiamo di nuovo un\ngiorno! Ci vediamo!",
   "NPCMSG_GB_LOSE_01": "\u0001́È stato un buon allenamento. Ti ringrazio!\n\u0001ā\nAlleniamoci duramente e battiamoci di nuovo un giorno! Ci vediamo!",
   "NPCMSG_001_ASK_BATTLE": "\u0001́Ah, sei un Monster Scout? Che coincidenza incontrarti qui.\n\u0001ā\nSono partito da solo tempo fa per diventare un Monster Scout e ho\nsempre voluto mettere alla prova le mie abilità contro un altro.\n\u0001ā\nSe riesci a battermi, ti darò qualcosa di buono in cambio. Che ne\ndici... vuoi combattere?\u0001Ă",

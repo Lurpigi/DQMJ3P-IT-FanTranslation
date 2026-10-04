@@ -74,7 +74,7 @@
   "MSG_RAQ_ALLCLEAR_2ND": "\u0001́Sembra che imparerò molto dai documenti che hai raccolto.\n\u0001ā\nGrazie!",
   "MSG_RAQ_015": "\u0001́Sto viaggiando per il mondo ricercando le origini dei mostri.\n\u0001ā\nSono venuto qui per aiutare Tiko, ma sono rimasto sorpreso da quanti\nposti incredibili ci siano!\n\u0001ā\nIl miglior centro di ricerca è quello che facilita il passaggio verso\naltri mondi!\n\u0001ā\nComunque. Mi chiedo se ci siano ricerche sulle origini dei mostri..\n\u0001ā\nTi prego! Se ne trovi qualcuna, fammela leggere!",
   "MSG_RAQ_020": "\u0001́Ciao, \u0001ȁ.\n\u0001ā\nHai trovato dei documenti che descrivono le origini dei mostri?",
-  "MSG_RAQ_CLEAR_020": "\u0001́Wow! Hai il \u0001\u0004%ls\u0001\u0001 e \u0001\u0004%ls\u0001\u0001!\n\u0001ā\nTi prego! Lasciali che li legga! Ti darò \u0001\u0004%ls\u0001\u0001!\u0001Ă",
+  "MSG_RAQ_CLEAR_020": "\u0001́Hai portato\n\u0001\u0004%ls\u0001\u0001 e \u0001\u0004%ls\u0001\u0001!\n\u0001ā\nTi prego, lasciameli leggere!\nTi darò \u0001\u0004%ls\u0001\u0001!\u0001Ă",
   "MSG_RAQ_CLEAR_YES": "\u0001́Grazie! Sei proprio un gentiluomo!\n\u0001ā\nTi darò questo mostro in cambio.",
   "MSG_RAQ_NOTCLEAR": "\u0001́Non vedo l'ora che me li porti, ti darò un mostro\n\u0001ā\nin cambio per avermeli lasciati leggere.",
   "MSG_RAQ_CLEAR_NO": "\u0001́N-N-No! Come puoi……\n\u0001ā\nPer favore, cambia idea. Ho aspettato così tanto, davvero tanto!",

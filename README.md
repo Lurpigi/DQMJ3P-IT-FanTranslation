@@ -21,11 +21,11 @@ Questo repository è dedicato allo sviluppo di una traduzione amatoriale in ital
 
 Link al video Tutorial su [YouTube](https://youtu.be/1YdTg-ZxD-M)
 
-È disponibile anche la traduzione del gioco precedente, _Dragon Quest Monsters: Joker 2 Professional_: [DQMJ2P-IT-FanTranslation](https://github.com/Lurpigi/DQMJ2P-IT-FanTranslation)
+### È disponibile anche la traduzione del gioco precedente, _Dragon Quest Monsters: Joker 2 Professional_: [DQMJ2P-IT-FanTranslation](https://github.com/Lurpigi/DQMJ2P-IT-FanTranslation)
 
 ## 🆕 Novità
 
-### 20/09/26 - Patch exefs
+### 04/10/26 - Fix dalla patch inglese v2.19
 
 Questa versione include una patch migrata dal progetto GitHub [DQMJ3P-english-fixed](https://github.com/Akoi89/DQMJ3P-english-fixed):
 
@@ -33,8 +33,9 @@ Questa versione include una patch migrata dal progetto GitHub [DQMJ3P-english-fi
 - alcuni buffer per nomi di mostri, abilità e azioni sono più grandi;
 - diminuiscono i nomi troncati nei menu, nella Biblioteca e durante le battaglie;
 - vengono corrette alcune condizioni che potevano causare crash o blocchi.
+- i nomi lunghi di alcuni boss usano forme brevi in battaglia, entro il limite di 11 caratteri;
 
-La patch tecnica modifica 153 word del codice dell'update, ma non cambia il formato dei salvataggi.
+La patch tecnica modifica 161 word del codice dell'update, ma non cambia il formato dei salvataggi.
 
 
 ## 📌 Premessa
