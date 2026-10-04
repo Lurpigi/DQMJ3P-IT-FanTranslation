@@ -1,6 +1,6 @@
 {
   "HideSearch": "C'è qualcosa di invisibile qui.\nUsa il tuo Reattore per scoprirlo.",
-  "Small_Get": "%ls",
+  "Small_Get": "Nella scatola furtiva hai trovato:\n\u0001\u0004%ls\u0001\u0001!",
   "Large_Get": "Il \u0001\u0004%ls\u0001\u0001 \nera intrappolato dentro!",
   "Large_Query": "Permetterai a \u0001\u0004%ls\u0001\u0001 di unirsi a te?\u0001Ă",
   "Large_Yes": "\u0001\u0004%ls\u0001\u0001 è diventato tuo amico!",

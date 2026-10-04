@@ -128,7 +128,7 @@
   "HelpMessage1510": "Imposta se far apparire oggetti o meno.",
   "HelpMessage0932": "Non può essere usato ora.",
   "HelpMessage1511": "Imposta il numero di giocatori consentiti.",
-  "HelpMessage0933": "La parola chiave \"%ls\" è attualmente usata da \"%ls\".\nScarta il disco per poterla riutilizzare in uno nuovo.",
+  "HelpMessage0933": "La parola chiave \"%ls\" è\nattualmente usata da \"%ls\".\nScarta il disco per poterla riutilizzare in uno nuovo.",
   "HelpMessage1512": "Imposta regole personalizzate per la partita.",
   "HelpMessage0934": "Non può essere selezionato perché il livello di questo\ndisco non può essere modificato.",
   "HelpMessage1513": "La Partita terminerà tra 90 secondi.",

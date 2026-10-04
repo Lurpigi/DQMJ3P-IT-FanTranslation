@@ -694,7 +694,7 @@
   "ACE_MAKE_BREAK_MONSTER_MSG_001_NO": "\u0001́Davvero? Beh, non posso farci molto. Fammi sapere se cambi idea.\n\u0001ā\nAh, volevi sintetizzare qualcosa?\u0001Ă",
   "ACE_MAKE_BREAK_MONSTER_MSG_001_NO_NO": "\u0001́Accidenti, oggi sei proprio una delusione. Torna quando cambi idea!",
   "MSG_ACCQ_HINT_01_01_PISUKA": "\u0001̂\u0001\u0004%ls\u0001\u0001 si trova nella Città Perduta, quindi...",
-  "ACE_MAKE_BREAK_MONSTER_MSG_002": "\u0001ȁ ha consegnato la \u0001\u0004%ls\u0001\u0001 e la \u0001\u0004%ls\u0001\u0001.",
+  "ACE_MAKE_BREAK_MONSTER_MSG_002": "\u0001ȁ ha consegnato\n\u0001\u0004%ls\u0001\u0001 e \u0001\u0004%ls\u0001\u0001.",
   "ACE_MAKE_BREAK_MONSTER_MSG_003": "\u0001́Wow! Grazie!! Le uso subito!",
   "ACE_MAKE_BREAK_MONSTER_MSG_006_2": "\u0001\u0004%ls\u0001\u0001 è diventato tuo alleato!",
   "ACE_MAKE_BREAK_MONSTER_MSG_NOT_EMPTY": "\u0001́Ne hai troppi.\n\u0001ā\nParla di nuovo con me quando hai liberato un po' di spazio.",

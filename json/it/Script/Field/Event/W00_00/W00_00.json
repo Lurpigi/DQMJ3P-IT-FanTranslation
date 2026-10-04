@@ -1,10 +1,10 @@
 {
   "BOSS_RECEIVE_MSG_00": "\u0001̄[Ho percepito un segnale terribile e sconosciuto.] Mostra la\nposizione sulla mappa mondiale.",
   "BOSS_EVENT_MSG_00": "Sembra che tu abbia esaurito lo spazio nel deposito.",
-  "BOSS_EVENT_MSG_01": "\u0001\u0004%ls\u0001\u0001Vuoi sfidarlo in battaglia?\u0001Ă",
+  "BOSS_EVENT_MSG_01": "Vuoi sfidare \u0001\u0004%ls\u0001\u0001\nin battaglia?\u0001Ă",
   "NPC_BIG_BOWSHOCK_REC": "\u0001̄Il mostro che sorveglia la fortezza dei Ghiottoni. Molto\nappropriato, visto che ha sempre fame.",
   "BOSS_ADDFELLOW_MSG_00": "Il \u0001\u0004%ls\u0001\u0001 si è rialzato... Sembra che voglia combattere al tuo\nfianco!\n\u0001ā\nVuoi lasciare che \u0001\u0004%ls\u0001\u0001 si unisca alla tua squadra?\u0001Ă",
-  "BOSS_NOTFELLOW_MSG_00": "\u0001\u0004%ls\u0001\u0001Non farlo diventare tuo amico. Sei sicuro?\u0001Ă",
+  "BOSS_NOTFELLOW_MSG_00": "Non vuoi che \u0001\u0004%ls\u0001\u0001 si unisca\nalla tua squadra. Sei sicuro?\u0001Ă",
   "BOSS_ADDFELLOW_MSG_01": "\u0001\u0004%ls\u0001\u0001 è diventato tuo amico！",
   "BOSS_NOTFELLOW_MSG_01": "\u0001\u0004%ls\u0001\u0001 si è allontanato tristemente...",
   "NPC_RENERTE_010": "\u0001̂Come puoi vedere... il mondo è stato quasi del tutto inghiottito\ndalla materia oscura...\n\u0001ā\nNon avvicinarti troppo... Se ci entri, ti accecherà completamente.\n\u0001ā\nFai attenzione là fuori, \u0001ȁ...",
