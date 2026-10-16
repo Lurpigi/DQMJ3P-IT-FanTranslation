@@ -25,7 +25,7 @@ Link al video Tutorial su [YouTube](https://youtu.be/1YdTg-ZxD-M)
 
 ## 🆕 Novità
 
-### 04/10/26 - Fix dalla patch inglese v2.19
+### 16/10/26 - Fix dalla patch inglese v2.21
 
 Questa versione include una patch migrata dal progetto GitHub [DQMJ3P-english-fixed](https://github.com/Akoi89/DQMJ3P-english-fixed):
 
@@ -34,9 +34,6 @@ Questa versione include una patch migrata dal progetto GitHub [DQMJ3P-english-fi
 - diminuiscono i nomi troncati nei menu, nella Biblioteca e durante le battaglie;
 - vengono corrette alcune condizioni che potevano causare crash o blocchi.
 - i nomi lunghi di alcuni boss usano forme brevi in battaglia, entro il limite di 11 caratteri;
-
-La patch tecnica modifica 161 word del codice dell'update, ma non cambia il formato dei salvataggi.
-
 
 ## 📌 Premessa
 
@@ -69,9 +66,9 @@ Se vuoi aiutare con la traduzione, leggi la guida su come contribuire:
 1. Spegni il 3DS e tieni premuto **Select** mentre lo riaccendi per aprire il menu di configurazione di Luma3DS. Controlla che **Enable game patching** sia attivo, poi premi **Start** per salvare.
 2. Nella root della scheda SD crea questa cartella:
 
-~~~text
+```text
 /luma/titles/00040000001ACB00/romfs/
-~~~
+```
 
 3. Copia il contenuto di main_it/ dentro romfs/ e poi il contenuto di update_it/ nella stessa romfs/, unendo le cartelle e sostituendo i file.
 4. Copia exefs/code.ips nella cartella della title ID, accanto a romfs/, rinominandolo code.ips se necessario.
@@ -79,9 +76,9 @@ Se vuoi aiutare con la traduzione, leggi la guida su come contribuire:
 
 Su console il file IPS va quindi in:
 
-~~~text
+```text
 /luma/titles/00040000001ACB00/code.ips
-~~~
+```
 
 La versione per emulatore usa invece la sottocartella exefs/ descritta nella sezione successiva.
 
@@ -106,11 +103,11 @@ La versione per emulatore usa invece la sottocartella exefs/ descritta nella sez
 2. Nella lista delle ROM, fai clic destro su dqmj3p → **Open Mods Location**
 3. Crea la seguente struttura di cartelle, se non esiste già:
 
-~~~text
+```text
 romfs/
 └── data/
 exefs/
-~~~
+```
 
 #### Android
 
@@ -118,7 +115,7 @@ exefs/
 2. Apri la cartella di root di Azahar con un qualsiasi gestore di file
 3. Crea la seguente struttura:
 
-~~~text
+```text
 Azahar_root
 └── load
     └── mods
@@ -126,7 +123,7 @@ Azahar_root
             ├── romfs/
             │   └── data/
             └── exefs/
-~~~
+```
 
 #### Tutti
 
@@ -180,7 +177,6 @@ Il progetto è un plugin 3GX per DQMJ3 e DQMJ3P che può sbloccare contenuti leg
 Il plugin è indipendente da questa traduzione e va scaricato dalla sua [pagina Releases](https://github.com/Anthcny144/DQMJ3P-unobtainable-content/releases). Per l'installazione e l'elenco completo dei contenuti sbloccabili seguire il [README ufficiale del plugin](https://github.com/Anthcny144/DQMJ3P-unobtainable-content#readme).
 
 > ⚠️ Questa traduzione include exefs/code.ips, quindi il codice dell'update viene modificato. Il progetto inglese ha verificato che gli indirizzi usati dal plugin non risultano modificati e ritiene possibile la coesistenza, ma non è stata eseguita una prova completa con il plugin attivo. In caso di problemi, testare prima il plugin e la traduzione separatamente.
-
 
 ## 📚 Guide e Risorse
 
