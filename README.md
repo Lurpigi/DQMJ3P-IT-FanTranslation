@@ -82,6 +82,8 @@ Su console il file IPS va quindi in:
 
 La versione per emulatore usa invece la sottocartella exefs/ descritta nella sezione successiva.
 
+⚠️ Su console usa sempre exefs/code.ips: exefs/code_enhanced.ips è solo per emulatore.
+
 # 🧩 Installazione della Mod su Emulatore
 
 ### ✅ Requisiti
@@ -128,10 +130,39 @@ Azahar_root
 #### Tutti
 
 4. Estrai il contenuto della patch nella cartella romfs/: prima il contenuto della patch **principale** (main_it/), poi quello dell'**aggiornamento** (update_it/). Le cartelle vanno unite e i file dell'update devono sostituire quelli del main.
-5. Copia exefs/code.ips nella cartella exefs/ che hai creato.
+5. Copia nella cartella exefs/ che hai creato **uno solo** dei due file della patch:
+   - exefs/code.ips, la versione normale;
+   - exefs/code_enhanced.ips, rinominandolo code.ips, se il tuo PC o Android è potente (vedi [Versione Enhanced](#-versione-enhanced-solo-emulatore)).
 6. Avvia il gioco. La mod dovrebbe essere attiva! 🎉
 
 ⚠️ code.ips deve trovarsi nella cartella mod della title ID principale 00040000001ACB00, anche se il codice corretto appartiene all'update 0004000E001ACB00. Non inserirlo nella cartella della title ID dell'update.
+
+### ⚡ Versione Enhanced (solo emulatore)
+
+La release contiene due patch del codice:
+
+| File | Dove si usa | Contenuto |
+| --- | --- | --- |
+| exefs/code.ips | 3DS ed emulatore | Correzioni per far vedere meglio i testi |
+| exefs/code_enhanced.ips | Solo emulatore, su PC o Android potenti | Le stesse correzioni più i miglioramenti elencati qui sotto |
+
+Per usarla, copia exefs/code_enhanced.ips nella cartella exefs/ della mod e **rinominalo code.ips**: l'emulatore carica solo un file con questo nome.
+
+Cosa aggiunge:
+
+- **Distanza di visibilità x5** per mostri, NPC e oggetti, per ridurre il pop-in.
+- **Animazioni fluide dei mostri lontani**, che nel gioco originale vengono aggiornate a scatti.
+- **60 fps nelle battaglie a velocità x2.**
+- **Passaggi di dettaglio della mappa più gradevoli**, con i tile migliori mantenuti un po' più a lungo.
+- **Più memoria per i modelli**, necessaria per gestire i mostri in più.
+
+Cosa sapere prima di usarla:
+
+- **Non usarla su 3DS.**
+- Serve la **modalità New 3DS** attiva nelle impostazioni di sistema dell'emulatore. Senza, i mostri restano alla distanza originale.
+- I 60 fps valgono **solo nelle battaglie a velocità x2**. Nel resto del gioco la logica è legata ai frame: sbloccarli renderebbe tutto due volte più veloce, quindi resta a 30 fps.
+- Con più mostri in scena l'emulatore lavora di più. Se il gioco rallenta, torna a exefs/code.ips.
+- È stata provata su Azahar per PC, non ancora su Android.
 
 ### Problemi comuni
 
@@ -140,6 +171,7 @@ Azahar_root
 - Copia prima main_it/ e poi update_it/, unendo le cartelle nella stessa romfs/.
 - Se il gioco resta in inglese, disattiva temporaneamente eventuali vecchie mod inglesi: una loro romfs può sovrascrivere i file italiani.
 - Se la traduzione funziona ma i nomi restano troncati, controlla che code.ips sia dentro exefs/ della mod principale.
+- Se la versione enhanced sembra non avere effetto, controlla di averla rinominata code.ips e che la modalità New 3DS sia attiva.
 
 ---
 
@@ -159,7 +191,7 @@ Azahar_root
 2. Per la sola sostituzione dei file del RomFS, quando richiesto seleziona **No** per non decomprimere il code.bin.
 3. Vai nella cartella ExtractedRomFS/data.
 4. Per il gioco principale copia lì dentro il contenuto di main_it/; ripeti per l'update usando update_it/.
-5. Se vuoi includere anche la patch tecnica, estrai l'ExeFS dell'update, decomprimi il suo .code/code.bin e applica exefs/code.ips con un patcher IPS. Non applicare questa patch al codice della versione principale.
+5. Se vuoi includere anche la patch tecnica, estrai l'ExeFS dell'update, decomprimi il suo .code/code.bin e applica exefs/code.ips con un patcher IPS. Non applicare questa patch al codice della versione principale. Usa exefs/code_enhanced.ips al suo posto solo se la ROM è destinata a un emulatore.
 6. Torna a HackingToolkit3DS e scegli **Rebuild** per il gioco e per l'aggiornamento.
 
 🎮 Ora puoi caricare la ROM patchata e goderti il gioco in italiano!
@@ -176,7 +208,7 @@ Il progetto è un plugin 3GX per DQMJ3 e DQMJ3P che può sbloccare contenuti leg
 
 Il plugin è indipendente da questa traduzione e va scaricato dalla sua [pagina Releases](https://github.com/Anthcny144/DQMJ3P-unobtainable-content/releases). Per l'installazione e l'elenco completo dei contenuti sbloccabili seguire il [README ufficiale del plugin](https://github.com/Anthcny144/DQMJ3P-unobtainable-content#readme).
 
-> ⚠️ Questa traduzione include exefs/code.ips, quindi il codice dell'update viene modificato. Il progetto inglese ha verificato che gli indirizzi usati dal plugin non risultano modificati e ritiene possibile la coesistenza, ma non è stata eseguita una prova completa con il plugin attivo. In caso di problemi, testare prima il plugin e la traduzione separatamente.
+> ⚠️ Questa traduzione include exefs/code.ips, quindi il codice dell'update viene modificato. Il progetto inglese ha verificato che gli indirizzi usati dal plugin non risultano modificati e ritiene possibile la coesistenza, ma non è stata eseguita una prova completa con il plugin attivo. La versione enhanced modifica altre parti del codice e non è stata provata con il plugin. In caso di problemi, testare prima il plugin e la traduzione separatamente.
 
 ## 📚 Guide e Risorse
 
