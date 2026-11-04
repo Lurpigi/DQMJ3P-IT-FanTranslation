@@ -350,7 +350,7 @@
   "ActionHelp327": "Avvolge l'area in una nebbia misteriosa\nproveniente dall'abisso che fa perdere PV o\nPM anziché recuperarli, a chiunque tenti di\nfarlo. (ART)",
   "ActionHelp328": "Avvolge l'area in vapori instabili che\npotenziano tutti, aumentando il limite\nmassimo di danni e cure a 9999. (ART)",
   "ActionHelp329": "Riduce l’ATT di tutti, alleati e nemici,\nall'inizio di ogni turno per i prossimi 5\nturni. (ART)",
-  "ActionHelp335": "Scambia il gruppo attivo di mostri con\nquello in riserva. I mostri non potranno più\nessere sostituiti manualmente per il resto\ndella battaglia. (ART)",
+  "ActionHelp335": "Scambia i mostri attivi dell’avversario con\nquelli in riserva e blocca le sostituzioni\nmanuali fino a fine battaglia. Si può usare\nuna sola volta per battaglia. (ART)",
   "ActionHelp336": "-",
   "ActionHelp337": "-",
   "ActionHelp338": "-",

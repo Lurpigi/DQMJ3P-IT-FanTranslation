@@ -162,7 +162,7 @@
   "MenuMessagePassingSpecialMaster": "Hai sconfitto un maestro speciale e potente e hai\nricevuto un mostro! Vuoi accettarlo?",
   "MenuMessagePassingReceiveConfirm": "Accetti il %ls da %ls?",
   "MenuMessagePassingMonsterConfirm": "Il %ls sembra voler diventare tuo alleato. Vuoi farlo\nentrare nella tua squadra?",
-  "MenuMessagePassingRemainMonster": "Ci sono mostri che non hai ancora reclamato. Se esci e\nsalvi adesso, scompariranno. Vuoi continuare?",
+  "MenuMessagePassingRemainMonster": "Ci sono mostri che non hai ancora reclamato. Se esci senza\nsalvare, scompariranno. Vuoi continuare?",
   "MenuMessagePassingGoAway": "%ls si è allontanato tristemente..",
   "MenuMessagePassingSaveMemoryNum": "Hai %ls memorie di battaglia.",
   "MenuMessagePassingDeleteMemoryConfirm": "Non c\u0027è spazio per salvare %ls. Vuoi eliminare una\nvecchia memoria di battaglia?",

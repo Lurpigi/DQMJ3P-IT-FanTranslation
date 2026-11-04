@@ -172,7 +172,7 @@
   "FindCommunity_FindSuccess": "Community trovata!",
   "MenuMessagePassingReceiveConfirm": "Accetti il %ls da %ls?",
   "MenuMessagePassingMonsterConfirm": "Il %ls sembra voler diventare tuo alleato. Vuoi farlo\nentrare nella tua squadra?",
-  "MenuMessagePassingRemainMonster": "Ci sono mostri che non hai ancora reclamato. Se esci e\nsalvi adesso, scompariranno. Vuoi continuare?",
+  "MenuMessagePassingRemainMonster": "Ci sono mostri che non hai ancora reclamato. Se esci senza\nsalvare, scompariranno. Vuoi continuare?",
   "MenuMessageShopLack": "Non hai abbastanza oro.",
   "MenuMessagePassingGoAway": "%ls si è allontanato tristemente..",
   "MenuMessagePassingAXGuide": "Premi A per cambiare i mostri della squadra e X per\nvedere gli incontri passati.",
