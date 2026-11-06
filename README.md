@@ -143,7 +143,7 @@ Azahar_root
 4. Estrai il contenuto della patch nella cartella romfs/: prima il contenuto della patch **principale** (main_it/), poi quello dell'**aggiornamento** (update_it/). Le cartelle vanno unite e i file dell'update devono sostituire quelli del main.
 5. Copia nella cartella exefs/ che hai creato **uno solo** dei due file della patch:
    - exefs/code.ips, la versione normale;
-   - exefs/code_enhanced.ips, rinominandolo code.ips, se il tuo PC o Android è potente (vedi [Versione Enhanced](#-versione-enhanced-solo-emulatore)).
+   - exefs/code_enhanced.ips, rinominandolo code.ips, se il tuo PC o Android non è una patata e/o se vuoi usare le funzioni online su Azahar (vedi [Versione Enhanced](#-versione-enhanced-solo-emulatore)).
 6. Avvia il gioco. La mod dovrebbe essere attiva! 🎉
 
 ⚠️ code.ips deve trovarsi nella cartella mod della title ID principale 00040000001ACB00, anche se il codice corretto appartiene all'update 0004000E001ACB00. Non inserirlo nella cartella della title ID dell'update.
