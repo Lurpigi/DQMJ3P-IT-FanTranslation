@@ -1,4 +1,4 @@
-"""Genera exefs/code_enhanced.ips: exefs/code.ips + miglioramenti solo per emulatore.
+"""Genera exefs/code_enhanced.ips: exefs/code.ips + miglioramenti e fix Azahar.
 
 Il codice è quello dell'update 1.3 (code.bin decompresso, caricato a 0x100000).
 Le patch aggiunte sono descritte in PATCHES; quelle che servono più istruzioni di
@@ -32,6 +32,11 @@ FADE_SCALE = 5.0
 # ha già n3ds_mode = 1, quindi su New 3DS ha 124 MB a disposizione: qui ne chiede di più.
 DEVICE_HEAP = 0x4700000
 DEVICE_HEAP_ORIGINAL = 0x2700000
+
+# Fix HTTP di DQMJ3P Online (re/tools/make_url_patch.py, opzione --azahar).
+# La patch normale contiene già il collegamento ai server; questi fix servono
+# solo nell'emulatore per SIL e l'invio dei replay G-Cup.
+UPLOAD_SIZE_CAVE = 0x7B9B60
 
 # Oltre questa soglia il gruppo di mostri viene distrutto, quindi deve crescere insieme
 # alla dissolvenza: gli stub in build_cave() la moltiplicano per 5 come FADE_SCALE, ma solo
@@ -150,6 +155,18 @@ def build_patches():
         # Scelta del livello dei tile LOD nelle celle miste di VP.lod (FUN_006eca08).
         (0x6ECB4C, [branch(0x6ECB4C, lod, link=True)], [0xEE200A00]),
         (CAVE, cave, [0] * len(cave)),
+        # POST vuoti: forza SetLazyPostDataSetting e invia un byte nullo,
+        # riconosciuto come corpo vuoto dal server SIL.
+        (0x603E88, [0xE320F000], [0x03A09000]),
+        (0x603E8C, [0xE320F000], [0x0A00000E]),
+        (0x7D5F8C, [0, 0x7D5F8C, 0, 1], [0, 0, 0, 0]),
+        # Buffer degli header a 4 KiB: Azahar riporta male la dimensione
+        # nella chiamata di prova, impedendo di leggere X-Sil-Digest.
+        (0x604290, [0xE3A00A01], [0xE3100102]),
+        (0x604294, [0xE5840014], [0x1A000020]),
+        # Upload in un solo blocco: evita che Azahar riordini i pezzi del replay.
+        (0x4AA3B4, [branch(0x4AA3B4, UPLOAD_SIZE_CAVE, link=True)], [0xE5951018]),
+        (UPLOAD_SIZE_CAVE, [0xE5951020, 0xE2811901, 0xE12FFF1E], [0, 0, 0]),
     ]
 
 
