@@ -390,7 +390,7 @@
   "ActionHelp327": "Avvolge l'area in una nebbia misteriosa\nproveniente dall'abisso che fa perdere PV o\nPM anziché recuperarli, a chiunque tenti di\nfarlo. (ART)",
   "ActionHelp333": "Contrattacca qualsiasi mostro, alleato o\nnemico che tenti di usare mosse che\nconcludono il turno come Stop Show, con un\ncolpo mortale. (ART)",
   "ActionHelp334": "Riduce del 90% i danni ricevuti.\nUtilizzabile una sola volta per battaglia.\n(ART)",
-  "ActionHelp335": "Scambia il gruppo attivo di mostri con\nquello in riserva. I mostri non potranno più\nessere sostituiti manualmente per il resto\ndella battaglia. (ART)",
+  "ActionHelp335": "Scambia i mostri attivi dell’avversario con\nquelli in riserva e blocca le sostituzioni\nmanuali fino a fine battaglia. Si può usare\nuna sola volta per battaglia. (ART)",
   "ActionHelp336": "-",
   "ActionHelp337": "-",
   "ActionHelp343": "-",

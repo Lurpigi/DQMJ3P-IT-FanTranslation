@@ -57,9 +57,11 @@ jobs:
           mkdir -p "$package/update_it/data/Font"
           cp it/Font/break_font_L.bffnt "$package/update_it/data/Font/"
           cp exefs/code.ips "$package/exefs/code.ips"
+          cp exefs/code_enhanced.ips "$package/exefs/code_enhanced.ips"
           cp README.md "$package/"
 
           test -s "$package/exefs/code.ips"
+          test -s "$package/exefs/code_enhanced.ips"
           test -s "$package/main_it/data/Font/break_font_L.bffnt"
           test -s "$package/update_it/data/Font/break_font_L.bffnt"
           test -d "$package/main_it/data/Message"
