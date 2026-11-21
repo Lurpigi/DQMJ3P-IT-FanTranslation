@@ -22,6 +22,7 @@ Questo repository è dedicato allo sviluppo di una traduzione amatoriale in ital
 Link al video Tutorial su [YouTube](https://youtu.be/1YdTg-ZxD-M)
 
 ### È disponibile anche la traduzione del gioco precedente, _Dragon Quest Monsters: Joker 2 Professional_: [DQMJ2P-IT-FanTranslation](https://github.com/Lurpigi/DQMJ2P-IT-FanTranslation)
+### È disponibile anche il mio personale [Randomizer](https://github.com/Lurpigi/DQMJ3P-Randomizer)
 
 ## 🆕 Novità
 
@@ -38,11 +39,11 @@ Con questi IPS serve un account Pretendo per il login di sistema, anche per le f
 
 ### 16/10/26 - Fix dalla patch inglese v2.21
 
-Questa versione include una patch migrata dal progetto GitHub [DQMJ3P-english-fixed](https://github.com/Akoi89/DQMJ3P-english-fixed):
+Questa versione include una patch migrata dal progetto GitHub di **Akoi89** [DQMJ3P-english-fixed](https://github.com/Akoi89/DQMJ3P-english-fixed), che ringrazio infinitamente per avermi aiutato personalmente a portare la sua modifica anche per questa versione italiana
 
 - la tastiera dei nomi apre direttamente la scheda alfabetica latina;
 - alcuni buffer per nomi di mostri, abilità e azioni sono più grandi;
-- diminuiscono i nomi troncati nei menu, nella Biblioteca e durante le battaglie;
+- diminuiscono i nomi troncati nei menu, nella Libreria e durante le battaglie;
 - vengono corrette alcune condizioni che potevano causare crash o blocchi.
 - i nomi lunghi di alcuni boss usano forme brevi in battaglia, entro il limite di 11 caratteri;
 
@@ -146,7 +147,7 @@ Azahar_root
    - exefs/code_enhanced.ips, rinominandolo code.ips, se il tuo PC o Android non è una patata e/o se vuoi usare le funzioni online su Azahar (vedi [Versione Enhanced](#-versione-enhanced-solo-emulatore)).
 6. Avvia il gioco. La mod dovrebbe essere attiva! 🎉
 
-⚠️ code.ips deve trovarsi nella cartella mod della title ID principale 00040000001ACB00, anche se il codice corretto appartiene all'update 0004000E001ACB00. Non inserirlo nella cartella della title ID dell'update.
+⚠️ code.ips deve trovarsi nella cartella mod della title ID principale 00040000001ACB00. Non inserirlo nella cartella della title ID dell'update.
 
 ### ⚡ Versione Enhanced (solo emulatore)
 

@@ -8,8 +8,6 @@ on:
       - "it/**"
       - "update/it/**"
       - "exefs/**"
-      - "README.md"
-      - ".github/workflows/release.yml"
   workflow_dispatch:
 
 jobs:
