@@ -265,11 +265,14 @@ Il plugin è indipendente da questa traduzione e va scaricato dalla sua [pagina 
 - Per guide specifiche sul gioco, consulta la [Wiki del progetto](https://github.com/Lurpigi/DQMJ3P-IT-FanTranslation/wiki).
 - [DQMJ3P Online: server sostitutivi e guida alla configurazione](https://github.com/Lurpigi/DQMJ3P-Online)
 - [Plugin DQMJ3P Unobtainable Content di Anthcny](https://github.com/Anthcny144/DQMJ3P-unobtainable-content)
+- [DQMJ3P Custom Monster Synthesis di Enignmeman](https://github.com/Enignmeman/DQMJ3P-Custom-monster-synthesis): sintesi personalizzate per ottenere mostri altrimenti non ottenibili.
 - [DQMJ3P English Fixed di Akoi89](https://github.com/Akoi89/DQMJ3P-english-fixed)
 
 ## 🙏 Ringraziamenti
 
 Grazie ad **Anthcny** per il plugin [DQMJ3P-unobtainable-content](https://github.com/Anthcny144/DQMJ3P-unobtainable-content), che permette di recuperare contenuti legati a funzioni online non più disponibili.
+
+Grazie anche a **[Enignmeman](https://github.com/Enignmeman)**, autore di [DQMJ3P Custom Monster Synthesis](https://github.com/Enignmeman/DQMJ3P-Custom-monster-synthesis), per l'aiuto nello sviluppo del [randomizer](https://github.com/Lurpigi/DQMJ3P-Randomizer).
 
 Un ringraziamento anche ad **Akoi89** e ai collaboratori di DQMJ3P English Fixed per le analisi tecniche, ad **oho** per la guida alla preparazione dei CIA, al Joker 3 Translation Team e a tutte le persone che hanno testato e migliorato i progetti della comunità.
 
